@@ -1,0 +1,6312 @@
+{
+  "files": {
+    "all.json": "54d674eb4b80335e703ba0639a2d810566b5159f4e760ad3a93185aa044f137f",
+    "trial_cloud_profiles.py": "4e1614e36bd6a6d19753c611c8dcaafe6609d0c70a303f0b9de2f3e05feccf13",
+    "trial_candidate_region.py": "0b36dd60eec10ef3ba24486f8b68d3b162199212c3e4c4ec1616d0e7fde137b5",
+    "review_marked_clouds.py": "cc1a75dd13aa55729ebfecf32151ba2652a5a8264b8de4ffab001545369ebf19",
+    "course_evaluate.py": "f133b490fb557b8539b74531593ce464c9cb61a0e0517b7cdd7674dce826e371"
+  },
+  "rows": [
+    {
+      "tire": "G6A4F54426",
+      "rank": 1,
+      "raw_xy": [
+        3723,
+        3598
+      ],
+      "flat_xy": [
+        3021.5,
+        3597.5
+      ],
+      "selected_xyxy": [
+        3723,
+        3598,
+        3747,
+        3622
+      ],
+      "p95_mm": 0.680011142805705,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6398378486285845,
+      "col_step_p99_mm": 0.22213554295915486,
+      "max_step_p99_mm": 0.6398378486285845,
+      "count_over_08": 7,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 2,
+      "raw_xy": [
+        3076,
+        6386
+      ],
+      "flat_xy": [
+        2289.5,
+        6385.5
+      ],
+      "selected_xyxy": [
+        3055,
+        6386,
+        3079,
+        6410
+      ],
+      "p95_mm": 1.2646596202484388,
+      "missing_pct": 1.1199999999999999,
+      "missing": 7,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 2,
+      "row_step_p99_mm": 1.0749007372388735,
+      "col_step_p99_mm": 1.251721748452011,
+      "max_step_p99_mm": 1.251721748452011,
+      "count_over_08": 61,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 3,
+      "raw_xy": [
+        2507,
+        974
+      ],
+      "flat_xy": [
+        1649.5,
+        973.5
+      ],
+      "selected_xyxy": [
+        2495,
+        952,
+        2519,
+        976
+      ],
+      "p95_mm": 1.3171617350467613,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42736420546270865,
+      "col_step_p99_mm": 0.23256434713561133,
+      "max_step_p99_mm": 0.42736420546270865,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 4,
+      "raw_xy": [
+        3495,
+        3602
+      ],
+      "flat_xy": [
+        2769.5,
+        3601.5
+      ],
+      "selected_xyxy": [
+        3471,
+        3601,
+        3495,
+        3625
+      ],
+      "p95_mm": 0.7614166974079605,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6298062253433827,
+      "col_step_p99_mm": 0.16050147327444278,
+      "max_step_p99_mm": 0.6298062253433827,
+      "count_over_08": 5,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 5,
+      "raw_xy": [
+        2935,
+        3154
+      ],
+      "flat_xy": [
+        2125.5,
+        3153.5
+      ],
+      "selected_xyxy": [
+        2914,
+        3144,
+        2938,
+        3168
+      ],
+      "p95_mm": 0.6269393966944193,
+      "missing_pct": 0.96,
+      "missing": 6,
+      "largest_hole": 6,
+      "hole_width": 6,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.8392213311837448,
+      "col_step_p99_mm": 0.4121593636984115,
+      "max_step_p99_mm": 0.8392213311837448,
+      "count_over_08": 19,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 6,
+      "raw_xy": [
+        2784,
+        3934
+      ],
+      "flat_xy": [
+        1953.5,
+        3933.5
+      ],
+      "selected_xyxy": [
+        2776,
+        3910,
+        2800,
+        3934
+      ],
+      "p95_mm": 0.8169152391743408,
+      "missing_pct": 0.48,
+      "missing": 3,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.0433834719752049,
+      "col_step_p99_mm": 0.25705660291199617,
+      "max_step_p99_mm": 1.0433834719752049,
+      "count_over_08": 27,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 7,
+      "raw_xy": [
+        3158,
+        2350
+      ],
+      "flat_xy": [
+        2385.5,
+        2349.5
+      ],
+      "selected_xyxy": [
+        3144,
+        2337,
+        3168,
+        2361
+      ],
+      "p95_mm": 0.1995831548317056,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21076958618242186,
+      "col_step_p99_mm": 0.22294829061231838,
+      "max_step_p99_mm": 0.22294829061231838,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 8,
+      "raw_xy": [
+        2907,
+        1934
+      ],
+      "flat_xy": [
+        2093.5,
+        1933.5
+      ],
+      "selected_xyxy": [
+        2907,
+        1910,
+        2931,
+        1934
+      ],
+      "p95_mm": 0.7539637929741134,
+      "missing_pct": 0.96,
+      "missing": 6,
+      "largest_hole": 3,
+      "hole_width": 3,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.4453278434155913,
+      "col_step_p99_mm": 0.21613968527587887,
+      "max_step_p99_mm": 0.4453278434155913,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 9,
+      "raw_xy": [
+        3658,
+        6430
+      ],
+      "flat_xy": [
+        2949.5,
+        6429.5
+      ],
+      "selected_xyxy": [
+        3658,
+        6414,
+        3682,
+        6438
+      ],
+      "p95_mm": 0.7716535159110435,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6097800889568253,
+      "col_step_p99_mm": 0.2148889305022729,
+      "max_step_p99_mm": 0.6097800889568253,
+      "count_over_08": 4,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 10,
+      "raw_xy": [
+        2990,
+        6326
+      ],
+      "flat_xy": [
+        2189.5,
+        6325.5
+      ],
+      "selected_xyxy": [
+        2966,
+        6324,
+        2990,
+        6348
+      ],
+      "p95_mm": 0.5152903846076555,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6268732026391072,
+      "col_step_p99_mm": 0.21207024335403277,
+      "max_step_p99_mm": 0.6268732026391072,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 11,
+      "raw_xy": [
+        3857,
+        6430
+      ],
+      "flat_xy": [
+        3169.5,
+        6429.5
+      ],
+      "selected_xyxy": [
+        3857,
+        6414,
+        3881,
+        6438
+      ],
+      "p95_mm": 0.6875763752404281,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6291402794221103,
+      "col_step_p99_mm": 0.23261430600399421,
+      "max_step_p99_mm": 0.6291402794221103,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 12,
+      "raw_xy": [
+        2666,
+        6430
+      ],
+      "flat_xy": [
+        1821.5,
+        6429.5
+      ],
+      "selected_xyxy": [
+        2661,
+        6414,
+        2685,
+        6438
+      ],
+      "p95_mm": 0.7385868131593725,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4196253480772003,
+      "col_step_p99_mm": 0.23633725302729913,
+      "max_step_p99_mm": 0.4196253480772003,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 13,
+      "raw_xy": [
+        3633,
+        3598
+      ],
+      "flat_xy": [
+        2921.5,
+        3597.5
+      ],
+      "selected_xyxy": [
+        3633,
+        3588,
+        3657,
+        3612
+      ],
+      "p95_mm": 0.43012315878802954,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.672095393003651,
+      "col_step_p99_mm": 0.214469407988351,
+      "max_step_p99_mm": 1.672095393003651,
+      "count_over_08": 25,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 14,
+      "raw_xy": [
+        3632,
+        6
+      ],
+      "flat_xy": [
+        2921.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        3632,
+        0,
+        3656,
+        24
+      ],
+      "p95_mm": 0.5990584543431111,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6391690769273137,
+      "col_step_p99_mm": 0.2222523917671282,
+      "max_step_p99_mm": 0.6391690769273137,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 15,
+      "raw_xy": [
+        3179,
+        5326
+      ],
+      "flat_xy": [
+        2409.5,
+        5325.5
+      ],
+      "selected_xyxy": [
+        3173,
+        5326,
+        3197,
+        5350
+      ],
+      "p95_mm": 0.2509834264455433,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21582982843930837,
+      "col_step_p99_mm": 0.22876871827485304,
+      "max_step_p99_mm": 0.22876871827485304,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 16,
+      "raw_xy": [
+        994,
+        6430
+      ],
+      "flat_xy": [
+        145.5,
+        6429.5
+      ],
+      "selected_xyxy": [
+        983,
+        6414,
+        1007,
+        6438
+      ],
+      "p95_mm": 0.49440784155350814,
+      "missing_pct": 1.76,
+      "missing": 11,
+      "largest_hole": 11,
+      "hole_width": 9,
+      "hole_height": 2,
+      "row_step_p99_mm": 0.4135995321522978,
+      "col_step_p99_mm": 0.20956641088446418,
+      "max_step_p99_mm": 0.4135995321522978,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 17,
+      "raw_xy": [
+        3186,
+        910
+      ],
+      "flat_xy": [
+        2417.5,
+        909.5
+      ],
+      "selected_xyxy": [
+        3172,
+        893,
+        3196,
+        917
+      ],
+      "p95_mm": 0.24564677556476766,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21677620012573484,
+      "col_step_p99_mm": 0.22929048913269653,
+      "max_step_p99_mm": 0.22929048913269653,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 18,
+      "raw_xy": [
+        4056,
+        6
+      ],
+      "flat_xy": [
+        3385.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        4053,
+        0,
+        4077,
+        24
+      ],
+      "p95_mm": 0.7817477104197109,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6219534884759566,
+      "col_step_p99_mm": 0.2331795109072894,
+      "max_step_p99_mm": 0.6219534884759566,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 19,
+      "raw_xy": [
+        3210,
+        2002
+      ],
+      "flat_xy": [
+        2445.5,
+        2001.5
+      ],
+      "selected_xyxy": [
+        3186,
+        1983,
+        3210,
+        2007
+      ],
+      "p95_mm": 0.1581059434265228,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.215800222181346,
+      "col_step_p99_mm": 0.22825960103672044,
+      "max_step_p99_mm": 0.22825960103672044,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54426",
+      "rank": 20,
+      "raw_xy": [
+        3278,
+        6298
+      ],
+      "flat_xy": [
+        2529.5,
+        6297.5
+      ],
+      "selected_xyxy": [
+        3277,
+        6297,
+        3301,
+        6321
+      ],
+      "p95_mm": 0.4625276131871115,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 24.47639282840552,
+      "col_step_p99_mm": 0.23955561196576922,
+      "max_step_p99_mm": 24.47639282840552,
+      "count_over_08": 21,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 1,
+      "raw_xy": [
+        2792,
+        6230
+      ],
+      "flat_xy": [
+        1933.5,
+        6229.5
+      ],
+      "selected_xyxy": [
+        2792,
+        6206,
+        2816,
+        6230
+      ],
+      "p95_mm": 0.7475744842614225,
+      "missing_pct": 0.48,
+      "missing": 3,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6152031984951379,
+      "col_step_p99_mm": 0.23354455344971825,
+      "max_step_p99_mm": 0.6152031984951379,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 2,
+      "raw_xy": [
+        2649,
+        5550
+      ],
+      "flat_xy": [
+        1773.5,
+        5549.5
+      ],
+      "selected_xyxy": [
+        2631,
+        5537,
+        2655,
+        5561
+      ],
+      "p95_mm": 0.7210436558691407,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.0426189275269044,
+      "col_step_p99_mm": 0.5936952185010071,
+      "max_step_p99_mm": 1.0426189275269044,
+      "count_over_08": 39,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 3,
+      "raw_xy": [
+        3680,
+        1870
+      ],
+      "flat_xy": [
+        2957.5,
+        1869.5
+      ],
+      "selected_xyxy": [
+        3680,
+        1850,
+        3704,
+        1874
+      ],
+      "p95_mm": 1.0213263847156269,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.40667713084132456,
+      "col_step_p99_mm": 0.1970614152764916,
+      "max_step_p99_mm": 0.40667713084132456,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 4,
+      "raw_xy": [
+        2053,
+        3058
+      ],
+      "flat_xy": [
+        1133.5,
+        3057.5
+      ],
+      "selected_xyxy": [
+        2047,
+        3042,
+        2071,
+        3066
+      ],
+      "p95_mm": 0.4890003240362262,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.41745068061989543,
+      "col_step_p99_mm": 0.23130922502900034,
+      "max_step_p99_mm": 0.41745068061989543,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 5,
+      "raw_xy": [
+        1799,
+        2450
+      ],
+      "flat_xy": [
+        877.5,
+        2449.5
+      ],
+      "selected_xyxy": [
+        1775,
+        2446,
+        1799,
+        2470
+      ],
+      "p95_mm": 0.7217254996887049,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4158142542404916,
+      "col_step_p99_mm": 0.2280299614840996,
+      "max_step_p99_mm": 0.4158142542404916,
+      "count_over_08": 5,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 6,
+      "raw_xy": [
+        1273,
+        5934
+      ],
+      "flat_xy": [
+        365.5,
+        5933.5
+      ],
+      "selected_xyxy": [
+        1266,
+        5910,
+        1290,
+        5934
+      ],
+      "p95_mm": 1.6474156625167127,
+      "missing_pct": 25.28,
+      "missing": 158,
+      "largest_hole": 126,
+      "hole_width": 24,
+      "hole_height": 6,
+      "row_step_p99_mm": 1.843568250244897,
+      "col_step_p99_mm": 0.14876485327473715,
+      "max_step_p99_mm": 1.843568250244897,
+      "count_over_08": 27,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 7,
+      "raw_xy": [
+        1664,
+        3582
+      ],
+      "flat_xy": [
+        745.5,
+        3581.5
+      ],
+      "selected_xyxy": [
+        1661,
+        3558,
+        1685,
+        3582
+      ],
+      "p95_mm": 0.6718688367260939,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.406988116144297,
+      "col_step_p99_mm": 0.24424924238885978,
+      "max_step_p99_mm": 0.406988116144297,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 8,
+      "raw_xy": [
+        2301,
+        2418
+      ],
+      "flat_xy": [
+        1393.5,
+        2417.5
+      ],
+      "selected_xyxy": [
+        2284,
+        2399,
+        2308,
+        2423
+      ],
+      "p95_mm": 0.6488995377548802,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4210978801826411,
+      "col_step_p99_mm": 0.23149230894991973,
+      "max_step_p99_mm": 0.4210978801826411,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 9,
+      "raw_xy": [
+        3070,
+        434
+      ],
+      "flat_xy": [
+        2257.5,
+        433.5
+      ],
+      "selected_xyxy": [
+        3063,
+        423,
+        3087,
+        447
+      ],
+      "p95_mm": 0.23882442468432077,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6364175909144711,
+      "col_step_p99_mm": 0.8301968798559893,
+      "max_step_p99_mm": 0.8301968798559893,
+      "count_over_08": 13,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 10,
+      "raw_xy": [
+        1799,
+        2318
+      ],
+      "flat_xy": [
+        877.5,
+        2317.5
+      ],
+      "selected_xyxy": [
+        1787,
+        2303,
+        1811,
+        2327
+      ],
+      "p95_mm": 0.5377333688701867,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4061168454317282,
+      "col_step_p99_mm": 0.22587962002745882,
+      "max_step_p99_mm": 0.4061168454317282,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 11,
+      "raw_xy": [
+        3175,
+        4022
+      ],
+      "flat_xy": [
+        2381.5,
+        4021.5
+      ],
+      "selected_xyxy": [
+        3156,
+        4007,
+        3180,
+        4031
+      ],
+      "p95_mm": 1.134004280163931,
+      "missing_pct": 2.88,
+      "missing": 18,
+      "largest_hole": 12,
+      "hole_width": 6,
+      "hole_height": 3,
+      "row_step_p99_mm": 1.3227357835584757,
+      "col_step_p99_mm": 1.0635773394442722,
+      "max_step_p99_mm": 1.3227357835584757,
+      "count_over_08": 49,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 12,
+      "raw_xy": [
+        1560,
+        5290
+      ],
+      "flat_xy": [
+        645.5,
+        5289.5
+      ],
+      "selected_xyxy": [
+        1549,
+        5282,
+        1573,
+        5306
+      ],
+      "p95_mm": 1.5232130458539856,
+      "missing_pct": 12.64,
+      "missing": 79,
+      "largest_hole": 78,
+      "hole_width": 20,
+      "hole_height": 7,
+      "row_step_p99_mm": 1.233474101936251,
+      "col_step_p99_mm": 0.5167149698969222,
+      "max_step_p99_mm": 1.233474101936251,
+      "count_over_08": 37,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 13,
+      "raw_xy": [
+        2986,
+        6034
+      ],
+      "flat_xy": [
+        2157.5,
+        6033.5
+      ],
+      "selected_xyxy": [
+        2965,
+        6028,
+        2989,
+        6052
+      ],
+      "p95_mm": 0.518171714146669,
+      "missing_pct": 1.28,
+      "missing": 8,
+      "largest_hole": 8,
+      "hole_width": 8,
+      "hole_height": 2,
+      "row_step_p99_mm": 0.8309397650194882,
+      "col_step_p99_mm": 0.2122969167132635,
+      "max_step_p99_mm": 0.8309397650194882,
+      "count_over_08": 10,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 14,
+      "raw_xy": [
+        3030,
+        6
+      ],
+      "flat_xy": [
+        2209.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        3025,
+        0,
+        3049,
+        24
+      ],
+      "p95_mm": 0.6192072700608208,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4188814955633886,
+      "col_step_p99_mm": 0.2151514618473955,
+      "max_step_p99_mm": 0.4188814955633886,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 15,
+      "raw_xy": [
+        3016,
+        1714
+      ],
+      "flat_xy": [
+        2193.5,
+        1713.5
+      ],
+      "selected_xyxy": [
+        2992,
+        1692,
+        3016,
+        1716
+      ],
+      "p95_mm": 0.4032910415444547,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4162403348245094,
+      "col_step_p99_mm": 0.21202239245519763,
+      "max_step_p99_mm": 0.4162403348245094,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 16,
+      "raw_xy": [
+        3860,
+        6430
+      ],
+      "flat_xy": [
+        3153.5,
+        6429.5
+      ],
+      "selected_xyxy": [
+        3836,
+        6414,
+        3860,
+        6438
+      ],
+      "p95_mm": 0.687821432909368,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6265529909553907,
+      "col_step_p99_mm": 0.22744382789746453,
+      "max_step_p99_mm": 0.6265529909553907,
+      "count_over_08": 5,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 17,
+      "raw_xy": [
+        5146,
+        50
+      ],
+      "flat_xy": [
+        4433.5,
+        49.5
+      ],
+      "selected_xyxy": [
+        5142,
+        43,
+        5166,
+        67
+      ],
+      "p95_mm": 0.6891810539999157,
+      "missing_pct": 11.360000000000001,
+      "missing": 71,
+      "largest_hole": 71,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 0.41371605779327325,
+      "col_step_p99_mm": 0.1673429872923515,
+      "max_step_p99_mm": 0.41371605779327325,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 18,
+      "raw_xy": [
+        3121,
+        206
+      ],
+      "flat_xy": [
+        2317.5,
+        205.5
+      ],
+      "selected_xyxy": [
+        3108,
+        205,
+        3132,
+        229
+      ],
+      "p95_mm": 0.19322136083657424,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21060005516048919,
+      "col_step_p99_mm": 0.22033520590274974,
+      "max_step_p99_mm": 0.22033520590274974,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 19,
+      "raw_xy": [
+        3955,
+        6
+      ],
+      "flat_xy": [
+        3257.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        3941,
+        0,
+        3965,
+        24
+      ],
+      "p95_mm": 0.7291474016713266,
+      "missing_pct": 0.64,
+      "missing": 4,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.8315569661540024,
+      "col_step_p99_mm": 0.23340529168092986,
+      "max_step_p99_mm": 0.8315569661540024,
+      "count_over_08": 11,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6A4F54444",
+      "rank": 20,
+      "raw_xy": [
+        3043,
+        6298
+      ],
+      "flat_xy": [
+        2225.5,
+        6297.5
+      ],
+      "selected_xyxy": [
+        3032,
+        6296,
+        3056,
+        6320
+      ],
+      "p95_mm": 0.34949204307775683,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 47.46914184010598,
+      "col_step_p99_mm": 0.21298540774687866,
+      "max_step_p99_mm": 47.46914184010598,
+      "count_over_08": 13,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 1,
+      "raw_xy": [
+        1304,
+        2446
+      ],
+      "flat_xy": [
+        241.5,
+        2445.5
+      ],
+      "selected_xyxy": [
+        1298,
+        2446,
+        1322,
+        2470
+      ],
+      "p95_mm": 1.0949188189356263,
+      "missing_pct": 11.68,
+      "missing": 73,
+      "largest_hole": 55,
+      "hole_width": 16,
+      "hole_height": 7,
+      "row_step_p99_mm": 1.9859022177754833,
+      "col_step_p99_mm": 1.6348326508263438,
+      "max_step_p99_mm": 1.9859022177754833,
+      "count_over_08": 44,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 2,
+      "raw_xy": [
+        1919,
+        1458
+      ],
+      "flat_xy": [
+        845.5,
+        1457.5
+      ],
+      "selected_xyxy": [
+        1917,
+        1458,
+        1941,
+        1482
+      ],
+      "p95_mm": 1.5922833748426513,
+      "missing_pct": 14.719999999999999,
+      "missing": 92,
+      "largest_hole": 92,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 1.2095479381149932,
+      "col_step_p99_mm": 0.2370035016654282,
+      "max_step_p99_mm": 1.2095479381149932,
+      "count_over_08": 29,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 3,
+      "raw_xy": [
+        1985,
+        2418
+      ],
+      "flat_xy": [
+        913.5,
+        2417.5
+      ],
+      "selected_xyxy": [
+        1980,
+        2399,
+        2004,
+        2423
+      ],
+      "p95_mm": 1.398864488977301,
+      "missing_pct": 10.72,
+      "missing": 67,
+      "largest_hole": 67,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 1.010568326700382,
+      "col_step_p99_mm": 0.7258785191206685,
+      "max_step_p99_mm": 1.010568326700382,
+      "count_over_08": 25,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 4,
+      "raw_xy": [
+        1892,
+        2706
+      ],
+      "flat_xy": [
+        817.5,
+        2705.5
+      ],
+      "selected_xyxy": [
+        1892,
+        2704,
+        1916,
+        2728
+      ],
+      "p95_mm": 1.5516646588850336,
+      "missing_pct": 10.56,
+      "missing": 66,
+      "largest_hole": 66,
+      "hole_width": 17,
+      "hole_height": 6,
+      "row_step_p99_mm": 1.2112990495300777,
+      "col_step_p99_mm": 1.0522995072816825,
+      "max_step_p99_mm": 1.2112990495300777,
+      "count_over_08": 37,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 5,
+      "raw_xy": [
+        1922,
+        946
+      ],
+      "flat_xy": [
+        849.5,
+        945.5
+      ],
+      "selected_xyxy": [
+        1907,
+        946,
+        1931,
+        970
+      ],
+      "p95_mm": 0.5565193300260433,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.40410694948241344,
+      "col_step_p99_mm": 0.16687086824135774,
+      "max_step_p99_mm": 0.40410694948241344,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 6,
+      "raw_xy": [
+        2083,
+        2894
+      ],
+      "flat_xy": [
+        1009.5,
+        2893.5
+      ],
+      "selected_xyxy": [
+        2059,
+        2894,
+        2083,
+        2918
+      ],
+      "p95_mm": 0.5981008017583349,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4062726927935975,
+      "col_step_p99_mm": 0.22526104572604766,
+      "max_step_p99_mm": 0.4062726927935975,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 7,
+      "raw_xy": [
+        2089,
+        2406
+      ],
+      "flat_xy": [
+        1013.5,
+        2405.5
+      ],
+      "selected_xyxy": [
+        2081,
+        2382,
+        2105,
+        2406
+      ],
+      "p95_mm": 1.0431296727378991,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.2159046690577708,
+      "col_step_p99_mm": 0.43278210925960164,
+      "max_step_p99_mm": 1.2159046690577708,
+      "count_over_08": 20,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 8,
+      "raw_xy": [
+        2080,
+        1394
+      ],
+      "flat_xy": [
+        1005.5,
+        1393.5
+      ],
+      "selected_xyxy": [
+        2060,
+        1381,
+        2084,
+        1405
+      ],
+      "p95_mm": 1.2093361806271843,
+      "missing_pct": 0.48,
+      "missing": 3,
+      "largest_hole": 3,
+      "hole_width": 3,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.6209628148526338,
+      "col_step_p99_mm": 0.407904112532442,
+      "max_step_p99_mm": 1.6209628148526338,
+      "count_over_08": 23,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 9,
+      "raw_xy": [
+        3076,
+        974
+      ],
+      "flat_xy": [
+        2129.5,
+        973.5
+      ],
+      "selected_xyxy": [
+        3063,
+        958,
+        3087,
+        982
+      ],
+      "p95_mm": 1.1558553614278935,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.2548139117914248,
+      "col_step_p99_mm": 1.2660823892575213,
+      "max_step_p99_mm": 1.2660823892575213,
+      "count_over_08": 55,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 10,
+      "raw_xy": [
+        1889,
+        434
+      ],
+      "flat_xy": [
+        817.5,
+        433.5
+      ],
+      "selected_xyxy": [
+        1874,
+        434,
+        1898,
+        458
+      ],
+      "p95_mm": 0.5699074883911124,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4038783686558452,
+      "col_step_p99_mm": 0.1604017033781034,
+      "max_step_p99_mm": 0.4038783686558452,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 11,
+      "raw_xy": [
+        2892,
+        1490
+      ],
+      "flat_xy": [
+        1905.5,
+        1489.5
+      ],
+      "selected_xyxy": [
+        2886,
+        1481,
+        2910,
+        1505
+      ],
+      "p95_mm": 0.6389656983545163,
+      "missing_pct": 1.1199999999999999,
+      "missing": 7,
+      "largest_hole": 4,
+      "hole_width": 4,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.8665284002014775,
+      "col_step_p99_mm": 0.42636262286544296,
+      "max_step_p99_mm": 0.8665284002014775,
+      "count_over_08": 16,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 12,
+      "raw_xy": [
+        2882,
+        438
+      ],
+      "flat_xy": [
+        1893.5,
+        437.5
+      ],
+      "selected_xyxy": [
+        2880,
+        425,
+        2904,
+        449
+      ],
+      "p95_mm": 1.500825211174373,
+      "missing_pct": 10.24,
+      "missing": 64,
+      "largest_hole": 64,
+      "hole_width": 25,
+      "hole_height": 6,
+      "row_step_p99_mm": 1.2306279404391625,
+      "col_step_p99_mm": 0.2216495139159902,
+      "max_step_p99_mm": 1.2306279404391625,
+      "count_over_08": 29,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 13,
+      "raw_xy": [
+        3030,
+        3506
+      ],
+      "flat_xy": [
+        2073.5,
+        3505.5
+      ],
+      "selected_xyxy": [
+        3025,
+        3497,
+        3049,
+        3521
+      ],
+      "p95_mm": 1.0211489059671037,
+      "missing_pct": 0.96,
+      "missing": 6,
+      "largest_hole": 4,
+      "hole_width": 3,
+      "hole_height": 2,
+      "row_step_p99_mm": 1.046245653923005,
+      "col_step_p99_mm": 1.0472765989221113,
+      "max_step_p99_mm": 1.0472765989221113,
+      "count_over_08": 35,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 14,
+      "raw_xy": [
+        3351,
+        5358
+      ],
+      "flat_xy": [
+        2461.5,
+        5357.5
+      ],
+      "selected_xyxy": [
+        3334,
+        5353,
+        3358,
+        5377
+      ],
+      "p95_mm": 1.5290927055044237,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 2.5048491591143756,
+      "col_step_p99_mm": 1.4903185162823875,
+      "max_step_p99_mm": 2.5048491591143756,
+      "count_over_08": 58,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 15,
+      "raw_xy": [
+        2633,
+        6986
+      ],
+      "flat_xy": [
+        1617.5,
+        6985.5
+      ],
+      "selected_xyxy": [
+        2633,
+        6971,
+        2657,
+        6995
+      ],
+      "p95_mm": 1.2880922931643959,
+      "missing_pct": 12.959999999999999,
+      "missing": 81,
+      "largest_hole": 81,
+      "hole_width": 25,
+      "hole_height": 4,
+      "row_step_p99_mm": 1.4509632364802862,
+      "col_step_p99_mm": 0.24258561350381794,
+      "max_step_p99_mm": 1.4509632364802862,
+      "count_over_08": 26,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 16,
+      "raw_xy": [
+        3161,
+        826
+      ],
+      "flat_xy": [
+        2233.5,
+        825.5
+      ],
+      "selected_xyxy": [
+        3145,
+        817,
+        3169,
+        841
+      ],
+      "p95_mm": 0.9234512626494644,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.0462677850646684,
+      "col_step_p99_mm": 1.0662116434030338,
+      "max_step_p99_mm": 1.0662116434030338,
+      "count_over_08": 35,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 17,
+      "raw_xy": [
+        2808,
+        6062
+      ],
+      "flat_xy": [
+        1805.5,
+        6061.5
+      ],
+      "selected_xyxy": [
+        2808,
+        6038,
+        2832,
+        6062
+      ],
+      "p95_mm": 0.5469221033197044,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41933923734496514,
+      "col_step_p99_mm": 0.21593193291017074,
+      "max_step_p99_mm": 0.41933923734496514,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 18,
+      "raw_xy": [
+        3171,
+        1426
+      ],
+      "flat_xy": [
+        2245.5,
+        1425.5
+      ],
+      "selected_xyxy": [
+        3151,
+        1423,
+        3175,
+        1447
+      ],
+      "p95_mm": 0.6516968625843872,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.8372510366894267,
+      "col_step_p99_mm": 0.6524622676525214,
+      "max_step_p99_mm": 0.8372510366894267,
+      "count_over_08": 15,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 19,
+      "raw_xy": [
+        3798,
+        3762
+      ],
+      "flat_xy": [
+        2961.5,
+        3761.5
+      ],
+      "selected_xyxy": [
+        3785,
+        3762,
+        3809,
+        3786
+      ],
+      "p95_mm": 0.5587276538318691,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41408481929569957,
+      "col_step_p99_mm": 0.24421537946721286,
+      "max_step_p99_mm": 0.41408481929569957,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "rank": 20,
+      "raw_xy": [
+        1649,
+        5478
+      ],
+      "flat_xy": [
+        529.5,
+        5477.5
+      ],
+      "selected_xyxy": [
+        1633,
+        5457,
+        1657,
+        5481
+      ],
+      "p95_mm": 15.137518182420262,
+      "missing_pct": 0.96,
+      "missing": 6,
+      "largest_hole": 5,
+      "hole_width": 4,
+      "hole_height": 2,
+      "row_step_p99_mm": 15.300864463853289,
+      "col_step_p99_mm": 15.178061326115449,
+      "max_step_p99_mm": 15.300864463853289,
+      "count_over_08": 60,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 1,
+      "raw_xy": [
+        2861,
+        1486
+      ],
+      "flat_xy": [
+        1841.5,
+        1485.5
+      ],
+      "selected_xyxy": [
+        2847,
+        1476,
+        2871,
+        1500
+      ],
+      "p95_mm": 1.7300910986151454,
+      "missing_pct": 0.8,
+      "missing": 5,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.8772661752332613,
+      "col_step_p99_mm": 1.4700199951135462,
+      "max_step_p99_mm": 1.8772661752332613,
+      "count_over_08": 102,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 2,
+      "raw_xy": [
+        2944,
+        1458
+      ],
+      "flat_xy": [
+        1941.5,
+        1457.5
+      ],
+      "selected_xyxy": [
+        2920,
+        1450,
+        2944,
+        1474
+      ],
+      "p95_mm": 1.2079788841017252,
+      "missing_pct": 7.5200000000000005,
+      "missing": 47,
+      "largest_hole": 47,
+      "hole_width": 23,
+      "hole_height": 5,
+      "row_step_p99_mm": 1.8775642628910838,
+      "col_step_p99_mm": 0.21855724926405456,
+      "max_step_p99_mm": 1.8775642628910838,
+      "count_over_08": 32,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 3,
+      "raw_xy": [
+        2805,
+        6578
+      ],
+      "flat_xy": [
+        1773.5,
+        6577.5
+      ],
+      "selected_xyxy": [
+        2783,
+        6578,
+        2807,
+        6602
+      ],
+      "p95_mm": 0.6596959299273091,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6230722792690854,
+      "col_step_p99_mm": 0.22040025584537815,
+      "max_step_p99_mm": 0.6230722792690854,
+      "count_over_08": 8,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 4,
+      "raw_xy": [
+        2849,
+        5930
+      ],
+      "flat_xy": [
+        1825.5,
+        5929.5
+      ],
+      "selected_xyxy": [
+        2849,
+        5906,
+        2873,
+        5930
+      ],
+      "p95_mm": 0.6679345902028772,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6936490197863404,
+      "col_step_p99_mm": 0.2231484612969379,
+      "max_step_p99_mm": 0.6936490197863404,
+      "count_over_08": 7,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 5,
+      "raw_xy": [
+        2750,
+        5186
+      ],
+      "flat_xy": [
+        1709.5,
+        5185.5
+      ],
+      "selected_xyxy": [
+        2732,
+        5178,
+        2756,
+        5202
+      ],
+      "p95_mm": 0.6742466528229073,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6227976431598204,
+      "col_step_p99_mm": 0.2233095797339891,
+      "max_step_p99_mm": 0.6227976431598204,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 6,
+      "raw_xy": [
+        3412,
+        6194
+      ],
+      "flat_xy": [
+        2509.5,
+        6193.5
+      ],
+      "selected_xyxy": [
+        3398,
+        6194,
+        3422,
+        6218
+      ],
+      "p95_mm": 0.8473310416436789,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6219049579236045,
+      "col_step_p99_mm": 0.24128581177944697,
+      "max_step_p99_mm": 0.6219049579236045,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 7,
+      "raw_xy": [
+        2781,
+        6194
+      ],
+      "flat_xy": [
+        1745.5,
+        6193.5
+      ],
+      "selected_xyxy": [
+        2761,
+        6194,
+        2785,
+        6218
+      ],
+      "p95_mm": 0.860390555194494,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6223811933990673,
+      "col_step_p99_mm": 0.21952239490625786,
+      "max_step_p99_mm": 0.6223811933990673,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 8,
+      "raw_xy": [
+        3090,
+        1238
+      ],
+      "flat_xy": [
+        2121.5,
+        1237.5
+      ],
+      "selected_xyxy": [
+        3066,
+        1217,
+        3090,
+        1241
+      ],
+      "p95_mm": 0.2329728086619724,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6258254674770317,
+      "col_step_p99_mm": 0.2222341846111216,
+      "max_step_p99_mm": 0.6258254674770317,
+      "count_over_08": 2,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 9,
+      "raw_xy": [
+        3200,
+        494
+      ],
+      "flat_xy": [
+        2257.5,
+        493.5
+      ],
+      "selected_xyxy": [
+        3193,
+        470,
+        3217,
+        494
+      ],
+      "p95_mm": 0.7037655479501694,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.8367501811770711,
+      "col_step_p99_mm": 0.23501187729981127,
+      "max_step_p99_mm": 0.8367501811770711,
+      "count_over_08": 14,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 10,
+      "raw_xy": [
+        2229,
+        6162
+      ],
+      "flat_xy": [
+        1133.5,
+        6161.5
+      ],
+      "selected_xyxy": [
+        2205,
+        6162,
+        2229,
+        6186
+      ],
+      "p95_mm": 0.7571106688199165,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6022225255330766,
+      "col_step_p99_mm": 0.16988047906023093,
+      "max_step_p99_mm": 0.6022225255330766,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 11,
+      "raw_xy": [
+        2921,
+        6
+      ],
+      "flat_xy": [
+        1913.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        2917,
+        2,
+        2941,
+        26
+      ],
+      "p95_mm": 0.7436478870660721,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4188896399724372,
+      "col_step_p99_mm": 0.21981396972665038,
+      "max_step_p99_mm": 0.4188896399724372,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 12,
+      "raw_xy": [
+        3727,
+        6158
+      ],
+      "flat_xy": [
+        2861.5,
+        6157.5
+      ],
+      "selected_xyxy": [
+        3727,
+        6138,
+        3751,
+        6162
+      ],
+      "p95_mm": 0.5328894270123214,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6285748187220566,
+      "col_step_p99_mm": 0.2436841706614623,
+      "max_step_p99_mm": 0.6285748187220566,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 13,
+      "raw_xy": [
+        3135,
+        3330
+      ],
+      "flat_xy": [
+        2177.5,
+        3329.5
+      ],
+      "selected_xyxy": [
+        3113,
+        3325,
+        3137,
+        3349
+      ],
+      "p95_mm": 0.19469947883430797,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.0542028314851903,
+      "col_step_p99_mm": 1.236866187426937,
+      "max_step_p99_mm": 1.236866187426937,
+      "count_over_08": 27,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 14,
+      "raw_xy": [
+        2671,
+        6226
+      ],
+      "flat_xy": [
+        1617.5,
+        6225.5
+      ],
+      "selected_xyxy": [
+        2647,
+        6219,
+        2671,
+        6243
+      ],
+      "p95_mm": 0.6214851550026935,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4203880261562957,
+      "col_step_p99_mm": 0.23199100643459133,
+      "max_step_p99_mm": 0.4203880261562957,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 15,
+      "raw_xy": [
+        3756,
+        5422
+      ],
+      "flat_xy": [
+        2893.5,
+        5421.5
+      ],
+      "selected_xyxy": [
+        3756,
+        5398,
+        3780,
+        5422
+      ],
+      "p95_mm": 0.6701095851588433,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.609261479486465,
+      "col_step_p99_mm": 0.16717551397637948,
+      "max_step_p99_mm": 0.609261479486465,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 16,
+      "raw_xy": [
+        3327,
+        6226
+      ],
+      "flat_xy": [
+        2409.5,
+        6225.5
+      ],
+      "selected_xyxy": [
+        3303,
+        6222,
+        3327,
+        6246
+      ],
+      "p95_mm": 0.7010148867835206,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.4225047486946795,
+      "col_step_p99_mm": 0.23720542373913034,
+      "max_step_p99_mm": 0.4225047486946795,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 17,
+      "raw_xy": [
+        3220,
+        3654
+      ],
+      "flat_xy": [
+        2281.5,
+        3653.5
+      ],
+      "selected_xyxy": [
+        3203,
+        3631,
+        3227,
+        3655
+      ],
+      "p95_mm": 0.6495505686958019,
+      "missing_pct": 0.48,
+      "missing": 3,
+      "largest_hole": 3,
+      "hole_width": 3,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.254252455673646,
+      "col_step_p99_mm": 0.23638598553731496,
+      "max_step_p99_mm": 1.254252455673646,
+      "count_over_08": 10,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 18,
+      "raw_xy": [
+        3638,
+        6190
+      ],
+      "flat_xy": [
+        2761.5,
+        6189.5
+      ],
+      "selected_xyxy": [
+        3638,
+        6167,
+        3662,
+        6191
+      ],
+      "p95_mm": 0.5893569112253261,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42268204215408617,
+      "col_step_p99_mm": 0.2266672878470547,
+      "max_step_p99_mm": 0.42268204215408617,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 19,
+      "raw_xy": [
+        4111,
+        7234
+      ],
+      "flat_xy": [
+        3273.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        4103,
+        7218,
+        4127,
+        7242
+      ],
+      "p95_mm": 0.6358457803657017,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6159815808236624,
+      "col_step_p99_mm": 0.256583749904793,
+      "max_step_p99_mm": 0.6159815808236624,
+      "count_over_08": 3,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56073",
+      "rank": 20,
+      "raw_xy": [
+        1631,
+        5566
+      ],
+      "flat_xy": [
+        517.5,
+        5565.5
+      ],
+      "selected_xyxy": [
+        1609,
+        5542,
+        1633,
+        5566
+      ],
+      "p95_mm": 0.7592160920449076,
+      "missing_pct": 6.5600000000000005,
+      "missing": 41,
+      "largest_hole": 34,
+      "hole_width": 19,
+      "hole_height": 6,
+      "row_step_p99_mm": 0.5946380036442889,
+      "col_step_p99_mm": 0.3016901324340137,
+      "max_step_p99_mm": 0.5946380036442889,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 1,
+      "raw_xy": [
+        3535,
+        6606
+      ],
+      "flat_xy": [
+        2669.5,
+        6605.5
+      ],
+      "selected_xyxy": [
+        3511,
+        6604,
+        3535,
+        6628
+      ],
+      "p95_mm": 0.5476562435547463,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41815270340662525,
+      "col_step_p99_mm": 0.15474553270886177,
+      "max_step_p99_mm": 0.41815270340662525,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 2,
+      "raw_xy": [
+        3125,
+        2414
+      ],
+      "flat_xy": [
+        2189.5,
+        2413.5
+      ],
+      "selected_xyxy": [
+        3114,
+        2390,
+        3138,
+        2414
+      ],
+      "p95_mm": 0.27232748792723566,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.2533435889235067,
+      "col_step_p99_mm": 1.020932006522027,
+      "max_step_p99_mm": 1.2533435889235067,
+      "count_over_08": 19,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 3,
+      "raw_xy": [
+        2948,
+        1842
+      ],
+      "flat_xy": [
+        1969.5,
+        1841.5
+      ],
+      "selected_xyxy": [
+        2931,
+        1831,
+        2955,
+        1855
+      ],
+      "p95_mm": 0.4403957061194658,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.0478305455914254,
+      "col_step_p99_mm": 1.2461072083307285,
+      "max_step_p99_mm": 1.2461072083307285,
+      "count_over_08": 24,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 4,
+      "raw_xy": [
+        3154,
+        3022
+      ],
+      "flat_xy": [
+        2225.5,
+        3021.5
+      ],
+      "selected_xyxy": [
+        3136,
+        3022,
+        3160,
+        3046
+      ],
+      "p95_mm": 0.198335733831388,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.0455164494897073,
+      "col_step_p99_mm": 0.8689440328620291,
+      "max_step_p99_mm": 1.0455164494897073,
+      "count_over_08": 21,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 5,
+      "raw_xy": [
+        2974,
+        2606
+      ],
+      "flat_xy": [
+        2001.5,
+        2605.5
+      ],
+      "selected_xyxy": [
+        2952,
+        2604,
+        2976,
+        2628
+      ],
+      "p95_mm": 0.12718271811016846,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.20974059886596977,
+      "col_step_p99_mm": 0.21216688750017298,
+      "max_step_p99_mm": 0.21216688750017298,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 6,
+      "raw_xy": [
+        2974,
+        430
+      ],
+      "flat_xy": [
+        2001.5,
+        429.5
+      ],
+      "selected_xyxy": [
+        2951,
+        430,
+        2975,
+        454
+      ],
+      "p95_mm": 0.22428144548077852,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21284275979852155,
+      "col_step_p99_mm": 0.21482015402052582,
+      "max_step_p99_mm": 0.21482015402052582,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 7,
+      "raw_xy": [
+        2021,
+        1550
+      ],
+      "flat_xy": [
+        941.5,
+        1549.5
+      ],
+      "selected_xyxy": [
+        2021,
+        1526,
+        2045,
+        1550
+      ],
+      "p95_mm": 0.4754742124002461,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4087903732201809,
+      "col_step_p99_mm": 0.16834886778285119,
+      "max_step_p99_mm": 0.4087903732201809,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 8,
+      "raw_xy": [
+        2916,
+        6
+      ],
+      "flat_xy": [
+        1929.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        2901,
+        0,
+        2925,
+        24
+      ],
+      "p95_mm": 0.5761128802336685,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4137442962025315,
+      "col_step_p99_mm": 0.22402894155761416,
+      "max_step_p99_mm": 0.4137442962025315,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 9,
+      "raw_xy": [
+        3796,
+        6674
+      ],
+      "flat_xy": [
+        2957.5,
+        6673.5
+      ],
+      "selected_xyxy": [
+        3796,
+        6674,
+        3820,
+        6698
+      ],
+      "p95_mm": 0.5304086489838369,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4126858013157639,
+      "col_step_p99_mm": 0.24628515488427638,
+      "max_step_p99_mm": 0.4126858013157639,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 10,
+      "raw_xy": [
+        2957,
+        6594
+      ],
+      "flat_xy": [
+        1981.5,
+        6593.5
+      ],
+      "selected_xyxy": [
+        2933,
+        6592,
+        2957,
+        6616
+      ],
+      "p95_mm": 0.4506541046238425,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21271607611494628,
+      "col_step_p99_mm": 0.21963939049810136,
+      "max_step_p99_mm": 0.21963939049810136,
+      "count_over_08": 6,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 11,
+      "raw_xy": [
+        2265,
+        1550
+      ],
+      "flat_xy": [
+        1197.5,
+        1549.5
+      ],
+      "selected_xyxy": [
+        2265,
+        1526,
+        2289,
+        1550
+      ],
+      "p95_mm": 0.5002819569107544,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41081228365508937,
+      "col_step_p99_mm": 0.16961401958737837,
+      "max_step_p99_mm": 0.41081228365508937,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 12,
+      "raw_xy": [
+        4908,
+        6
+      ],
+      "flat_xy": [
+        4085.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        4908,
+        0,
+        4932,
+        24
+      ],
+      "p95_mm": 0.5237203059007447,
+      "missing_pct": 6.88,
+      "missing": 43,
+      "largest_hole": 30,
+      "hole_width": 15,
+      "hole_height": 4,
+      "row_step_p99_mm": 0.40016802319231604,
+      "col_step_p99_mm": 0.21659186941133876,
+      "max_step_p99_mm": 0.40016802319231604,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 13,
+      "raw_xy": [
+        3914,
+        3470
+      ],
+      "flat_xy": [
+        3089.5,
+        3469.5
+      ],
+      "selected_xyxy": [
+        3909,
+        3446,
+        3933,
+        3470
+      ],
+      "p95_mm": 0.6294604564531199,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6075558783110844,
+      "col_step_p99_mm": 0.24536210014415843,
+      "max_step_p99_mm": 0.6075558783110844,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 14,
+      "raw_xy": [
+        1122,
+        7234
+      ],
+      "flat_xy": [
+        85.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        1098,
+        7215,
+        1122,
+        7239
+      ],
+      "p95_mm": 0.5325093508062364,
+      "missing_pct": 9.28,
+      "missing": 58,
+      "largest_hole": 58,
+      "hole_width": 25,
+      "hole_height": 5,
+      "row_step_p99_mm": 0.3947640313392412,
+      "col_step_p99_mm": 0.21877295770652352,
+      "max_step_p99_mm": 0.3947640313392412,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 15,
+      "raw_xy": [
+        3612,
+        7234
+      ],
+      "flat_xy": [
+        2753.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        3589,
+        7218,
+        3613,
+        7242
+      ],
+      "p95_mm": 0.5313112760823288,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4199039748884897,
+      "col_step_p99_mm": 0.22873894354046712,
+      "max_step_p99_mm": 0.4199039748884897,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 16,
+      "raw_xy": [
+        4029,
+        402
+      ],
+      "flat_xy": [
+        3213.5,
+        401.5
+      ],
+      "selected_xyxy": [
+        4005,
+        402,
+        4029,
+        426
+      ],
+      "p95_mm": 0.5303674576748932,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.4116536813453362,
+      "col_step_p99_mm": 0.15746622394940005,
+      "max_step_p99_mm": 0.4116536813453362,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 17,
+      "raw_xy": [
+        3430,
+        6
+      ],
+      "flat_xy": [
+        2553.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        3417,
+        0,
+        3441,
+        24
+      ],
+      "p95_mm": 0.6218490936097794,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4234670334201354,
+      "col_step_p99_mm": 0.15853447797420245,
+      "max_step_p99_mm": 0.4234670334201354,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 18,
+      "raw_xy": [
+        3973,
+        1934
+      ],
+      "flat_xy": [
+        3153.5,
+        1933.5
+      ],
+      "selected_xyxy": [
+        3967,
+        1910,
+        3991,
+        1934
+      ],
+      "p95_mm": 0.6337607716318245,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6088582233894764,
+      "col_step_p99_mm": 0.24409714597245455,
+      "max_step_p99_mm": 0.6088582233894764,
+      "count_over_08": 5,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 19,
+      "raw_xy": [
+        2426,
+        6
+      ],
+      "flat_xy": [
+        1373.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        2426,
+        0,
+        2450,
+        24
+      ],
+      "p95_mm": 0.5528836676388776,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4061470782668038,
+      "col_step_p99_mm": 0.21366588522734076,
+      "max_step_p99_mm": 0.4061470782668038,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56095",
+      "rank": 20,
+      "raw_xy": [
+        1642,
+        754
+      ],
+      "flat_xy": [
+        545.5,
+        753.5
+      ],
+      "selected_xyxy": [
+        1619,
+        730,
+        1643,
+        754
+      ],
+      "p95_mm": 0.6870548552076968,
+      "missing_pct": 4.16,
+      "missing": 26,
+      "largest_hole": 17,
+      "hole_width": 14,
+      "hole_height": 4,
+      "row_step_p99_mm": 0.7950892584403326,
+      "col_step_p99_mm": 0.2966447135560631,
+      "max_step_p99_mm": 0.7950892584403326,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 1,
+      "raw_xy": [
+        2233,
+        6226
+      ],
+      "flat_xy": [
+        1165.5,
+        6225.5
+      ],
+      "selected_xyxy": [
+        2217,
+        6217,
+        2241,
+        6241
+      ],
+      "p95_mm": 1.0520791320649365,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6136660560717008,
+      "col_step_p99_mm": 0.23967008463074677,
+      "max_step_p99_mm": 0.6136660560717008,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 2,
+      "raw_xy": [
+        1984,
+        2190
+      ],
+      "flat_xy": [
+        909.5,
+        2189.5
+      ],
+      "selected_xyxy": [
+        1966,
+        2166,
+        1990,
+        2190
+      ],
+      "p95_mm": 0.5478728548476752,
+      "missing_pct": 1.44,
+      "missing": 9,
+      "largest_hole": 9,
+      "hole_width": 5,
+      "hole_height": 2,
+      "row_step_p99_mm": 1.045312484759219,
+      "col_step_p99_mm": 0.5056792289788964,
+      "max_step_p99_mm": 1.045312484759219,
+      "count_over_08": 18,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 3,
+      "raw_xy": [
+        1798,
+        6998
+      ],
+      "flat_xy": [
+        721.5,
+        6997.5
+      ],
+      "selected_xyxy": [
+        1798,
+        6978,
+        1822,
+        7002
+      ],
+      "p95_mm": 0.6424788126749007,
+      "missing_pct": 0.8,
+      "missing": 5,
+      "largest_hole": 5,
+      "hole_width": 4,
+      "hole_height": 2,
+      "row_step_p99_mm": 1.0120856005425054,
+      "col_step_p99_mm": 0.5663286974916084,
+      "max_step_p99_mm": 1.0120856005425054,
+      "count_over_08": 14,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 4,
+      "raw_xy": [
+        2979,
+        6978
+      ],
+      "flat_xy": [
+        2001.5,
+        6977.5
+      ],
+      "selected_xyxy": [
+        2955,
+        6969,
+        2979,
+        6993
+      ],
+      "p95_mm": 0.15505280875530048,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21015703599163857,
+      "col_step_p99_mm": 0.20939677484615885,
+      "max_step_p99_mm": 0.21015703599163857,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 5,
+      "raw_xy": [
+        2467,
+        7062
+      ],
+      "flat_xy": [
+        1421.5,
+        7061.5
+      ],
+      "selected_xyxy": [
+        2467,
+        7041,
+        2491,
+        7065
+      ],
+      "p95_mm": 0.591814258970595,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.2365954572819853,
+      "col_step_p99_mm": 0.584209477229757,
+      "max_step_p99_mm": 1.2365954572819853,
+      "count_over_08": 16,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 6,
+      "raw_xy": [
+        1799,
+        366
+      ],
+      "flat_xy": [
+        721.5,
+        365.5
+      ],
+      "selected_xyxy": [
+        1799,
+        342,
+        1823,
+        366
+      ],
+      "p95_mm": 0.5883016482704533,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.40045713201004696,
+      "col_step_p99_mm": 0.1362075796580919,
+      "max_step_p99_mm": 0.40045713201004696,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 7,
+      "raw_xy": [
+        2926,
+        302
+      ],
+      "flat_xy": [
+        1937.5,
+        301.5
+      ],
+      "selected_xyxy": [
+        2902,
+        289,
+        2926,
+        313
+      ],
+      "p95_mm": 0.4128044743332399,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.0484541693114742,
+      "col_step_p99_mm": 0.4206866361650927,
+      "max_step_p99_mm": 1.0484541693114742,
+      "count_over_08": 17,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 8,
+      "raw_xy": [
+        2179,
+        2418
+      ],
+      "flat_xy": [
+        1109.5,
+        2417.5
+      ],
+      "selected_xyxy": [
+        2160,
+        2416,
+        2184,
+        2440
+      ],
+      "p95_mm": 0.4655706561980139,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21380328491623657,
+      "col_step_p99_mm": 0.17015841204075627,
+      "max_step_p99_mm": 0.21380328491623657,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 9,
+      "raw_xy": [
+        2082,
+        2446
+      ],
+      "flat_xy": [
+        1009.5,
+        2445.5
+      ],
+      "selected_xyxy": [
+        2058,
+        2446,
+        2082,
+        2470
+      ],
+      "p95_mm": 0.44411473464076606,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2114704394662968,
+      "col_step_p99_mm": 0.16970033140820817,
+      "max_step_p99_mm": 0.2114704394662968,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 10,
+      "raw_xy": [
+        1985,
+        2418
+      ],
+      "flat_xy": [
+        909.5,
+        2417.5
+      ],
+      "selected_xyxy": [
+        1985,
+        2394,
+        2009,
+        2418
+      ],
+      "p95_mm": 0.563720565695911,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.20939389182022894,
+      "col_step_p99_mm": 0.1700906393668535,
+      "max_step_p99_mm": 0.20939389182022894,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 11,
+      "raw_xy": [
+        1037,
+        5890
+      ],
+      "flat_xy": [
+        21.5,
+        5889.5
+      ],
+      "selected_xyxy": [
+        1020,
+        5881,
+        1044,
+        5905
+      ],
+      "p95_mm": 1.4778449755234533,
+      "missing_pct": 0.64,
+      "missing": 4,
+      "largest_hole": 4,
+      "hole_width": 4,
+      "hole_height": 1,
+      "row_step_p99_mm": 2.423529152520138,
+      "col_step_p99_mm": 2.187800266787001,
+      "max_step_p99_mm": 2.423529152520138,
+      "count_over_08": 94,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 12,
+      "raw_xy": [
+        1039,
+        5298
+      ],
+      "flat_xy": [
+        21.5,
+        5297.5
+      ],
+      "selected_xyxy": [
+        1022,
+        5294,
+        1046,
+        5318
+      ],
+      "p95_mm": 1.123062062280764,
+      "missing_pct": 17.76,
+      "missing": 111,
+      "largest_hole": 103,
+      "hole_width": 25,
+      "hole_height": 6,
+      "row_step_p99_mm": 1.4617096422995814,
+      "col_step_p99_mm": 1.453747786995142,
+      "max_step_p99_mm": 1.4617096422995814,
+      "count_over_08": 62,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 13,
+      "raw_xy": [
+        1038,
+        5730
+      ],
+      "flat_xy": [
+        21.5,
+        5729.5
+      ],
+      "selected_xyxy": [
+        1018,
+        5724,
+        1042,
+        5748
+      ],
+      "p95_mm": 1.3670308427125264,
+      "missing_pct": 8.32,
+      "missing": 52,
+      "largest_hole": 52,
+      "hole_width": 18,
+      "hole_height": 5,
+      "row_step_p99_mm": 1.8189980722863903,
+      "col_step_p99_mm": 1.7171527915636546,
+      "max_step_p99_mm": 1.8189980722863903,
+      "count_over_08": 75,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 14,
+      "raw_xy": [
+        2624,
+        2414
+      ],
+      "flat_xy": [
+        1585.5,
+        2413.5
+      ],
+      "selected_xyxy": [
+        2624,
+        2390,
+        2648,
+        2414
+      ],
+      "p95_mm": 0.7870850996524779,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.617381549764178,
+      "col_step_p99_mm": 0.15840355961494623,
+      "max_step_p99_mm": 0.617381549764178,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 15,
+      "raw_xy": [
+        1040,
+        6590
+      ],
+      "flat_xy": [
+        21.5,
+        6589.5
+      ],
+      "selected_xyxy": [
+        1019,
+        6588,
+        1043,
+        6612
+      ],
+      "p95_mm": 1.2385005628224028,
+      "missing_pct": 16.48,
+      "missing": 103,
+      "largest_hole": 103,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 2.0548481661116904,
+      "col_step_p99_mm": 1.47050988832765,
+      "max_step_p99_mm": 2.0548481661116904,
+      "count_over_08": 51,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 16,
+      "raw_xy": [
+        1033,
+        4002
+      ],
+      "flat_xy": [
+        17.5,
+        4001.5
+      ],
+      "selected_xyxy": [
+        1015,
+        3999,
+        1039,
+        4023
+      ],
+      "p95_mm": 1.2508895395580801,
+      "missing_pct": 16.48,
+      "missing": 103,
+      "largest_hole": 103,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 1.616394374842821,
+      "col_step_p99_mm": 1.5802905532716731,
+      "max_step_p99_mm": 1.616394374842821,
+      "count_over_08": 71,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 17,
+      "raw_xy": [
+        1036,
+        3694
+      ],
+      "flat_xy": [
+        21.5,
+        3693.5
+      ],
+      "selected_xyxy": [
+        1013,
+        3677,
+        1037,
+        3701
+      ],
+      "p95_mm": 0.6550330993267863,
+      "missing_pct": 19.84,
+      "missing": 124,
+      "largest_hole": 124,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 0.4045714503502296,
+      "col_step_p99_mm": 0.16033504689141864,
+      "max_step_p99_mm": 0.4045714503502296,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 18,
+      "raw_xy": [
+        2713,
+        2446
+      ],
+      "flat_xy": [
+        1685.5,
+        2445.5
+      ],
+      "selected_xyxy": [
+        2692,
+        2446,
+        2716,
+        2470
+      ],
+      "p95_mm": 0.5046338543175153,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4210658305335663,
+      "col_step_p99_mm": 0.2443560623524941,
+      "max_step_p99_mm": 0.4210658305335663,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 19,
+      "raw_xy": [
+        1036,
+        5582
+      ],
+      "flat_xy": [
+        21.5,
+        5581.5
+      ],
+      "selected_xyxy": [
+        1015,
+        5567,
+        1039,
+        5591
+      ],
+      "p95_mm": 0.7004939377077747,
+      "missing_pct": 19.52,
+      "missing": 122,
+      "largest_hole": 122,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 0.7040931405332733,
+      "col_step_p99_mm": 0.7838434314421353,
+      "max_step_p99_mm": 0.7838434314421353,
+      "count_over_08": 10,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B6F55655",
+      "rank": 20,
+      "raw_xy": [
+        1610,
+        3010
+      ],
+      "flat_xy": [
+        525.5,
+        3009.5
+      ],
+      "selected_xyxy": [
+        1586,
+        2986,
+        1610,
+        3010
+      ],
+      "p95_mm": 0.6862037448879903,
+      "missing_pct": 2.2399999999999998,
+      "missing": 14,
+      "largest_hole": 3,
+      "hole_width": 3,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.4589803805032075,
+      "col_step_p99_mm": 0.3086856754272773,
+      "max_step_p99_mm": 0.4589803805032075,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 1,
+      "raw_xy": [
+        1626,
+        3886
+      ],
+      "flat_xy": [
+        561.5,
+        3885.5
+      ],
+      "selected_xyxy": [
+        1618,
+        3863,
+        1642,
+        3887
+      ],
+      "p95_mm": 0.7951310312986664,
+      "missing_pct": 2.2399999999999998,
+      "missing": 14,
+      "largest_hole": 11,
+      "hole_width": 8,
+      "hole_height": 3,
+      "row_step_p99_mm": 1.6093437062512652,
+      "col_step_p99_mm": 0.3416396245680174,
+      "max_step_p99_mm": 1.6093437062512652,
+      "count_over_08": 25,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 2,
+      "raw_xy": [
+        3504,
+        2094
+      ],
+      "flat_xy": [
+        2641.5,
+        2093.5
+      ],
+      "selected_xyxy": [
+        3486,
+        2088,
+        3510,
+        2112
+      ],
+      "p95_mm": 0.6704895969439262,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.4750561113710783,
+      "col_step_p99_mm": 0.25100595249154906,
+      "max_step_p99_mm": 1.4750561113710783,
+      "count_over_08": 15,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 3,
+      "raw_xy": [
+        2906,
+        6458
+      ],
+      "flat_xy": [
+        1929.5,
+        6457.5
+      ],
+      "selected_xyxy": [
+        2901,
+        6442,
+        2925,
+        6466
+      ],
+      "p95_mm": 0.5076006338609318,
+      "missing_pct": 0.64,
+      "missing": 4,
+      "largest_hole": 4,
+      "hole_width": 4,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6258875202832822,
+      "col_step_p99_mm": 0.2216105072133891,
+      "max_step_p99_mm": 0.6258875202832822,
+      "count_over_08": 6,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 4,
+      "raw_xy": [
+        2190,
+        1614
+      ],
+      "flat_xy": [
+        1133.5,
+        1613.5
+      ],
+      "selected_xyxy": [
+        2187,
+        1590,
+        2211,
+        1614
+      ],
+      "p95_mm": 0.6720402704090588,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42016467032455324,
+      "col_step_p99_mm": 0.22806918141513421,
+      "max_step_p99_mm": 0.42016467032455324,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 5,
+      "raw_xy": [
+        3364,
+        1550
+      ],
+      "flat_xy": [
+        2481.5,
+        1549.5
+      ],
+      "selected_xyxy": [
+        3364,
+        1535,
+        3388,
+        1559
+      ],
+      "p95_mm": 0.42955337457991616,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42701682820170817,
+      "col_step_p99_mm": 0.22660344023953755,
+      "max_step_p99_mm": 0.42701682820170817,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 6,
+      "raw_xy": [
+        2310,
+        1618
+      ],
+      "flat_xy": [
+        1261.5,
+        1617.5
+      ],
+      "selected_xyxy": [
+        2286,
+        1611,
+        2310,
+        1635
+      ],
+      "p95_mm": 0.4593404283062398,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4239754864395647,
+      "col_step_p99_mm": 0.18104981381955554,
+      "max_step_p99_mm": 0.4239754864395647,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 7,
+      "raw_xy": [
+        2093,
+        1618
+      ],
+      "flat_xy": [
+        1033.5,
+        1617.5
+      ],
+      "selected_xyxy": [
+        2069,
+        1615,
+        2093,
+        1639
+      ],
+      "p95_mm": 0.41723112333025364,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42408292779277246,
+      "col_step_p99_mm": 0.2262526017019519,
+      "max_step_p99_mm": 0.42408292779277246,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 8,
+      "raw_xy": [
+        3279,
+        1554
+      ],
+      "flat_xy": [
+        2381.5,
+        1553.5
+      ],
+      "selected_xyxy": [
+        3277,
+        1554,
+        3301,
+        1578
+      ],
+      "p95_mm": 0.7552410536622005,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.412236200028495,
+      "col_step_p99_mm": 0.22595963318561033,
+      "max_step_p99_mm": 0.412236200028495,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 9,
+      "raw_xy": [
+        3646,
+        1614
+      ],
+      "flat_xy": [
+        2797.5,
+        1613.5
+      ],
+      "selected_xyxy": [
+        3622,
+        1590,
+        3646,
+        1614
+      ],
+      "p95_mm": 0.676433132736031,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6152027678321894,
+      "col_step_p99_mm": 0.21574606959881748,
+      "max_step_p99_mm": 0.6152027678321894,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 10,
+      "raw_xy": [
+        2402,
+        1586
+      ],
+      "flat_xy": [
+        1361.5,
+        1585.5
+      ],
+      "selected_xyxy": [
+        2389,
+        1583,
+        2413,
+        1607
+      ],
+      "p95_mm": 0.6288825132583837,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41436831497929744,
+      "col_step_p99_mm": 0.2167340428375408,
+      "max_step_p99_mm": 0.41436831497929744,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 11,
+      "raw_xy": [
+        5010,
+        6
+      ],
+      "flat_xy": [
+        4165.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        5010,
+        0,
+        5034,
+        24
+      ],
+      "p95_mm": 0.7738611278533509,
+      "missing_pct": 20.16,
+      "missing": 126,
+      "largest_hole": 126,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 0.6115975614978089,
+      "col_step_p99_mm": 0.34250885288616184,
+      "max_step_p99_mm": 0.6115975614978089,
+      "count_over_08": 4,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 12,
+      "raw_xy": [
+        3735,
+        1582
+      ],
+      "flat_xy": [
+        2897.5,
+        1581.5
+      ],
+      "selected_xyxy": [
+        3735,
+        1562,
+        3759,
+        1586
+      ],
+      "p95_mm": 0.6023184804137429,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6176602411464708,
+      "col_step_p99_mm": 0.2309772189619534,
+      "max_step_p99_mm": 0.6176602411464708,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 13,
+      "raw_xy": [
+        4897,
+        1158
+      ],
+      "flat_xy": [
+        4085.5,
+        1157.5
+      ],
+      "selected_xyxy": [
+        4884,
+        1151,
+        4908,
+        1175
+      ],
+      "p95_mm": 0.9452907051414279,
+      "missing_pct": 12.64,
+      "missing": 79,
+      "largest_hole": 79,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 0.8014784946272897,
+      "col_step_p99_mm": 0.20550876419540717,
+      "max_step_p99_mm": 0.8014784946272897,
+      "count_over_08": 17,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 14,
+      "raw_xy": [
+        985,
+        2434
+      ],
+      "flat_xy": [
+        13.5,
+        2433.5
+      ],
+      "selected_xyxy": [
+        985,
+        2428,
+        1009,
+        2452
+      ],
+      "p95_mm": 1.0485072721946291,
+      "missing_pct": 30.4,
+      "missing": 190,
+      "largest_hole": 153,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 0.6091883600856965,
+      "col_step_p99_mm": 0.2683719799689965,
+      "max_step_p99_mm": 0.6091883600856965,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 15,
+      "raw_xy": [
+        3504,
+        1554
+      ],
+      "flat_xy": [
+        2641.5,
+        1553.5
+      ],
+      "selected_xyxy": [
+        3480,
+        1554,
+        3504,
+        1578
+      ],
+      "p95_mm": 0.6485915401467764,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42193283221997424,
+      "col_step_p99_mm": 0.24536630809826987,
+      "max_step_p99_mm": 0.42193283221997424,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 16,
+      "raw_xy": [
+        993,
+        3042
+      ],
+      "flat_xy": [
+        17.5,
+        3041.5
+      ],
+      "selected_xyxy": [
+        981,
+        3032,
+        1005,
+        3056
+      ],
+      "p95_mm": 0.9071620496143636,
+      "missing_pct": 14.879999999999999,
+      "missing": 93,
+      "largest_hole": 91,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 0.4084796265126204,
+      "col_step_p99_mm": 0.26632588202901675,
+      "max_step_p99_mm": 0.4084796265126204,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 17,
+      "raw_xy": [
+        1942,
+        1614
+      ],
+      "flat_xy": [
+        881.5,
+        1613.5
+      ],
+      "selected_xyxy": [
+        1942,
+        1590,
+        1966,
+        1614
+      ],
+      "p95_mm": 0.6579224750969501,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41574048555162846,
+      "col_step_p99_mm": 0.23122415006621877,
+      "max_step_p99_mm": 0.41574048555162846,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 18,
+      "raw_xy": [
+        987,
+        2774
+      ],
+      "flat_xy": [
+        13.5,
+        2773.5
+      ],
+      "selected_xyxy": [
+        983,
+        2758,
+        1007,
+        2782
+      ],
+      "p95_mm": 0.9770261628642117,
+      "missing_pct": 22.08,
+      "missing": 138,
+      "largest_hole": 125,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 0.6123771937857299,
+      "col_step_p99_mm": 0.2642477570558879,
+      "max_step_p99_mm": 0.6123771937857299,
+      "count_over_08": 2,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 19,
+      "raw_xy": [
+        989,
+        346
+      ],
+      "flat_xy": [
+        13.5,
+        345.5
+      ],
+      "selected_xyxy": [
+        982,
+        328,
+        1006,
+        352
+      ],
+      "p95_mm": 0.7984284028091053,
+      "missing_pct": 15.68,
+      "missing": 98,
+      "largest_hole": 98,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 0.6123889333184703,
+      "col_step_p99_mm": 0.26230971639166456,
+      "max_step_p99_mm": 0.6123889333184703,
+      "count_over_08": 2,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6B7F55777",
+      "rank": 20,
+      "raw_xy": [
+        1627,
+        3774
+      ],
+      "flat_xy": [
+        561.5,
+        3773.5
+      ],
+      "selected_xyxy": [
+        1627,
+        3756,
+        1651,
+        3780
+      ],
+      "p95_mm": 0.9037994052534543,
+      "missing_pct": 1.92,
+      "missing": 12,
+      "largest_hole": 8,
+      "hole_width": 7,
+      "hole_height": 2,
+      "row_step_p99_mm": 14.812160719140827,
+      "col_step_p99_mm": 0.5097660188698103,
+      "max_step_p99_mm": 14.812160719140827,
+      "count_over_08": 25,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 1,
+      "raw_xy": [
+        1636,
+        1970
+      ],
+      "flat_xy": [
+        557.5,
+        1969.5
+      ],
+      "selected_xyxy": [
+        1636,
+        1961,
+        1660,
+        1985
+      ],
+      "p95_mm": 15.601318683398754,
+      "missing_pct": 3.6799999999999997,
+      "missing": 23,
+      "largest_hole": 23,
+      "hole_width": 15,
+      "hole_height": 5,
+      "row_step_p99_mm": 16.070426599039838,
+      "col_step_p99_mm": 15.59417144141133,
+      "max_step_p99_mm": 16.070426599039838,
+      "count_over_08": 76,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 2,
+      "raw_xy": [
+        1636,
+        1422
+      ],
+      "flat_xy": [
+        557.5,
+        1421.5
+      ],
+      "selected_xyxy": [
+        1636,
+        1422,
+        1660,
+        1446
+      ],
+      "p95_mm": 15.55674759965718,
+      "missing_pct": 3.2,
+      "missing": 20,
+      "largest_hole": 17,
+      "hole_width": 12,
+      "hole_height": 4,
+      "row_step_p99_mm": 15.683272258627857,
+      "col_step_p99_mm": 15.796153542665067,
+      "max_step_p99_mm": 15.796153542665067,
+      "count_over_08": 68,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 3,
+      "raw_xy": [
+        3167,
+        6002
+      ],
+      "flat_xy": [
+        2253.5,
+        6001.5
+      ],
+      "selected_xyxy": [
+        3143,
+        5991,
+        3167,
+        6015
+      ],
+      "p95_mm": 0.3470144282409137,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2145173326845179,
+      "col_step_p99_mm": 0.22152329626518877,
+      "max_step_p99_mm": 0.22152329626518877,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 4,
+      "raw_xy": [
+        2920,
+        1502
+      ],
+      "flat_xy": [
+        1949.5,
+        1501.5
+      ],
+      "selected_xyxy": [
+        2903,
+        1494,
+        2927,
+        1518
+      ],
+      "p95_mm": 0.6389061019794212,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.41325709925287013,
+      "col_step_p99_mm": 0.21175075099860804,
+      "max_step_p99_mm": 0.41325709925287013,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 5,
+      "raw_xy": [
+        3498,
+        5970
+      ],
+      "flat_xy": [
+        2641.5,
+        5969.5
+      ],
+      "selected_xyxy": [
+        3474,
+        5970,
+        3498,
+        5994
+      ],
+      "p95_mm": 0.8061404241282162,
+      "missing_pct": 0.16,
+      "missing": 1,
+      "largest_hole": 1,
+      "hole_width": 1,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.6113954914914862,
+      "col_step_p99_mm": 0.2618714976056452,
+      "max_step_p99_mm": 0.6113954914914862,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 6,
+      "raw_xy": [
+        2834,
+        6030
+      ],
+      "flat_xy": [
+        1845.5,
+        6029.5
+      ],
+      "selected_xyxy": [
+        2831,
+        6006,
+        2855,
+        6030
+      ],
+      "p95_mm": 0.8007023371708752,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.42204522453908366,
+      "col_step_p99_mm": 0.2194916672106548,
+      "max_step_p99_mm": 0.42204522453908366,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 7,
+      "raw_xy": [
+        3353,
+        5970
+      ],
+      "flat_xy": [
+        2477.5,
+        5969.5
+      ],
+      "selected_xyxy": [
+        3329,
+        5970,
+        3353,
+        5994
+      ],
+      "p95_mm": 0.25066469716140033,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21956680321195393,
+      "col_step_p99_mm": 0.17311522879714572,
+      "max_step_p99_mm": 0.21956680321195393,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 8,
+      "raw_xy": [
+        2750,
+        6030
+      ],
+      "flat_xy": [
+        1745.5,
+        6029.5
+      ],
+      "selected_xyxy": [
+        2750,
+        6006,
+        2774,
+        6030
+      ],
+      "p95_mm": 0.23442628632429602,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21716579161647787,
+      "col_step_p99_mm": 0.2258930920003182,
+      "max_step_p99_mm": 0.2258930920003182,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 9,
+      "raw_xy": [
+        3249,
+        5970
+      ],
+      "flat_xy": [
+        2353.5,
+        5969.5
+      ],
+      "selected_xyxy": [
+        3249,
+        5970,
+        3273,
+        5994
+      ],
+      "p95_mm": 0.7975298398829068,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 0.42584086248344166,
+      "col_step_p99_mm": 0.2335149288826693,
+      "max_step_p99_mm": 0.42584086248344166,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 10,
+      "raw_xy": [
+        3957,
+        5970
+      ],
+      "flat_xy": [
+        3153.5,
+        5969.5
+      ],
+      "selected_xyxy": [
+        3933,
+        5970,
+        3957,
+        5994
+      ],
+      "p95_mm": 0.7072776531139197,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6150827555569677,
+      "col_step_p99_mm": 0.2292257623059487,
+      "max_step_p99_mm": 0.6150827555569677,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 11,
+      "raw_xy": [
+        2663,
+        6002
+      ],
+      "flat_xy": [
+        1645.5,
+        6001.5
+      ],
+      "selected_xyxy": [
+        2663,
+        5978,
+        2687,
+        6002
+      ],
+      "p95_mm": 0.678618672469099,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4214008117200781,
+      "col_step_p99_mm": 0.17177600129342452,
+      "max_step_p99_mm": 0.4214008117200781,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 12,
+      "raw_xy": [
+        3727,
+        5970
+      ],
+      "flat_xy": [
+        2897.5,
+        5969.5
+      ],
+      "selected_xyxy": [
+        3721,
+        5970,
+        3745,
+        5994
+      ],
+      "p95_mm": 0.8622497601696067,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.401102714038564,
+      "col_step_p99_mm": 0.2547700574762999,
+      "max_step_p99_mm": 0.401102714038564,
+      "count_over_08": 2,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 13,
+      "raw_xy": [
+        3066,
+        1074
+      ],
+      "flat_xy": [
+        2129.5,
+        1073.5
+      ],
+      "selected_xyxy": [
+        3061,
+        1055,
+        3085,
+        1079
+      ],
+      "p95_mm": 0.992612124191308,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.0468597699077271,
+      "col_step_p99_mm": 1.2504571439644732,
+      "max_step_p99_mm": 1.2504571439644732,
+      "count_over_08": 26,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 14,
+      "raw_xy": [
+        2975,
+        1110
+      ],
+      "flat_xy": [
+        2017.5,
+        1109.5
+      ],
+      "selected_xyxy": [
+        2957,
+        1100,
+        2981,
+        1124
+      ],
+      "p95_mm": 0.8784981607192719,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.0486851377973538,
+      "col_step_p99_mm": 1.0471855258074738,
+      "max_step_p99_mm": 1.0486851377973538,
+      "count_over_08": 25,
+      "original": "待复核",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 15,
+      "raw_xy": [
+        2972,
+        258
+      ],
+      "flat_xy": [
+        2013.5,
+        257.5
+      ],
+      "selected_xyxy": [
+        2952,
+        237,
+        2976,
+        261
+      ],
+      "p95_mm": 0.20994360989797367,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.2558374190646349,
+      "col_step_p99_mm": 0.2106137701078613,
+      "max_step_p99_mm": 1.2558374190646349,
+      "count_over_08": 25,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 16,
+      "raw_xy": [
+        2966,
+        5822
+      ],
+      "flat_xy": [
+        2005.5,
+        5821.5
+      ],
+      "selected_xyxy": [
+        2952,
+        5822,
+        2976,
+        5846
+      ],
+      "p95_mm": 0.21813305006037353,
+      "missing_pct": 2.2399999999999998,
+      "missing": 14,
+      "largest_hole": 14,
+      "hole_width": 7,
+      "hole_height": 3,
+      "row_step_p99_mm": 0.256205993688606,
+      "col_step_p99_mm": 0.21023387643792774,
+      "max_step_p99_mm": 0.256205993688606,
+      "count_over_08": 8,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 17,
+      "raw_xy": [
+        5032,
+        5398
+      ],
+      "flat_xy": [
+        4173.5,
+        5397.5
+      ],
+      "selected_xyxy": [
+        5032,
+        5386,
+        5056,
+        5410
+      ],
+      "p95_mm": 0.8110391575890645,
+      "missing_pct": 31.04,
+      "missing": 194,
+      "largest_hole": 185,
+      "hole_width": 25,
+      "hole_height": 12,
+      "row_step_p99_mm": 1.0113603597708518,
+      "col_step_p99_mm": 0.7219846127144914,
+      "max_step_p99_mm": 1.0113603597708518,
+      "count_over_08": 16,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 18,
+      "raw_xy": [
+        991,
+        866
+      ],
+      "flat_xy": [
+        13.5,
+        865.5
+      ],
+      "selected_xyxy": [
+        967,
+        855,
+        991,
+        879
+      ],
+      "p95_mm": 0.7981957233922117,
+      "missing_pct": 16.0,
+      "missing": 100,
+      "largest_hole": 100,
+      "hole_width": 25,
+      "hole_height": 9,
+      "row_step_p99_mm": 0.39976822069326035,
+      "col_step_p99_mm": 0.2779031449738932,
+      "max_step_p99_mm": 0.39976822069326035,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 19,
+      "raw_xy": [
+        3085,
+        5966
+      ],
+      "flat_xy": [
+        2153.5,
+        5965.5
+      ],
+      "selected_xyxy": [
+        3061,
+        5966,
+        3085,
+        5990
+      ],
+      "p95_mm": 0.39796813574571094,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2198037926290253,
+      "col_step_p99_mm": 0.21421023266433067,
+      "max_step_p99_mm": 0.2198037926290253,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "rank": 20,
+      "raw_xy": [
+        1622,
+        2630
+      ],
+      "flat_xy": [
+        541.5,
+        2629.5
+      ],
+      "selected_xyxy": [
+        1600,
+        2606,
+        1624,
+        2630
+      ],
+      "p95_mm": 0.7704544821408944,
+      "missing_pct": 7.68,
+      "missing": 48,
+      "largest_hole": 48,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 0.7947228082664191,
+      "col_step_p99_mm": 0.2993213934659672,
+      "max_step_p99_mm": 0.7947228082664191,
+      "count_over_08": 3,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 1,
+      "raw_xy": [
+        1724,
+        6450
+      ],
+      "flat_xy": [
+        657.5,
+        6449.5
+      ],
+      "selected_xyxy": [
+        1703,
+        6443,
+        1727,
+        6467
+      ],
+      "p95_mm": 0.8314813368642149,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.39943464569170034,
+      "col_step_p99_mm": 0.10541411626667298,
+      "max_step_p99_mm": 0.39943464569170034,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 2,
+      "raw_xy": [
+        3188,
+        2574
+      ],
+      "flat_xy": [
+        2285.5,
+        2573.5
+      ],
+      "selected_xyxy": [
+        3184,
+        2550,
+        3208,
+        2574
+      ],
+      "p95_mm": 0.7876823311129504,
+      "missing_pct": 0.8,
+      "missing": 5,
+      "largest_hole": 5,
+      "hole_width": 3,
+      "hole_height": 3,
+      "row_step_p99_mm": 4.387183012126493,
+      "col_step_p99_mm": 0.2318329345408077,
+      "max_step_p99_mm": 4.387183012126493,
+      "count_over_08": 38,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 3,
+      "raw_xy": [
+        3381,
+        1194
+      ],
+      "flat_xy": [
+        2517.5,
+        1193.5
+      ],
+      "selected_xyxy": [
+        3376,
+        1172,
+        3400,
+        1196
+      ],
+      "p95_mm": 0.8194403243814088,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.251738884523315,
+      "col_step_p99_mm": 0.27154652587140105,
+      "max_step_p99_mm": 1.251738884523315,
+      "count_over_08": 17,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 4,
+      "raw_xy": [
+        3490,
+        5334
+      ],
+      "flat_xy": [
+        2637.5,
+        5333.5
+      ],
+      "selected_xyxy": [
+        3467,
+        5324,
+        3491,
+        5348
+      ],
+      "p95_mm": 1.158284534942167,
+      "missing_pct": 7.199999999999999,
+      "missing": 45,
+      "largest_hole": 45,
+      "hole_width": 25,
+      "hole_height": 3,
+      "row_step_p99_mm": 0.6306862077342765,
+      "col_step_p99_mm": 0.2758754447495548,
+      "max_step_p99_mm": 0.6306862077342765,
+      "count_over_08": 6,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 5,
+      "raw_xy": [
+        3522,
+        5234
+      ],
+      "flat_xy": [
+        2673.5,
+        5233.5
+      ],
+      "selected_xyxy": [
+        3505,
+        5234,
+        3529,
+        5258
+      ],
+      "p95_mm": 2.7461311663876815,
+      "missing_pct": 8.16,
+      "missing": 51,
+      "largest_hole": 48,
+      "hole_width": 25,
+      "hole_height": 3,
+      "row_step_p99_mm": 2.4869887238228103,
+      "col_step_p99_mm": 0.13885735826665155,
+      "max_step_p99_mm": 2.4869887238228103,
+      "count_over_08": 37,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 6,
+      "raw_xy": [
+        3368,
+        6
+      ],
+      "flat_xy": [
+        2501.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        3368,
+        0,
+        3392,
+        24
+      ],
+      "p95_mm": 0.6762395428281763,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6151291595293295,
+      "col_step_p99_mm": 0.26314695632200824,
+      "max_step_p99_mm": 0.6151291595293295,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 7,
+      "raw_xy": [
+        3007,
+        1486
+      ],
+      "flat_xy": [
+        2061.5,
+        1485.5
+      ],
+      "selected_xyxy": [
+        2983,
+        1462,
+        3007,
+        1486
+      ],
+      "p95_mm": 0.14667864870862954,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2171023452303592,
+      "col_step_p99_mm": 0.21141101110456034,
+      "max_step_p99_mm": 0.2171023452303592,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 8,
+      "raw_xy": [
+        2618,
+        6130
+      ],
+      "flat_xy": [
+        1601.5,
+        6129.5
+      ],
+      "selected_xyxy": [
+        2618,
+        6106,
+        2642,
+        6130
+      ],
+      "p95_mm": 0.9388183457518948,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.8176354492458199,
+      "col_step_p99_mm": 0.36233456477151177,
+      "max_step_p99_mm": 0.8176354492458199,
+      "count_over_08": 11,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 9,
+      "raw_xy": [
+        4944,
+        6
+      ],
+      "flat_xy": [
+        4133.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        4944,
+        0,
+        4968,
+        24
+      ],
+      "p95_mm": 0.6028792657288107,
+      "missing_pct": 7.68,
+      "missing": 48,
+      "largest_hole": 48,
+      "hole_width": 25,
+      "hole_height": 6,
+      "row_step_p99_mm": 0.40216555020264827,
+      "col_step_p99_mm": 0.16845995285990284,
+      "max_step_p99_mm": 0.40216555020264827,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 10,
+      "raw_xy": [
+        2707,
+        6158
+      ],
+      "flat_xy": [
+        1701.5,
+        6157.5
+      ],
+      "selected_xyxy": [
+        2683,
+        6158,
+        2707,
+        6182
+      ],
+      "p95_mm": 0.5340426256604871,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6165874219095087,
+      "col_step_p99_mm": 0.24844405403882688,
+      "max_step_p99_mm": 0.6165874219095087,
+      "count_over_08": 3,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 11,
+      "raw_xy": [
+        3460,
+        6126
+      ],
+      "flat_xy": [
+        2605.5,
+        6125.5
+      ],
+      "selected_xyxy": [
+        3460,
+        6102,
+        3484,
+        6126
+      ],
+      "p95_mm": 0.783705445229691,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4014243090851093,
+      "col_step_p99_mm": 0.14223484812189327,
+      "max_step_p99_mm": 0.4014243090851093,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 12,
+      "raw_xy": [
+        2771,
+        7234
+      ],
+      "flat_xy": [
+        1773.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        2770,
+        7217,
+        2794,
+        7241
+      ],
+      "p95_mm": 0.6281654402563475,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.6135089380771781,
+      "col_step_p99_mm": 0.23812120353787947,
+      "max_step_p99_mm": 0.6135089380771781,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 13,
+      "raw_xy": [
+        2481,
+        6098
+      ],
+      "flat_xy": [
+        1453.5,
+        6097.5
+      ],
+      "selected_xyxy": [
+        2481,
+        6074,
+        2505,
+        6098
+      ],
+      "p95_mm": 0.7501303208393494,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4131394211510117,
+      "col_step_p99_mm": 0.17705917741524899,
+      "max_step_p99_mm": 0.4131394211510117,
+      "count_over_08": 1,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 14,
+      "raw_xy": [
+        1222,
+        7234
+      ],
+      "flat_xy": [
+        169.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        1198,
+        7214,
+        1222,
+        7238
+      ],
+      "p95_mm": 0.6179666347937565,
+      "missing_pct": 11.68,
+      "missing": 73,
+      "largest_hole": 73,
+      "hole_width": 25,
+      "hole_height": 6,
+      "row_step_p99_mm": 0.39246508116935275,
+      "col_step_p99_mm": 0.17317897233558938,
+      "max_step_p99_mm": 0.39246508116935275,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 15,
+      "raw_xy": [
+        3270,
+        6130
+      ],
+      "flat_xy": [
+        2385.5,
+        6129.5
+      ],
+      "selected_xyxy": [
+        3270,
+        6106,
+        3294,
+        6130
+      ],
+      "p95_mm": 0.8012093832046586,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4061500191271608,
+      "col_step_p99_mm": 0.24282019292235987,
+      "max_step_p99_mm": 0.4061500191271608,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 16,
+      "raw_xy": [
+        2374,
+        7234
+      ],
+      "flat_xy": [
+        1337.5,
+        7233.5
+      ],
+      "selected_xyxy": [
+        2361,
+        7218,
+        2385,
+        7242
+      ],
+      "p95_mm": 0.6330349214352281,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.412852888321232,
+      "col_step_p99_mm": 0.22889187518568632,
+      "max_step_p99_mm": 0.412852888321232,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 17,
+      "raw_xy": [
+        3116,
+        6158
+      ],
+      "flat_xy": [
+        2197.5,
+        6157.5
+      ],
+      "selected_xyxy": [
+        3096,
+        6134,
+        3120,
+        6158
+      ],
+      "p95_mm": 0.12978447920275465,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.22299015505804576,
+      "col_step_p99_mm": 0.22140952359427757,
+      "max_step_p99_mm": 0.22299015505804576,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 18,
+      "raw_xy": [
+        2500,
+        6
+      ],
+      "flat_xy": [
+        1473.5,
+        5.5
+      ],
+      "selected_xyxy": [
+        2500,
+        0,
+        2524,
+        24
+      ],
+      "p95_mm": 0.6849058235794188,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4149317422192368,
+      "col_step_p99_mm": 0.16650371742850353,
+      "max_step_p99_mm": 0.4149317422192368,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 19,
+      "raw_xy": [
+        2715,
+        5294
+      ],
+      "flat_xy": [
+        1709.5,
+        5293.5
+      ],
+      "selected_xyxy": [
+        2692,
+        5294,
+        2716,
+        5318
+      ],
+      "p95_mm": 0.5640231822933373,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.4244656512718041,
+      "col_step_p99_mm": 0.24686679725702915,
+      "max_step_p99_mm": 0.4244656512718041,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "rank": 20,
+      "raw_xy": [
+        1653,
+        2262
+      ],
+      "flat_xy": [
+        549.5,
+        2261.5
+      ],
+      "selected_xyxy": [
+        1635,
+        2244,
+        1659,
+        2268
+      ],
+      "p95_mm": 15.587304583891733,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 15.895706186464757,
+      "col_step_p99_mm": 15.39617531218179,
+      "max_step_p99_mm": 15.895706186464757,
+      "count_over_08": 52,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 1,
+      "raw_xy": [
+        1364,
+        3154
+      ],
+      "flat_xy": [
+        401.5,
+        3153.5
+      ],
+      "selected_xyxy": [
+        1358,
+        3152,
+        1382,
+        3176
+      ],
+      "p95_mm": 1.1771221839828683,
+      "missing_pct": 9.28,
+      "missing": 58,
+      "largest_hole": 55,
+      "hole_width": 25,
+      "hole_height": 8,
+      "row_step_p99_mm": 0.4100710878847769,
+      "col_step_p99_mm": 0.1473820353713822,
+      "max_step_p99_mm": 0.4100710878847769,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 2,
+      "raw_xy": [
+        1364,
+        3314
+      ],
+      "flat_xy": [
+        401.5,
+        3313.5
+      ],
+      "selected_xyxy": [
+        1354,
+        3314,
+        1378,
+        3338
+      ],
+      "p95_mm": 1.2004270078902664,
+      "missing_pct": 6.88,
+      "missing": 43,
+      "largest_hole": 43,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 0.40683949760246263,
+      "col_step_p99_mm": 0.14692136445642945,
+      "max_step_p99_mm": 0.40683949760246263,
+      "count_over_08": 0,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 3,
+      "raw_xy": [
+        2738,
+        1354
+      ],
+      "flat_xy": [
+        1825.5,
+        1353.5
+      ],
+      "selected_xyxy": [
+        2737,
+        1344,
+        2761,
+        1368
+      ],
+      "p95_mm": 1.6292862544786981,
+      "missing_pct": 7.199999999999999,
+      "missing": 45,
+      "largest_hole": 40,
+      "hole_width": 19,
+      "hole_height": 4,
+      "row_step_p99_mm": 1.8727706973792977,
+      "col_step_p99_mm": 0.229054614146861,
+      "max_step_p99_mm": 1.8727706973792977,
+      "count_over_08": 38,
+      "original": "疑似气泡",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 4,
+      "raw_xy": [
+        1222,
+        3406
+      ],
+      "flat_xy": [
+        269.5,
+        3405.5
+      ],
+      "selected_xyxy": [
+        1203,
+        3400,
+        1227,
+        3424
+      ],
+      "p95_mm": 1.8291373815057888,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 2.2473007706445705,
+      "col_step_p99_mm": 2.080256906447238,
+      "max_step_p99_mm": 2.2473007706445705,
+      "count_over_08": 63,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 5,
+      "raw_xy": [
+        1221,
+        3186
+      ],
+      "flat_xy": [
+        269.5,
+        3185.5
+      ],
+      "selected_xyxy": [
+        1197,
+        3175,
+        1221,
+        3199
+      ],
+      "p95_mm": 1.5429356377922565,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 2.2478993873664495,
+      "col_step_p99_mm": 2.084845568532973,
+      "max_step_p99_mm": 2.2478993873664495,
+      "count_over_08": 104,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 6,
+      "raw_xy": [
+        2913,
+        1426
+      ],
+      "flat_xy": [
+        2029.5,
+        1425.5
+      ],
+      "selected_xyxy": [
+        2892,
+        1426,
+        2916,
+        1450
+      ],
+      "p95_mm": 1.4610341855554878,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.4645968263158267,
+      "col_step_p99_mm": 1.4800666797838287,
+      "max_step_p99_mm": 1.4800666797838287,
+      "count_over_08": 76,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 7,
+      "raw_xy": [
+        1183,
+        3086
+      ],
+      "flat_xy": [
+        237.5,
+        3085.5
+      ],
+      "selected_xyxy": [
+        1159,
+        3063,
+        1183,
+        3087
+      ],
+      "p95_mm": 1.1959837020737705,
+      "missing_pct": 1.28,
+      "missing": 8,
+      "largest_hole": 8,
+      "hole_width": 4,
+      "hole_height": 3,
+      "row_step_p99_mm": 2.0413111124636383,
+      "col_step_p99_mm": 1.6798972189643655,
+      "max_step_p99_mm": 2.0413111124636383,
+      "count_over_08": 93,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 8,
+      "raw_xy": [
+        3005,
+        2446
+      ],
+      "flat_xy": [
+        2137.5,
+        2445.5
+      ],
+      "selected_xyxy": [
+        3005,
+        2430,
+        3029,
+        2454
+      ],
+      "p95_mm": 1.2216456270107265,
+      "missing_pct": 3.36,
+      "missing": 21,
+      "largest_hole": 14,
+      "hole_width": 11,
+      "hole_height": 6,
+      "row_step_p99_mm": 1.258415641080171,
+      "col_step_p99_mm": 1.044671917142299,
+      "max_step_p99_mm": 1.258415641080171,
+      "count_over_08": 41,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 9,
+      "raw_xy": [
+        950,
+        1550
+      ],
+      "flat_xy": [
+        49.5,
+        1549.5
+      ],
+      "selected_xyxy": [
+        926,
+        1535,
+        950,
+        1559
+      ],
+      "p95_mm": 0.6576393398410728,
+      "missing_pct": 12.32,
+      "missing": 77,
+      "largest_hole": 77,
+      "hole_width": 25,
+      "hole_height": 7,
+      "row_step_p99_mm": 0.8227363675790176,
+      "col_step_p99_mm": 0.2519995905967696,
+      "max_step_p99_mm": 0.8227363675790176,
+      "count_over_08": 7,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 10,
+      "raw_xy": [
+        1223,
+        3306
+      ],
+      "flat_xy": [
+        269.5,
+        3305.5
+      ],
+      "selected_xyxy": [
+        1209,
+        3287,
+        1233,
+        3311
+      ],
+      "p95_mm": 1.5130999603156834,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 2.246654280271818,
+      "col_step_p99_mm": 2.08479747072318,
+      "max_step_p99_mm": 2.246654280271818,
+      "count_over_08": 108,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 11,
+      "raw_xy": [
+        2852,
+        2002
+      ],
+      "flat_xy": [
+        1957.5,
+        2001.5
+      ],
+      "selected_xyxy": [
+        2849,
+        1978,
+        2873,
+        2002
+      ],
+      "p95_mm": 0.6287144638949627,
+      "missing_pct": 0.48,
+      "missing": 3,
+      "largest_hole": 3,
+      "hole_width": 3,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.249560199392008,
+      "col_step_p99_mm": 0.23001301894241025,
+      "max_step_p99_mm": 1.249560199392008,
+      "count_over_08": 12,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 12,
+      "raw_xy": [
+        3132,
+        3670
+      ],
+      "flat_xy": [
+        2289.5,
+        3669.5
+      ],
+      "selected_xyxy": [
+        3115,
+        3665,
+        3139,
+        3689
+      ],
+      "p95_mm": 1.2019102804414898,
+      "missing_pct": 0.32,
+      "missing": 2,
+      "largest_hole": 2,
+      "hole_width": 2,
+      "hole_height": 1,
+      "row_step_p99_mm": 1.256015201833175,
+      "col_step_p99_mm": 1.2337264901171425,
+      "max_step_p99_mm": 1.256015201833175,
+      "count_over_08": 77,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 13,
+      "raw_xy": [
+        3105,
+        6978
+      ],
+      "flat_xy": [
+        2257.5,
+        6977.5
+      ],
+      "selected_xyxy": [
+        3083,
+        6954,
+        3107,
+        6978
+      ],
+      "p95_mm": 0.28660401939717983,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2103969516189788,
+      "col_step_p99_mm": 0.22725178257070097,
+      "max_step_p99_mm": 0.22725178257070097,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 14,
+      "raw_xy": [
+        2998,
+        6674
+      ],
+      "flat_xy": [
+        2129.5,
+        6673.5
+      ],
+      "selected_xyxy": [
+        2984,
+        6654,
+        3008,
+        6678
+      ],
+      "p95_mm": 1.1934061572289907,
+      "missing_pct": 6.72,
+      "missing": 42,
+      "largest_hole": 39,
+      "hole_width": 20,
+      "hole_height": 4,
+      "row_step_p99_mm": 1.254693538073001,
+      "col_step_p99_mm": 0.21058002021411326,
+      "max_step_p99_mm": 1.254693538073001,
+      "count_over_08": 31,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 15,
+      "raw_xy": [
+        3210,
+        5742
+      ],
+      "flat_xy": [
+        2381.5,
+        5741.5
+      ],
+      "selected_xyxy": [
+        3186,
+        5737,
+        3210,
+        5761
+      ],
+      "p95_mm": 1.0092357234085112,
+      "missing_pct": 6.4,
+      "missing": 40,
+      "largest_hole": 39,
+      "hole_width": 25,
+      "hole_height": 3,
+      "row_step_p99_mm": 1.257431729413536,
+      "col_step_p99_mm": 0.23578809174350793,
+      "max_step_p99_mm": 1.257431729413536,
+      "count_over_08": 27,
+      "original": "疑似气泡",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 16,
+      "raw_xy": [
+        3015,
+        1062
+      ],
+      "flat_xy": [
+        2149.5,
+        1061.5
+      ],
+      "selected_xyxy": [
+        3011,
+        1041,
+        3035,
+        1065
+      ],
+      "p95_mm": 1.2951783983561058,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 1.2547893244834085,
+      "col_step_p99_mm": 1.4612962329164214,
+      "max_step_p99_mm": 1.4612962329164214,
+      "count_over_08": 67,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 17,
+      "raw_xy": [
+        3184,
+        7106
+      ],
+      "flat_xy": [
+        2361.5,
+        7105.5
+      ],
+      "selected_xyxy": [
+        3183,
+        7103,
+        3207,
+        7127
+      ],
+      "p95_mm": 1.126364292171084,
+      "missing_pct": 5.6000000000000005,
+      "missing": 35,
+      "largest_hole": 35,
+      "hole_width": 25,
+      "hole_height": 2,
+      "row_step_p99_mm": 1.1712205635684005,
+      "col_step_p99_mm": 0.23846481943535308,
+      "max_step_p99_mm": 1.1712205635684005,
+      "count_over_08": 12,
+      "original": "待复核",
+      "previous": "疑似附着物",
+      "prediction": "疑似附着物"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 18,
+      "raw_xy": [
+        3021,
+        1490
+      ],
+      "flat_xy": [
+        2157.5,
+        1489.5
+      ],
+      "selected_xyxy": [
+        3021,
+        1490,
+        3045,
+        1514
+      ],
+      "p95_mm": 0.18119007455057667,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.2104946723600061,
+      "col_step_p99_mm": 0.21185696857873226,
+      "max_step_p99_mm": 0.21185696857873226,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 19,
+      "raw_xy": [
+        3105,
+        1522
+      ],
+      "flat_xy": [
+        2257.5,
+        1521.5
+      ],
+      "selected_xyxy": [
+        3081,
+        1522,
+        3105,
+        1546
+      ],
+      "p95_mm": 0.17106397320134475,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 0.21054683701346733,
+      "col_step_p99_mm": 0.22397780408463844,
+      "max_step_p99_mm": 0.22397780408463844,
+      "count_over_08": 0,
+      "original": "待复核",
+      "previous": "待复核",
+      "prediction": "待复核"
+    },
+    {
+      "tire": "G6D2F55996",
+      "rank": 20,
+      "raw_xy": [
+        2556,
+        1206
+      ],
+      "flat_xy": [
+        1625.5,
+        1205.5
+      ],
+      "selected_xyxy": [
+        2556,
+        1195,
+        2580,
+        1219
+      ],
+      "p95_mm": 0.6627605314983951,
+      "missing_pct": 0.0,
+      "missing": 0,
+      "largest_hole": 0,
+      "hole_width": 0,
+      "hole_height": 0,
+      "row_step_p99_mm": 19.07661215868272,
+      "col_step_p99_mm": 0.2446826805362564,
+      "max_step_p99_mm": 19.07661215868272,
+      "count_over_08": 22,
+      "original": "疑似气泡",
+      "previous": "疑似气泡",
+      "prediction": "疑似气泡"
+    }
+  ],
+  "cases": [
+    {
+      "tire": "G6A4F54426",
+      "label": "气泡",
+      "rank": 3,
+      "old": "疑似气泡",
+      "new": "待复核",
+      "profile": "待复核"
+    },
+    {
+      "tire": "G6A4F54444",
+      "label": "气泡",
+      "rank": 3,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "label": "气泡",
+      "rank": 5,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6B1F56018",
+      "label": "附着物",
+      "rank": 4,
+      "old": "疑似气泡",
+      "new": "疑似附着物",
+      "profile": "疑似附着物"
+    },
+    {
+      "tire": "G6B1F56073",
+      "label": "气泡",
+      "rank": null,
+      "old": "漏检",
+      "new": "漏检",
+      "profile": "漏检"
+    },
+    {
+      "tire": "G6B1F56095",
+      "label": "气泡",
+      "rank": 1,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6B6F55655",
+      "label": "气泡",
+      "rank": 1,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6B7F55777",
+      "label": "气泡",
+      "rank": 20,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6C2F55859",
+      "label": "气泡",
+      "rank": 4,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6C5F57555",
+      "label": "气泡",
+      "rank": 1,
+      "old": "疑似气泡",
+      "new": "疑似气泡",
+      "profile": "疑似气泡"
+    },
+    {
+      "tire": "G6D2F55996",
+      "label": "气泡",
+      "rank": 1,
+      "old": "疑似气泡",
+      "new": "疑似附着物",
+      "profile": "疑似气泡"
+    }
+  ],
+  "counts": {
+    "疑似气泡": 121,
+    "待复核": 63,
+    "疑似附着物": 16
+  },
+  "unverified": {
+    "疑似气泡": 112,
+    "待复核": 62,
+    "疑似附着物": 15
+  },
+  "changes": 3
+}

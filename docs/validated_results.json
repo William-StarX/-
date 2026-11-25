@@ -1,0 +1,21 @@
+{
+  "main_candidates": 200,
+  "supplement_candidates": 240,
+  "main_hits": 9,
+  "combined_hits": 10,
+  "known_bubbles": 10,
+  "confirmed_attachment_hits": 6,
+  "main_counts": {
+    "疑似气泡": 129,
+    "待复核": 55,
+    "疑似附着物": 16
+  },
+  "supplement_counts": {
+    "疑似气泡": 70,
+    "待复核": 170
+  },
+  "mean_seconds": 9.966013790000034,
+  "min_seconds": 7.942187499998909,
+  "max_seconds": 15.283420599998863,
+  "scope": "Existing ten tires; grouped out-of-fold main predictions and same-population supplement validation"
+}

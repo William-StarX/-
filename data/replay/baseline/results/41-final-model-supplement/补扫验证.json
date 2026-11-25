@@ -1,0 +1,5699 @@
+{
+  "model": "dino_mlp-identity",
+  "budget": 24,
+  "main_csv_sha256": "321d9de3d900edb4703847f6de4de85e92cd782372201045d0c8a029b4dcf583",
+  "rrf_sha256": "4eaf0fb096c7116eba55823a6b824aee00f668a7afac1c8bb9f770160894acea",
+  "samples": [
+    {
+      "tire": "G6A4F54426",
+      "main_bubble_rank": 2,
+      "main_known_attachments": 0,
+      "eligible": 1364,
+      "counts": {
+        "疑似气泡": 3,
+        "待复核": 21
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.5410421999986283,
+        "profiling_and_score": 14.742378400000234
+      }
+    },
+    {
+      "tire": "G6A4F54444",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 1,
+      "eligible": 1299,
+      "counts": {
+        "待复核": 24
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.5424887999997736,
+        "profiling_and_score": 11.479511400000774
+      }
+    },
+    {
+      "tire": "G6B1F56018",
+      "main_bubble_rank": 3,
+      "main_known_attachments": 3,
+      "eligible": 1199,
+      "counts": {
+        "疑似气泡": 13,
+        "待复核": 11
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.25564379999923403,
+        "profiling_and_score": 7.686543699999675
+      }
+    },
+    {
+      "tire": "G6B1F56073",
+      "main_bubble_rank": null,
+      "main_known_attachments": 0,
+      "eligible": 1141,
+      "counts": {
+        "疑似气泡": 17,
+        "待复核": 7
+      },
+      "supplement_candidate_hit": 21,
+      "supplement_bubble_hit": 16,
+      "supplement_reranked_hit": 11,
+      "seconds": {
+        "proposal": 0.25480530000095314,
+        "profiling_and_score": 8.336013399999501
+      }
+    },
+    {
+      "tire": "G6B1F56095",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 0,
+      "eligible": 1219,
+      "counts": {
+        "待复核": 21,
+        "疑似气泡": 3
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.27085079999960726,
+        "profiling_and_score": 8.225835799999913
+      }
+    },
+    {
+      "tire": "G6B6F55655",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 0,
+      "eligible": 1179,
+      "counts": {
+        "疑似气泡": 19,
+        "待复核": 5
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.26433060000090336,
+        "profiling_and_score": 9.006351099998938
+      }
+    },
+    {
+      "tire": "G6B7F55777",
+      "main_bubble_rank": 10,
+      "main_known_attachments": 0,
+      "eligible": 1224,
+      "counts": {
+        "疑似气泡": 7,
+        "待复核": 17
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.2703831999988324,
+        "profiling_and_score": 8.247343700000783
+      }
+    },
+    {
+      "tire": "G6C2F55859",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 0,
+      "eligible": 1191,
+      "counts": {
+        "待复核": 18,
+        "疑似气泡": 6
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.26451840000117954,
+        "profiling_and_score": 9.502811499998643
+      }
+    },
+    {
+      "tire": "G6C5F57555",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 1,
+      "eligible": 1234,
+      "counts": {
+        "待复核": 23,
+        "疑似气泡": 1
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.29197750000093947,
+        "profiling_and_score": 9.685194300000148
+      }
+    },
+    {
+      "tire": "G6D2F55996",
+      "main_bubble_rank": 1,
+      "main_known_attachments": 1,
+      "eligible": 1307,
+      "counts": {
+        "待复核": 23,
+        "疑似气泡": 1
+      },
+      "supplement_candidate_hit": null,
+      "supplement_bubble_hit": null,
+      "supplement_reranked_hit": null,
+      "seconds": {
+        "proposal": 0.28523200000017823,
+        "profiling_and_score": 9.506882000001497
+      }
+    }
+  ],
+  "details": [
+    {
+      "tire": "G6A4F54426",
+      "order": 1,
+      "flat_xy": [
+        121.5,
+        89.5
+      ],
+      "raw_xy": [
+        965,
+        90
+      ],
+      "band": 0,
+      "local_significance": 41.091664506838946,
+      "p95_mm": 0.7115115555125406,
+      "missing_pct": 1.44,
+      "profile_step_p99_mm": 0.41350854028993356,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.01822251026255743,
+      "mlp_rank": 23,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 2,
+      "flat_xy": [
+        125.5,
+        3965.5
+      ],
+      "raw_xy": [
+        968,
+        3966
+      ],
+      "band": 0,
+      "local_significance": 28.48678752453681,
+      "p95_mm": 0.570169577405364,
+      "missing_pct": 10.4,
+      "profile_step_p99_mm": 0.41344381525714197,
+      "prediction": "待复核",
+      "mlp_percentile": 0.006581079245902036,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 3,
+      "flat_xy": [
+        4165.5,
+        1913.5
+      ],
+      "raw_xy": [
+        4810,
+        1914
+      ],
+      "band": 32,
+      "local_significance": 23.363384046368264,
+      "p95_mm": 0.7139289708408469,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.412489318633817,
+      "prediction": "待复核",
+      "mlp_percentile": 0.12869240295109874,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 4,
+      "flat_xy": [
+        121.5,
+        2045.5
+      ],
+      "raw_xy": [
+        964,
+        2046
+      ],
+      "band": 0,
+      "local_significance": 21.70655206643214,
+      "p95_mm": 0.6594909737822092,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4129818675469589,
+      "prediction": "待复核",
+      "mlp_percentile": 0.054872580248291364,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 5,
+      "flat_xy": [
+        4001.5,
+        1789.5
+      ],
+      "raw_xy": [
+        4648,
+        1790
+      ],
+      "band": 31,
+      "local_significance": 20.989283648363386,
+      "p95_mm": 0.7187971800668379,
+      "missing_pct": 2.56,
+      "profile_step_p99_mm": 0.4799163788535231,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.155947173880598,
+      "mlp_rank": 12,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 6,
+      "flat_xy": [
+        4301.5,
+        2645.5
+      ],
+      "raw_xy": [
+        4953,
+        2646
+      ],
+      "band": 33,
+      "local_significance": 20.713567258870594,
+      "p95_mm": 0.7444207074887629,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.5504893842399267,
+      "prediction": "待复核",
+      "mlp_percentile": 0.04895707138275944,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 7,
+      "flat_xy": [
+        345.5,
+        865.5
+      ],
+      "raw_xy": [
+        1220,
+        866
+      ],
+      "band": 2,
+      "local_significance": 20.167728334882465,
+      "p95_mm": 0.6799829579519283,
+      "missing_pct": 7.84,
+      "profile_step_p99_mm": 0.41112559720440345,
+      "prediction": "待复核",
+      "mlp_percentile": 0.201134696654534,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 8,
+      "flat_xy": [
+        365.5,
+        2733.5
+      ],
+      "raw_xy": [
+        1243,
+        2734
+      ],
+      "band": 2,
+      "local_significance": 18.295056341580988,
+      "p95_mm": 0.6758371186686147,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.5623988985426062,
+      "prediction": "待复核",
+      "mlp_percentile": 0.30695635337350063,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 9,
+      "flat_xy": [
+        321.5,
+        725.5
+      ],
+      "raw_xy": [
+        1195,
+        726
+      ],
+      "band": 2,
+      "local_significance": 17.913124894012398,
+      "p95_mm": 0.627374283199704,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.41356973307027234,
+      "prediction": "待复核",
+      "mlp_percentile": 0.30587463343207083,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 10,
+      "flat_xy": [
+        373.5,
+        1509.5
+      ],
+      "raw_xy": [
+        1250,
+        1510
+      ],
+      "band": 2,
+      "local_significance": 17.608696774311777,
+      "p95_mm": 0.5941494465864252,
+      "missing_pct": 7.199999999999999,
+      "profile_step_p99_mm": 0.4133273818027743,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2817655229164622,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 11,
+      "flat_xy": [
+        3993.5,
+        1641.5
+      ],
+      "raw_xy": [
+        4640,
+        1642
+      ],
+      "band": 31,
+      "local_significance": 17.573564673740798,
+      "p95_mm": 0.7196060229078995,
+      "missing_pct": 4.16,
+      "profile_step_p99_mm": 0.6174455374611056,
+      "prediction": "待复核",
+      "mlp_percentile": 0.18194072255396163,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 12,
+      "flat_xy": [
+        4313.5,
+        1409.5
+      ],
+      "raw_xy": [
+        4965,
+        1410
+      ],
+      "band": 33,
+      "local_significance": 17.54534270474999,
+      "p95_mm": 0.6899847966416424,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.41183090718985,
+      "prediction": "待复核",
+      "mlp_percentile": 0.047004059307026946,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 13,
+      "flat_xy": [
+        3973.5,
+        6249.5
+      ],
+      "raw_xy": [
+        4622,
+        6250
+      ],
+      "band": 31,
+      "local_significance": 17.459800851722004,
+      "p95_mm": 0.684014898496177,
+      "missing_pct": 2.08,
+      "profile_step_p99_mm": 0.4148976416184439,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.11827925181821726,
+      "mlp_rank": 16,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 14,
+      "flat_xy": [
+        4201.5,
+        6337.5
+      ],
+      "raw_xy": [
+        4850,
+        6338
+      ],
+      "band": 32,
+      "local_significance": 17.30087508211104,
+      "p95_mm": 0.6425994284407182,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.4125415725177967,
+      "prediction": "待复核",
+      "mlp_percentile": 0.05769755675164006,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 15,
+      "flat_xy": [
+        329.5,
+        5329.5
+      ],
+      "raw_xy": [
+        1203,
+        5330
+      ],
+      "band": 2,
+      "local_significance": 17.185951133294,
+      "p95_mm": 0.615887504426496,
+      "missing_pct": 7.04,
+      "profile_step_p99_mm": 0.4129923284968925,
+      "prediction": "待复核",
+      "mlp_percentile": 0.26185219497043927,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 16,
+      "flat_xy": [
+        313.5,
+        25.5
+      ],
+      "raw_xy": [
+        1186,
+        26
+      ],
+      "band": 2,
+      "local_significance": 17.02828510061244,
+      "p95_mm": 0.7213193103195067,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4092721872759198,
+      "prediction": "待复核",
+      "mlp_percentile": 0.1220998947188671,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 17,
+      "flat_xy": [
+        4297.5,
+        37.5
+      ],
+      "raw_xy": [
+        4948,
+        38
+      ],
+      "band": 33,
+      "local_significance": 16.590329506861064,
+      "p95_mm": 0.7039554854296248,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.4077720033409108,
+      "prediction": "待复核",
+      "mlp_percentile": 0.027514276148512283,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 18,
+      "flat_xy": [
+        361.5,
+        3725.5
+      ],
+      "raw_xy": [
+        1237,
+        3726
+      ],
+      "band": 2,
+      "local_significance": 16.55853750502035,
+      "p95_mm": 0.6988404873171958,
+      "missing_pct": 8.0,
+      "profile_step_p99_mm": 0.4149339305189744,
+      "prediction": "待复核",
+      "mlp_percentile": 0.262856601180816,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 19,
+      "flat_xy": [
+        4137.5,
+        3781.5
+      ],
+      "raw_xy": [
+        4783,
+        3782
+      ],
+      "band": 32,
+      "local_significance": 16.53454445918275,
+      "p95_mm": 0.7156328936845,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.4099345467881449,
+      "prediction": "待复核",
+      "mlp_percentile": 0.14821445618866164,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 20,
+      "flat_xy": [
+        369.5,
+        141.5
+      ],
+      "raw_xy": [
+        1247,
+        142
+      ],
+      "band": 2,
+      "local_significance": 16.161977876156502,
+      "p95_mm": 0.5623418357064907,
+      "missing_pct": 8.64,
+      "profile_step_p99_mm": 0.41207511432194793,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4353690823061812,
+      "mlp_rank": 1,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 21,
+      "flat_xy": [
+        369.5,
+        285.5
+      ],
+      "raw_xy": [
+        1247,
+        286
+      ],
+      "band": 2,
+      "local_significance": 15.769754402112348,
+      "p95_mm": 0.5934111553094311,
+      "missing_pct": 7.359999999999999,
+      "profile_step_p99_mm": 0.41232312041044766,
+      "prediction": "待复核",
+      "mlp_percentile": 0.25201721608717226,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 22,
+      "flat_xy": [
+        381.5,
+        989.5
+      ],
+      "raw_xy": [
+        1259,
+        990
+      ],
+      "band": 2,
+      "local_significance": 15.6374517137531,
+      "p95_mm": 0.6613750929571834,
+      "missing_pct": 9.92,
+      "profile_step_p99_mm": 0.594201547202389,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3625718177332152,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 23,
+      "flat_xy": [
+        377.5,
+        3425.5
+      ],
+      "raw_xy": [
+        1256,
+        3426
+      ],
+      "band": 2,
+      "local_significance": 15.56701183346153,
+      "p95_mm": 0.6094834743812271,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.41379334810081303,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22534599575379544,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54426",
+      "order": 24,
+      "flat_xy": [
+        4353.5,
+        1057.5
+      ],
+      "raw_xy": [
+        5011,
+        1058
+      ],
+      "band": 34,
+      "local_significance": 15.358409220930872,
+      "p95_mm": 0.7410157413751299,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.4116739565000229,
+      "prediction": "待复核",
+      "mlp_percentile": 0.08915348859723311,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 1,
+      "flat_xy": [
+        4093.5,
+        3221.5
+      ],
+      "raw_xy": [
+        4761,
+        3222
+      ],
+      "band": 31,
+      "local_significance": 27.80978491922341,
+      "p95_mm": 0.6312261896783412,
+      "missing_pct": 4.16,
+      "profile_step_p99_mm": 0.48429564931928903,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3140408944608129,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 2,
+      "flat_xy": [
+        4085.5,
+        1025.5
+      ],
+      "raw_xy": [
+        4752,
+        1026
+      ],
+      "band": 31,
+      "local_significance": 20.927538153725976,
+      "p95_mm": 0.686781161076606,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4108928594975316,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3969203895021757,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 3,
+      "flat_xy": [
+        4173.5,
+        2661.5
+      ],
+      "raw_xy": [
+        4843,
+        2662
+      ],
+      "band": 32,
+      "local_significance": 20.33739500905693,
+      "p95_mm": 0.6844744684828328,
+      "missing_pct": 7.04,
+      "profile_step_p99_mm": 0.4083381919458546,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3581907373419962,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 4,
+      "flat_xy": [
+        4157.5,
+        3665.5
+      ],
+      "raw_xy": [
+        4824,
+        3666
+      ],
+      "band": 32,
+      "local_significance": 19.75192674054062,
+      "p95_mm": 0.574892611858786,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.40619896225897434,
+      "prediction": "待复核",
+      "mlp_percentile": 0.38917064682848723,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 5,
+      "flat_xy": [
+        4221.5,
+        2525.5
+      ],
+      "raw_xy": [
+        4894,
+        2526
+      ],
+      "band": 32,
+      "local_significance": 19.68349231474936,
+      "p95_mm": 0.7648115781282923,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4080528760560088,
+      "prediction": "待复核",
+      "mlp_percentile": 0.33110884494523984,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 6,
+      "flat_xy": [
+        4221.5,
+        3341.5
+      ],
+      "raw_xy": [
+        4892,
+        3342
+      ],
+      "band": 32,
+      "local_significance": 19.607184480544035,
+      "p95_mm": 0.7194342720951767,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.6121350833991914,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2482715568650303,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 7,
+      "flat_xy": [
+        4105.5,
+        2153.5
+      ],
+      "raw_xy": [
+        4772,
+        2154
+      ],
+      "band": 32,
+      "local_significance": 19.553748227633047,
+      "p95_mm": 0.686425756328316,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.41037428458885983,
+      "prediction": "待复核",
+      "mlp_percentile": 0.26397867323098373,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 8,
+      "flat_xy": [
+        3981.5,
+        6065.5
+      ],
+      "raw_xy": [
+        4648,
+        6066
+      ],
+      "band": 31,
+      "local_significance": 19.080913232764384,
+      "p95_mm": 0.7123138044870956,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.4066141070621862,
+      "prediction": "待复核",
+      "mlp_percentile": 0.19011581045534504,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 9,
+      "flat_xy": [
+        4185.5,
+        2365.5
+      ],
+      "raw_xy": [
+        4855,
+        2366
+      ],
+      "band": 32,
+      "local_significance": 18.241906923365352,
+      "p95_mm": 0.6441844701289987,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.4093270825730556,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4334260071125537,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 10,
+      "flat_xy": [
+        4301.5,
+        6113.5
+      ],
+      "raw_xy": [
+        4983,
+        6114
+      ],
+      "band": 33,
+      "local_significance": 18.08152217535529,
+      "p95_mm": 0.7405311033182406,
+      "missing_pct": 10.4,
+      "profile_step_p99_mm": 0.6109615505340537,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2933499528915853,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 11,
+      "flat_xy": [
+        4317.5,
+        3717.5
+      ],
+      "raw_xy": [
+        5002,
+        3718
+      ],
+      "band": 33,
+      "local_significance": 17.760006358074016,
+      "p95_mm": 0.7691820572604087,
+      "missing_pct": 9.44,
+      "profile_step_p99_mm": 0.4094214810190394,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3193201683921599,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 12,
+      "flat_xy": [
+        4085.5,
+        2001.5
+      ],
+      "raw_xy": [
+        4751,
+        2002
+      ],
+      "band": 31,
+      "local_significance": 17.134826848654104,
+      "p95_mm": 0.624801797833301,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.4100235038790487,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3778367162439617,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 13,
+      "flat_xy": [
+        4257.5,
+        2777.5
+      ],
+      "raw_xy": [
+        4934,
+        2778
+      ],
+      "band": 33,
+      "local_significance": 17.062746202115637,
+      "p95_mm": 0.7533124917017104,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.40825968734886303,
+      "prediction": "待复核",
+      "mlp_percentile": 0.14876047685697014,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 14,
+      "flat_xy": [
+        4041.5,
+        3065.5
+      ],
+      "raw_xy": [
+        4707,
+        3066
+      ],
+      "band": 31,
+      "local_significance": 16.9282016522291,
+      "p95_mm": 0.6724688127925347,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.6134846996356248,
+      "prediction": "待复核",
+      "mlp_percentile": 0.21464145867257745,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 15,
+      "flat_xy": [
+        469.5,
+        253.5
+      ],
+      "raw_xy": [
+        1383,
+        254
+      ],
+      "band": 3,
+      "local_significance": 16.884133477774697,
+      "p95_mm": 0.6785187250565796,
+      "missing_pct": 7.68,
+      "profile_step_p99_mm": 0.6169859551272754,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6892417179050099,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 16,
+      "flat_xy": [
+        4261.5,
+        3153.5
+      ],
+      "raw_xy": [
+        4937,
+        3154
+      ],
+      "band": 33,
+      "local_significance": 16.741462911285215,
+      "p95_mm": 0.6418053286981233,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.6131717081444376,
+      "prediction": "待复核",
+      "mlp_percentile": 0.15878735316062062,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 17,
+      "flat_xy": [
+        4093.5,
+        2889.5
+      ],
+      "raw_xy": [
+        4761,
+        2890
+      ],
+      "band": 31,
+      "local_significance": 16.572401568338655,
+      "p95_mm": 0.7265619095809482,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.4071786777397506,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2512757394387291,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 18,
+      "flat_xy": [
+        4093.5,
+        1565.5
+      ],
+      "raw_xy": [
+        4759,
+        1566
+      ],
+      "band": 31,
+      "local_significance": 16.075448661874713,
+      "p95_mm": 0.6606749148710704,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.4067082656997391,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3335459565731215,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 19,
+      "flat_xy": [
+        4053.5,
+        1897.5
+      ],
+      "raw_xy": [
+        4719,
+        1898
+      ],
+      "band": 31,
+      "local_significance": 15.64547847190794,
+      "p95_mm": 0.6778688866675266,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.41008786546097553,
+      "prediction": "待复核",
+      "mlp_percentile": 0.24753838110435195,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 20,
+      "flat_xy": [
+        473.5,
+        2465.5
+      ],
+      "raw_xy": [
+        1388,
+        2466
+      ],
+      "band": 3,
+      "local_significance": 15.27679642668683,
+      "p95_mm": 0.7117270184331118,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.4102286162690234,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7155856692390221,
+      "mlp_rank": 1,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 21,
+      "flat_xy": [
+        4301.5,
+        5965.5
+      ],
+      "raw_xy": [
+        4984,
+        5966
+      ],
+      "band": 33,
+      "local_significance": 15.014076741510184,
+      "p95_mm": 0.7898519698845611,
+      "missing_pct": 7.199999999999999,
+      "profile_step_p99_mm": 0.6092913061501105,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6548811669816305,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 22,
+      "flat_xy": [
+        4185.5,
+        5193.5
+      ],
+      "raw_xy": [
+        4855,
+        5194
+      ],
+      "band": 32,
+      "local_significance": 14.794218280753865,
+      "p95_mm": 0.8835718353199346,
+      "missing_pct": 6.88,
+      "profile_step_p99_mm": 0.41033446487845393,
+      "prediction": "待复核",
+      "mlp_percentile": 0.09698751218555814,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 23,
+      "flat_xy": [
+        4265.5,
+        5649.5
+      ],
+      "raw_xy": [
+        4943,
+        5650
+      ],
+      "band": 33,
+      "local_significance": 14.641144043548701,
+      "p95_mm": 0.7919953737251533,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.4086503944026106,
+      "prediction": "待复核",
+      "mlp_percentile": 0.12960192028058098,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6A4F54444",
+      "order": 24,
+      "flat_xy": [
+        4101.5,
+        5893.5
+      ],
+      "raw_xy": [
+        4769,
+        5894
+      ],
+      "band": 32,
+      "local_significance": 14.483520346985657,
+      "p95_mm": 0.7339149838638676,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.4092321548200103,
+      "prediction": "待复核",
+      "mlp_percentile": 0.43233134915232085,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 1,
+      "flat_xy": [
+        661.5,
+        1077.5
+      ],
+      "raw_xy": [
+        1739,
+        1078
+      ],
+      "band": 5,
+      "local_significance": 32.36614222418749,
+      "p95_mm": 0.6764064422564132,
+      "missing_pct": 0.32,
+      "profile_step_p99_mm": 0.6010864899072204,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.890680764021479,
+      "mlp_rank": 6,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 2,
+      "flat_xy": [
+        377.5,
+        1457.5
+      ],
+      "raw_xy": [
+        1463,
+        1458
+      ],
+      "band": 2,
+      "local_significance": 27.700755026856406,
+      "p95_mm": 0.7337457887152251,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.3973840128155913,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7222603352997999,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 3,
+      "flat_xy": [
+        665.5,
+        1189.5
+      ],
+      "raw_xy": [
+        1743,
+        1190
+      ],
+      "band": 5,
+      "local_significance": 27.682966096054827,
+      "p95_mm": 0.72287161870712,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.6009258839556978,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8996988506384921,
+      "mlp_rank": 5,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 4,
+      "flat_xy": [
+        417.5,
+        1297.5
+      ],
+      "raw_xy": [
+        1504,
+        1298
+      ],
+      "band": 3,
+      "local_significance": 27.07601292171621,
+      "p95_mm": 0.6938917040610917,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.595498064202467,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7464102945664484,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 5,
+      "flat_xy": [
+        669.5,
+        1413.5
+      ],
+      "raw_xy": [
+        1748,
+        1414
+      ],
+      "band": 5,
+      "local_significance": 25.33904431652036,
+      "p95_mm": 0.6959299484273685,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.5993653710771076,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8767853945081857,
+      "mlp_rank": 7,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 6,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 6,
+      "flat_xy": [
+        405.5,
+        349.5
+      ],
+      "raw_xy": [
+        1491,
+        350
+      ],
+      "band": 3,
+      "local_significance": 22.85104565112932,
+      "p95_mm": 0.6685185710488639,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.597089459091805,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6884024707363027,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 7,
+      "flat_xy": [
+        665.5,
+        1301.5
+      ],
+      "raw_xy": [
+        1743,
+        1302
+      ],
+      "band": 5,
+      "local_significance": 22.768816937645216,
+      "p95_mm": 0.7394405306727435,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.6008160203217423,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.9190837644174626,
+      "mlp_rank": 3,
+      "bubble_rank": 4,
+      "fused_bubble_rank": 4,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 8,
+      "flat_xy": [
+        353.5,
+        3625.5
+      ],
+      "raw_xy": [
+        1437,
+        3626
+      ],
+      "band": 2,
+      "local_significance": 22.44209029779573,
+      "p95_mm": 0.7361359731239729,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.3969949859423174,
+      "prediction": "待复核",
+      "mlp_percentile": 0.8290636877933621,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 9,
+      "flat_xy": [
+        665.5,
+        745.5
+      ],
+      "raw_xy": [
+        1742,
+        746
+      ],
+      "band": 5,
+      "local_significance": 22.43467917994242,
+      "p95_mm": 0.6754506034168315,
+      "missing_pct": 0.32,
+      "profile_step_p99_mm": 0.6007330378290263,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.9406718102506804,
+      "mlp_rank": 1,
+      "bubble_rank": 5,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 10,
+      "flat_xy": [
+        1493.5,
+        793.5
+      ],
+      "raw_xy": [
+        2532,
+        794
+      ],
+      "band": 11,
+      "local_significance": 22.139146555106205,
+      "p95_mm": 0.6047556419693364,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4134722735470146,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.5676741130091985,
+      "mlp_rank": 19,
+      "bubble_rank": 6,
+      "fused_bubble_rank": 9,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 11,
+      "flat_xy": [
+        665.5,
+        577.5
+      ],
+      "raw_xy": [
+        1742,
+        578
+      ],
+      "band": 5,
+      "local_significance": 21.966629575906577,
+      "p95_mm": 0.7631125565546255,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.8032690933278898,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.9293616844186733,
+      "mlp_rank": 2,
+      "bubble_rank": 7,
+      "fused_bubble_rank": 5,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 12,
+      "flat_xy": [
+        677.5,
+        3141.5
+      ],
+      "raw_xy": [
+        1754,
+        3142
+      ],
+      "band": 5,
+      "local_significance": 21.37748456436062,
+      "p95_mm": 0.6804356488041435,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.6017896620224127,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.776984269107473,
+      "mlp_rank": 13,
+      "bubble_rank": 8,
+      "fused_bubble_rank": 8,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 13,
+      "flat_xy": [
+        3441.5,
+        3633.5
+      ],
+      "raw_xy": [
+        4251,
+        3634
+      ],
+      "band": 26,
+      "local_significance": 21.203354347109848,
+      "p95_mm": 0.6623647941193865,
+      "missing_pct": 2.08,
+      "profile_step_p99_mm": 1.0089175855762573,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.37838194011818976,
+      "mlp_rank": 23,
+      "bubble_rank": 9,
+      "fused_bubble_rank": 11,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 14,
+      "flat_xy": [
+        433.5,
+        2289.5
+      ],
+      "raw_xy": [
+        1521,
+        2290
+      ],
+      "band": 3,
+      "local_significance": 21.069143057514193,
+      "p95_mm": 0.7462643181195346,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.5298298964413044,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7885560720438054,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 15,
+      "flat_xy": [
+        441.5,
+        5661.5
+      ],
+      "raw_xy": [
+        1529,
+        5662
+      ],
+      "band": 3,
+      "local_significance": 20.075333373946474,
+      "p95_mm": 0.7364685659748048,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.3985463882380088,
+      "prediction": "待复核",
+      "mlp_percentile": 0.8334472522012404,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 16,
+      "flat_xy": [
+        441.5,
+        2601.5
+      ],
+      "raw_xy": [
+        1527,
+        2602
+      ],
+      "band": 3,
+      "local_significance": 20.04316904244857,
+      "p95_mm": 0.7591144839146379,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.5947381736993662,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7899949808439749,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 17,
+      "flat_xy": [
+        3445.5,
+        3521.5
+      ],
+      "raw_xy": [
+        4254,
+        3522
+      ],
+      "band": 26,
+      "local_significance": 19.973155105188265,
+      "p95_mm": 0.6918426373476194,
+      "missing_pct": 2.2399999999999998,
+      "profile_step_p99_mm": 0.6545217595815416,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.39905001752921326,
+      "mlp_rank": 22,
+      "bubble_rank": 10,
+      "fused_bubble_rank": 12,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 18,
+      "flat_xy": [
+        3445.5,
+        2069.5
+      ],
+      "raw_xy": [
+        4257,
+        2070
+      ],
+      "band": 26,
+      "local_significance": 19.927754661988434,
+      "p95_mm": 0.6690769155856431,
+      "missing_pct": 4.16,
+      "profile_step_p99_mm": 0.4065252666956962,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4060610722834133,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 19,
+      "flat_xy": [
+        109.5,
+        1833.5
+      ],
+      "raw_xy": [
+        1144,
+        1834
+      ],
+      "band": 0,
+      "local_significance": 18.58011358587367,
+      "p95_mm": 0.6037096001208028,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.39952145808019424,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6103306337504193,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 20,
+      "flat_xy": [
+        3477.5,
+        5665.5
+      ],
+      "raw_xy": [
+        4286,
+        5666
+      ],
+      "band": 27,
+      "local_significance": 18.399670345153904,
+      "p95_mm": 0.7713898591010206,
+      "missing_pct": 4.64,
+      "profile_step_p99_mm": 0.4059592465329459,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5170392780486328,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 21,
+      "flat_xy": [
+        3453.5,
+        3745.5
+      ],
+      "raw_xy": [
+        4261,
+        3746
+      ],
+      "band": 26,
+      "local_significance": 18.198944624647076,
+      "p95_mm": 0.6849341917290701,
+      "missing_pct": 2.2399999999999998,
+      "profile_step_p99_mm": 1.0073897259209652,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3610078414854684,
+      "mlp_rank": 24,
+      "bubble_rank": 11,
+      "fused_bubble_rank": 13,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 22,
+      "flat_xy": [
+        665.5,
+        857.5
+      ],
+      "raw_xy": [
+        1743,
+        858
+      ],
+      "band": 5,
+      "local_significance": 18.158408147876315,
+      "p95_mm": 0.7609222837358856,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.6005286499032212,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.914117574360436,
+      "mlp_rank": 4,
+      "bubble_rank": 12,
+      "fused_bubble_rank": 7,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 23,
+      "flat_xy": [
+        2689.5,
+        1309.5
+      ],
+      "raw_xy": [
+        3554,
+        1310
+      ],
+      "band": 21,
+      "local_significance": 18.138892606156638,
+      "p95_mm": 0.6215675830557046,
+      "missing_pct": 0.32,
+      "profile_step_p99_mm": 0.4153924017301051,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8110464309765159,
+      "mlp_rank": 10,
+      "bubble_rank": 13,
+      "fused_bubble_rank": 10,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56018",
+      "order": 24,
+      "flat_xy": [
+        4017.5,
+        1301.5
+      ],
+      "raw_xy": [
+        4828,
+        1302
+      ],
+      "band": 31,
+      "local_significance": 17.97785230933735,
+      "p95_mm": 0.6322211318359762,
+      "missing_pct": 8.48,
+      "profile_step_p99_mm": 0.22485176158515655,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6197749703012251,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 1,
+      "flat_xy": [
+        657.5,
+        437.5
+      ],
+      "raw_xy": [
+        1763,
+        438
+      ],
+      "band": 5,
+      "local_significance": 49.40908579739269,
+      "p95_mm": 0.7371197652891139,
+      "missing_pct": 2.08,
+      "profile_step_p99_mm": 0.7942482012164634,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.18179937149201886,
+      "mlp_rank": 15,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 2,
+      "flat_xy": [
+        653.5,
+        261.5
+      ],
+      "raw_xy": [
+        1758,
+        262
+      ],
+      "band": 5,
+      "local_significance": 29.02542869724494,
+      "p95_mm": 0.721569099363316,
+      "missing_pct": 0.16,
+      "profile_step_p99_mm": 0.7969809034009665,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.09323844594525767,
+      "mlp_rank": 18,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 3,
+      "flat_xy": [
+        3417.5,
+        2833.5
+      ],
+      "raw_xy": [
+        4247,
+        2834
+      ],
+      "band": 26,
+      "local_significance": 28.357911625530075,
+      "p95_mm": 0.7231808725289126,
+      "missing_pct": 4.0,
+      "profile_step_p99_mm": 0.4029498838660942,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.0044075777485764345,
+      "mlp_rank": 23,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 6,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 4,
+      "flat_xy": [
+        661.5,
+        6609.5
+      ],
+      "raw_xy": [
+        1767,
+        6610
+      ],
+      "band": 5,
+      "local_significance": 26.490953345138323,
+      "p95_mm": 0.7031068974858016,
+      "missing_pct": 0.32,
+      "profile_step_p99_mm": 0.7966795553349811,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.2607601432224022,
+      "mlp_rank": 11,
+      "bubble_rank": 4,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 5,
+      "flat_xy": [
+        3417.5,
+        1605.5
+      ],
+      "raw_xy": [
+        4246,
+        1606
+      ],
+      "band": 26,
+      "local_significance": 24.034239005012395,
+      "p95_mm": 0.7512689672463494,
+      "missing_pct": 2.7199999999999998,
+      "profile_step_p99_mm": 1.0608735925360164,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.26002989742179305,
+      "mlp_rank": 12,
+      "bubble_rank": 5,
+      "fused_bubble_rank": 4,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 6,
+      "flat_xy": [
+        3417.5,
+        333.5
+      ],
+      "raw_xy": [
+        4243,
+        334
+      ],
+      "band": 26,
+      "local_significance": 23.950853007708908,
+      "p95_mm": 0.7482470452967049,
+      "missing_pct": 1.92,
+      "profile_step_p99_mm": 1.0001129269273312,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.05920975562550296,
+      "mlp_rank": 19,
+      "bubble_rank": 6,
+      "fused_bubble_rank": 10,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 7,
+      "flat_xy": [
+        645.5,
+        1481.5
+      ],
+      "raw_xy": [
+        1752,
+        1482
+      ],
+      "band": 5,
+      "local_significance": 22.641939760248707,
+      "p95_mm": 0.7085014857905151,
+      "missing_pct": 2.7199999999999998,
+      "profile_step_p99_mm": 0.5959054559712222,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.20548110910776315,
+      "mlp_rank": 14,
+      "bubble_rank": 7,
+      "fused_bubble_rank": 9,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 8,
+      "flat_xy": [
+        433.5,
+        6553.5
+      ],
+      "raw_xy": [
+        1550,
+        6554
+      ],
+      "band": 3,
+      "local_significance": 22.128077899265072,
+      "p95_mm": 0.7137582488168199,
+      "missing_pct": 9.44,
+      "profile_step_p99_mm": 0.5901999353872747,
+      "prediction": "待复核",
+      "mlp_percentile": 0.773714843789791,
+      "mlp_rank": 1,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 9,
+      "flat_xy": [
+        669.5,
+        6497.5
+      ],
+      "raw_xy": [
+        1775,
+        6498
+      ],
+      "band": 5,
+      "local_significance": 20.58129959232721,
+      "p95_mm": 0.696524036157831,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.7957223905821889,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3390365084700873,
+      "mlp_rank": 9,
+      "bubble_rank": 8,
+      "fused_bubble_rank": 7,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 10,
+      "flat_xy": [
+        3433.5,
+        2677.5
+      ],
+      "raw_xy": [
+        4261,
+        2678
+      ],
+      "band": 26,
+      "local_significance": 20.480128166221867,
+      "p95_mm": 0.7423989417356212,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.4022008022370335,
+      "prediction": "待复核",
+      "mlp_percentile": 0.05702602145280078,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 11,
+      "flat_xy": [
+        657.5,
+        6993.5
+      ],
+      "raw_xy": [
+        1763,
+        6994
+      ],
+      "band": 5,
+      "local_significance": 20.09537339612808,
+      "p95_mm": 0.7373756999352509,
+      "missing_pct": 1.92,
+      "profile_step_p99_mm": 0.5959841610323644,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.0514718240992574,
+      "mlp_rank": 21,
+      "bubble_rank": 9,
+      "fused_bubble_rank": 12,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 12,
+      "flat_xy": [
+        653.5,
+        1373.5
+      ],
+      "raw_xy": [
+        1759,
+        1374
+      ],
+      "band": 5,
+      "local_significance": 19.54231892901883,
+      "p95_mm": 0.7149479897867224,
+      "missing_pct": 1.76,
+      "profile_step_p99_mm": 0.5970138866018382,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3651846560523179,
+      "mlp_rank": 7,
+      "bubble_rank": 10,
+      "fused_bubble_rank": 8,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 13,
+      "flat_xy": [
+        1461.5,
+        369.5
+      ],
+      "raw_xy": [
+        2529,
+        370
+      ],
+      "band": 11,
+      "local_significance": 19.19774790995794,
+      "p95_mm": 0.612680842838688,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.41252736853111943,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.012776436553290754,
+      "mlp_rank": 22,
+      "bubble_rank": 11,
+      "fused_bubble_rank": 14,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 14,
+      "flat_xy": [
+        3961.5,
+        725.5
+      ],
+      "raw_xy": [
+        4783,
+        726
+      ],
+      "band": 30,
+      "local_significance": 19.15351908478851,
+      "p95_mm": 0.7310727606711112,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.39074712650948684,
+      "prediction": "待复核",
+      "mlp_percentile": 0.48738209108781794,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 15,
+      "flat_xy": [
+        417.5,
+        265.5
+      ],
+      "raw_xy": [
+        1532,
+        266
+      ],
+      "band": 3,
+      "local_significance": 19.039423791104515,
+      "p95_mm": 0.7222570432657107,
+      "missing_pct": 9.120000000000001,
+      "profile_step_p99_mm": 0.5907534417782123,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4556536432071224,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 16,
+      "flat_xy": [
+        3425.5,
+        1061.5
+      ],
+      "raw_xy": [
+        4251,
+        1062
+      ],
+      "band": 26,
+      "local_significance": 18.936955465552245,
+      "p95_mm": 0.7456846983717739,
+      "missing_pct": 1.76,
+      "profile_step_p99_mm": 1.1973467723189577,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.46197246584970814,
+      "mlp_rank": 4,
+      "bubble_rank": 12,
+      "fused_bubble_rank": 5,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 17,
+      "flat_xy": [
+        3409.5,
+        5969.5
+      ],
+      "raw_xy": [
+        4237,
+        5970
+      ],
+      "band": 26,
+      "local_significance": 18.814117723011677,
+      "p95_mm": 0.7210152570158073,
+      "missing_pct": 2.56,
+      "profile_step_p99_mm": 1.0583872399952527,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.0037709205553688027,
+      "mlp_rank": 24,
+      "bubble_rank": 13,
+      "fused_bubble_rank": 17,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 18,
+      "flat_xy": [
+        421.5,
+        6773.5
+      ],
+      "raw_xy": [
+        1537,
+        6774
+      ],
+      "band": 3,
+      "local_significance": 18.179065613622996,
+      "p95_mm": 0.7332192556707057,
+      "missing_pct": 9.28,
+      "profile_step_p99_mm": 0.5899897232616308,
+      "prediction": "待复核",
+      "mlp_percentile": 0.666796544734081,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 19,
+      "flat_xy": [
+        3421.5,
+        6841.5
+      ],
+      "raw_xy": [
+        4252,
+        6842
+      ],
+      "band": 26,
+      "local_significance": 17.691194655097448,
+      "p95_mm": 0.7403126908391187,
+      "missing_pct": 0.64,
+      "profile_step_p99_mm": 1.200544291264819,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.11798658435962472,
+      "mlp_rank": 16,
+      "bubble_rank": 14,
+      "fused_bubble_rank": 15,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 20,
+      "flat_xy": [
+        661.5,
+        6389.5
+      ],
+      "raw_xy": [
+        1767,
+        6390
+      ],
+      "band": 5,
+      "local_significance": 17.687198095039353,
+      "p95_mm": 0.7337277910351432,
+      "missing_pct": 1.44,
+      "profile_step_p99_mm": 0.6350162767679748,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.20666974808748179,
+      "mlp_rank": 13,
+      "bubble_rank": 15,
+      "fused_bubble_rank": 13,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 21,
+      "flat_xy": [
+        665.5,
+        2781.5
+      ],
+      "raw_xy": [
+        1770,
+        2782
+      ],
+      "band": 5,
+      "local_significance": 17.664662345489386,
+      "p95_mm": 0.6731461799732756,
+      "missing_pct": 0.96,
+      "profile_step_p99_mm": 0.6002524215761642,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.351671607126486,
+      "mlp_rank": 8,
+      "bubble_rank": 16,
+      "fused_bubble_rank": 11,
+      "bubble_hit": true
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 22,
+      "flat_xy": [
+        649.5,
+        6765.5
+      ],
+      "raw_xy": [
+        1756,
+        6766
+      ],
+      "band": 5,
+      "local_significance": 17.517964127267668,
+      "p95_mm": 0.7310598682225473,
+      "missing_pct": 1.28,
+      "profile_step_p99_mm": 0.7936164165491927,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.10195364626307694,
+      "mlp_rank": 17,
+      "bubble_rank": 17,
+      "fused_bubble_rank": 16,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 23,
+      "flat_xy": [
+        3433.5,
+        1821.5
+      ],
+      "raw_xy": [
+        4262,
+        1822
+      ],
+      "band": 26,
+      "local_significance": 17.50185156034399,
+      "p95_mm": 0.7861391821176085,
+      "missing_pct": 4.64,
+      "profile_step_p99_mm": 0.5038710596400442,
+      "prediction": "待复核",
+      "mlp_percentile": 0.28977197485968076,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56073",
+      "order": 24,
+      "flat_xy": [
+        3457.5,
+        5329.5
+      ],
+      "raw_xy": [
+        4281,
+        5330
+      ],
+      "band": 27,
+      "local_significance": 16.977991062620998,
+      "p95_mm": 0.757906319155074,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.40081218279046144,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3999079393698622,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 1,
+      "flat_xy": [
+        177.5,
+        6661.5
+      ],
+      "raw_xy": [
+        1250,
+        6662
+      ],
+      "band": 1,
+      "local_significance": 38.7662343900393,
+      "p95_mm": 0.6164991298031509,
+      "missing_pct": 8.32,
+      "profile_step_p99_mm": 0.3958867969530297,
+      "prediction": "待复核",
+      "mlp_percentile": 0.054241915877409896,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 2,
+      "flat_xy": [
+        3745.5,
+        6001.5
+      ],
+      "raw_xy": [
+        4522,
+        6002
+      ],
+      "band": 29,
+      "local_significance": 38.22870958287469,
+      "p95_mm": 0.6972435982290079,
+      "missing_pct": 3.52,
+      "profile_step_p99_mm": 0.5918262125608098,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.17658334185389818,
+      "mlp_rank": 14,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 3,
+      "flat_xy": [
+        341.5,
+        265.5
+      ],
+      "raw_xy": [
+        1442,
+        266
+      ],
+      "band": 2,
+      "local_significance": 26.9320533382386,
+      "p95_mm": 0.6961578287322396,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.3963605300301117,
+      "prediction": "待复核",
+      "mlp_percentile": 0.329408193122705,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 4,
+      "flat_xy": [
+        357.5,
+        6157.5
+      ],
+      "raw_xy": [
+        1457,
+        6158
+      ],
+      "band": 2,
+      "local_significance": 26.0559425548978,
+      "p95_mm": 0.6832058193847971,
+      "missing_pct": 7.359999999999999,
+      "profile_step_p99_mm": 0.3950112557835709,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3177078796921488,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 5,
+      "flat_xy": [
+        3905.5,
+        5449.5
+      ],
+      "raw_xy": [
+        4689,
+        5450
+      ],
+      "band": 30,
+      "local_significance": 25.764060443193628,
+      "p95_mm": 0.6087611972533011,
+      "missing_pct": 5.12,
+      "profile_step_p99_mm": 0.3916458715790114,
+      "prediction": "待复核",
+      "mlp_percentile": 0.15716781473388697,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 6,
+      "flat_xy": [
+        173.5,
+        6445.5
+      ],
+      "raw_xy": [
+        1243,
+        6446
+      ],
+      "band": 1,
+      "local_significance": 25.59451630036282,
+      "p95_mm": 0.5590661002043731,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.593968423873278,
+      "prediction": "待复核",
+      "mlp_percentile": 0.23458503586842228,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 7,
+      "flat_xy": [
+        297.5,
+        6681.5
+      ],
+      "raw_xy": [
+        1393,
+        6682
+      ],
+      "band": 2,
+      "local_significance": 24.356880675554645,
+      "p95_mm": 0.6104109590119009,
+      "missing_pct": 7.04,
+      "profile_step_p99_mm": 0.39511508658731714,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22910599708912258,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 8,
+      "flat_xy": [
+        649.5,
+        6481.5
+      ],
+      "raw_xy": [
+        1739,
+        6482
+      ],
+      "band": 5,
+      "local_significance": 24.170926827380743,
+      "p95_mm": 0.7225620268689056,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.5977330280376387,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8290200340570133,
+      "mlp_rank": 1,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 9,
+      "flat_xy": [
+        133.5,
+        5949.5
+      ],
+      "raw_xy": [
+        1188,
+        5950
+      ],
+      "band": 1,
+      "local_significance": 23.74434579863214,
+      "p95_mm": 0.5346790273005332,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.3970427287199763,
+      "prediction": "待复核",
+      "mlp_percentile": 0.13916480792122202,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 10,
+      "flat_xy": [
+        333.5,
+        7069.5
+      ],
+      "raw_xy": [
+        1434,
+        7070
+      ],
+      "band": 2,
+      "local_significance": 23.709934141099325,
+      "p95_mm": 0.6866668009015214,
+      "missing_pct": 8.48,
+      "profile_step_p99_mm": 0.3947811486348013,
+      "prediction": "待复核",
+      "mlp_percentile": 0.28559544862983005,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 11,
+      "flat_xy": [
+        157.5,
+        1205.5
+      ],
+      "raw_xy": [
+        1221,
+        1206
+      ],
+      "band": 1,
+      "local_significance": 22.938303415315243,
+      "p95_mm": 0.5851249705647377,
+      "missing_pct": 7.199999999999999,
+      "profile_step_p99_mm": 0.5967024173535698,
+      "prediction": "待复核",
+      "mlp_percentile": 0.05904751445655838,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 12,
+      "flat_xy": [
+        393.5,
+        493.5
+      ],
+      "raw_xy": [
+        1495,
+        494
+      ],
+      "band": 3,
+      "local_significance": 22.874506901394522,
+      "p95_mm": 0.6268532132409135,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.5928786755484389,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6669450051186504,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 13,
+      "flat_xy": [
+        3833.5,
+        1301.5
+      ],
+      "raw_xy": [
+        4609,
+        1302
+      ],
+      "band": 29,
+      "local_significance": 22.721802380211702,
+      "p95_mm": 0.6307640851224442,
+      "missing_pct": 4.96,
+      "profile_step_p99_mm": 0.39570120525081875,
+      "prediction": "待复核",
+      "mlp_percentile": 0.11078817118382835,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 14,
+      "flat_xy": [
+        3817.5,
+        6821.5
+      ],
+      "raw_xy": [
+        4590,
+        6822
+      ],
+      "band": 29,
+      "local_significance": 22.584662377133473,
+      "p95_mm": 0.6500715696512288,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.3919303501754047,
+      "prediction": "待复核",
+      "mlp_percentile": 0.26343061924940764,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 15,
+      "flat_xy": [
+        3833.5,
+        2529.5
+      ],
+      "raw_xy": [
+        4606,
+        2530
+      ],
+      "band": 29,
+      "local_significance": 22.466603119126848,
+      "p95_mm": 0.6450481504258085,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.39387791788246107,
+      "prediction": "待复核",
+      "mlp_percentile": 0.24072489178882633,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 16,
+      "flat_xy": [
+        253.5,
+        5645.5
+      ],
+      "raw_xy": [
+        1340,
+        5646
+      ],
+      "band": 1,
+      "local_significance": 21.9447306959401,
+      "p95_mm": 0.6826961812306408,
+      "missing_pct": 8.0,
+      "profile_step_p99_mm": 0.3961360573973184,
+      "prediction": "待复核",
+      "mlp_percentile": 0.14079633830303168,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 17,
+      "flat_xy": [
+        3909.5,
+        5221.5
+      ],
+      "raw_xy": [
+        4693,
+        5222
+      ],
+      "band": 30,
+      "local_significance": 21.8313901333698,
+      "p95_mm": 0.6276762746916688,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.3925860920586494,
+      "prediction": "待复核",
+      "mlp_percentile": 0.12898620425876767,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 18,
+      "flat_xy": [
+        129.5,
+        2109.5
+      ],
+      "raw_xy": [
+        1183,
+        2110
+      ],
+      "band": 1,
+      "local_significance": 21.694865673774448,
+      "p95_mm": 0.5677969618477854,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.39832193495051554,
+      "prediction": "待复核",
+      "mlp_percentile": 0.19260389724325014,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 19,
+      "flat_xy": [
+        373.5,
+        1889.5
+      ],
+      "raw_xy": [
+        1473,
+        1890
+      ],
+      "band": 2,
+      "local_significance": 21.63796658026393,
+      "p95_mm": 0.6826681096828281,
+      "missing_pct": 8.32,
+      "profile_step_p99_mm": 0.39728112030045365,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6626411731366156,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 20,
+      "flat_xy": [
+        177.5,
+        6941.5
+      ],
+      "raw_xy": [
+        1248,
+        6942
+      ],
+      "band": 1,
+      "local_significance": 20.93382950525201,
+      "p95_mm": 0.5890907523254697,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.3960508056461441,
+      "prediction": "待复核",
+      "mlp_percentile": 0.10261284699211437,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 21,
+      "flat_xy": [
+        641.5,
+        5281.5
+      ],
+      "raw_xy": [
+        1729,
+        5282
+      ],
+      "band": 5,
+      "local_significance": 20.907212888866653,
+      "p95_mm": 0.6669548325909886,
+      "missing_pct": 0.64,
+      "profile_step_p99_mm": 0.59867348477304,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.6002618022446323,
+      "mlp_rank": 4,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 22,
+      "flat_xy": [
+        3873.5,
+        945.5
+      ],
+      "raw_xy": [
+        4652,
+        946
+      ],
+      "band": 30,
+      "local_significance": 20.84518052238141,
+      "p95_mm": 0.592356094918327,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.3945261001825395,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22602912644644477,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 23,
+      "flat_xy": [
+        3933.5,
+        2445.5
+      ],
+      "raw_xy": [
+        4716,
+        2446
+      ],
+      "band": 30,
+      "local_significance": 20.531866088984344,
+      "p95_mm": 0.6210048494488838,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.39354297577705877,
+      "prediction": "待复核",
+      "mlp_percentile": 0.08232948456262994,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B1F56095",
+      "order": 24,
+      "flat_xy": [
+        3753.5,
+        6161.5
+      ],
+      "raw_xy": [
+        4529,
+        6162
+      ],
+      "band": 29,
+      "local_significance": 20.496271529987215,
+      "p95_mm": 0.7307821779447182,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.3943364244501413,
+      "prediction": "待复核",
+      "mlp_percentile": 0.08397679376824821,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 1,
+      "flat_xy": [
+        3737.5,
+        2361.5
+      ],
+      "raw_xy": [
+        4550,
+        2362
+      ],
+      "band": 29,
+      "local_significance": 28.894742612505826,
+      "p95_mm": 0.6271686563652992,
+      "missing_pct": 2.2399999999999998,
+      "profile_step_p99_mm": 0.6543474298647683,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.1728122412706129,
+      "mlp_rank": 23,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 5,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 2,
+      "flat_xy": [
+        2725.5,
+        6065.5
+      ],
+      "raw_xy": [
+        3602,
+        6066
+      ],
+      "band": 21,
+      "local_significance": 24.306560292999965,
+      "p95_mm": 0.6106136867790838,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4183752440576431,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8759959894571335,
+      "mlp_rank": 2,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 3,
+      "flat_xy": [
+        381.5,
+        3433.5
+      ],
+      "raw_xy": [
+        1468,
+        3434
+      ],
+      "band": 2,
+      "local_significance": 23.5979600545485,
+      "p95_mm": 0.7303062822997134,
+      "missing_pct": 10.72,
+      "profile_step_p99_mm": 0.3993625467614983,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5488987464521634,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 4,
+      "flat_xy": [
+        3485.5,
+        1613.5
+      ],
+      "raw_xy": [
+        4315,
+        1614
+      ],
+      "band": 27,
+      "local_significance": 22.001599561798326,
+      "p95_mm": 0.6783670807653508,
+      "missing_pct": 3.36,
+      "profile_step_p99_mm": 0.6909672298452596,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3400175714441246,
+      "mlp_rank": 20,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 6,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 5,
+      "flat_xy": [
+        3465.5,
+        957.5
+      ],
+      "raw_xy": [
+        4294,
+        958
+      ],
+      "band": 27,
+      "local_significance": 21.745295942422725,
+      "p95_mm": 0.6939691785703275,
+      "missing_pct": 2.2399999999999998,
+      "profile_step_p99_mm": 0.8022316222421821,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8431096645474594,
+      "mlp_rank": 6,
+      "bubble_rank": 4,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 6,
+      "flat_xy": [
+        2729.5,
+        941.5
+      ],
+      "raw_xy": [
+        3607,
+        942
+      ],
+      "band": 21,
+      "local_significance": 21.436415207228478,
+      "p95_mm": 0.5930994567878258,
+      "missing_pct": 0.32,
+      "profile_step_p99_mm": 0.41801858908890493,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8722747171225368,
+      "mlp_rank": 3,
+      "bubble_rank": 5,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 7,
+      "flat_xy": [
+        353.5,
+        949.5
+      ],
+      "raw_xy": [
+        1439,
+        950
+      ],
+      "band": 2,
+      "local_significance": 21.00694189804307,
+      "p95_mm": 0.7476794839564477,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.3988659959911757,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22729701057578128,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 8,
+      "flat_xy": [
+        3493.5,
+        5825.5
+      ],
+      "raw_xy": [
+        4323,
+        5826
+      ],
+      "band": 27,
+      "local_significance": 20.63449815628007,
+      "p95_mm": 0.6635903059835443,
+      "missing_pct": 3.36,
+      "profile_step_p99_mm": 0.40408734216911596,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.40614722034439016,
+      "mlp_rank": 18,
+      "bubble_rank": 6,
+      "fused_bubble_rank": 12,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 9,
+      "flat_xy": [
+        3437.5,
+        6737.5
+      ],
+      "raw_xy": [
+        4270,
+        6738
+      ],
+      "band": 26,
+      "local_significance": 20.02871102741874,
+      "p95_mm": 0.6470328015857149,
+      "missing_pct": 2.7199999999999998,
+      "profile_step_p99_mm": 0.8750627442807689,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3670292359460096,
+      "mlp_rank": 19,
+      "bubble_rank": 7,
+      "fused_bubble_rank": 14,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 10,
+      "flat_xy": [
+        3849.5,
+        2393.5
+      ],
+      "raw_xy": [
+        4665,
+        2394
+      ],
+      "band": 30,
+      "local_significance": 19.90312834167541,
+      "p95_mm": 0.6105559688397009,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.39789893111270486,
+      "prediction": "待复核",
+      "mlp_percentile": 0.14451753219954477,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 11,
+      "flat_xy": [
+        3485.5,
+        6477.5
+      ],
+      "raw_xy": [
+        4315,
+        6478
+      ],
+      "band": 27,
+      "local_significance": 19.5031341472757,
+      "p95_mm": 0.706392213893713,
+      "missing_pct": 3.52,
+      "profile_step_p99_mm": 0.8064589656061696,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.4373542570241468,
+      "mlp_rank": 16,
+      "bubble_rank": 8,
+      "fused_bubble_rank": 15,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 12,
+      "flat_xy": [
+        3785.5,
+        2057.5
+      ],
+      "raw_xy": [
+        4599,
+        2058
+      ],
+      "band": 29,
+      "local_significance": 19.490697644445127,
+      "p95_mm": 0.6693565769824201,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.5998667471835165,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3303665696945759,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 13,
+      "flat_xy": [
+        3489.5,
+        6197.5
+      ],
+      "raw_xy": [
+        4317,
+        6198
+      ],
+      "band": 27,
+      "local_significance": 19.123842539303677,
+      "p95_mm": 0.7136418042358244,
+      "missing_pct": 2.4,
+      "profile_step_p99_mm": 0.8061518113134923,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.6403867236852433,
+      "mlp_rank": 9,
+      "bubble_rank": 9,
+      "fused_bubble_rank": 9,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 14,
+      "flat_xy": [
+        1397.5,
+        5533.5
+      ],
+      "raw_xy": [
+        2446,
+        5534
+      ],
+      "band": 10,
+      "local_significance": 18.543886041535973,
+      "p95_mm": 0.5325162893412766,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4157221320508631,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.5167251537501361,
+      "mlp_rank": 11,
+      "bubble_rank": 10,
+      "fused_bubble_rank": 13,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 15,
+      "flat_xy": [
+        3445.5,
+        469.5
+      ],
+      "raw_xy": [
+        4274,
+        470
+      ],
+      "band": 26,
+      "local_significance": 18.476781594716204,
+      "p95_mm": 0.6893516580389771,
+      "missing_pct": 2.7199999999999998,
+      "profile_step_p99_mm": 0.808510792006474,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.772846675224517,
+      "mlp_rank": 8,
+      "bubble_rank": 11,
+      "fused_bubble_rank": 10,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 16,
+      "flat_xy": [
+        3501.5,
+        5385.5
+      ],
+      "raw_xy": [
+        4331,
+        5386
+      ],
+      "band": 27,
+      "local_significance": 18.43946147678061,
+      "p95_mm": 0.7076431492217523,
+      "missing_pct": 2.2399999999999998,
+      "profile_step_p99_mm": 0.8071128781667528,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.48144237756324076,
+      "mlp_rank": 13,
+      "bubble_rank": 12,
+      "fused_bubble_rank": 16,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 17,
+      "flat_xy": [
+        2737.5,
+        345.5
+      ],
+      "raw_xy": [
+        3614,
+        346
+      ],
+      "band": 21,
+      "local_significance": 18.391257478050825,
+      "p95_mm": 0.5658527396005296,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.41628176626628743,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.4160533118627503,
+      "mlp_rank": 17,
+      "bubble_rank": 13,
+      "fused_bubble_rank": 19,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 18,
+      "flat_xy": [
+        329.5,
+        509.5
+      ],
+      "raw_xy": [
+        1415,
+        510
+      ],
+      "band": 2,
+      "local_significance": 18.306682249488635,
+      "p95_mm": 0.6665242185033534,
+      "missing_pct": 11.200000000000001,
+      "profile_step_p99_mm": 0.39869509699864436,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4616839975794956,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 19,
+      "flat_xy": [
+        1401.5,
+        5809.5
+      ],
+      "raw_xy": [
+        2450,
+        5810
+      ],
+      "band": 10,
+      "local_significance": 18.22834933811162,
+      "p95_mm": 0.518619166554555,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.41578001272398923,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.4725718365703782,
+      "mlp_rank": 14,
+      "bubble_rank": 14,
+      "fused_bubble_rank": 17,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 20,
+      "flat_xy": [
+        2489.5,
+        1741.5
+      ],
+      "raw_xy": [
+        3386,
+        1742
+      ],
+      "band": 19,
+      "local_significance": 17.848332110353308,
+      "p95_mm": 0.5896311748621741,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.41737070089383577,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8191508485690919,
+      "mlp_rank": 7,
+      "bubble_rank": 15,
+      "fused_bubble_rank": 11,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 21,
+      "flat_xy": [
+        2721.5,
+        5629.5
+      ],
+      "raw_xy": [
+        3598,
+        5630
+      ],
+      "band": 21,
+      "local_significance": 17.845767513090003,
+      "p95_mm": 0.6111603180279701,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4144752562184846,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.9173869945994394,
+      "mlp_rank": 1,
+      "bubble_rank": 16,
+      "fused_bubble_rank": 4,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 22,
+      "flat_xy": [
+        2505.5,
+        6505.5
+      ],
+      "raw_xy": [
+        3400,
+        6506
+      ],
+      "band": 19,
+      "local_significance": 17.571888802677044,
+      "p95_mm": 0.6334865442063148,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4172354693331944,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8550153307052124,
+      "mlp_rank": 4,
+      "bubble_rank": 17,
+      "fused_bubble_rank": 7,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 23,
+      "flat_xy": [
+        2737.5,
+        6177.5
+      ],
+      "raw_xy": [
+        3613,
+        6178
+      ],
+      "band": 21,
+      "local_significance": 17.542494476575172,
+      "p95_mm": 0.6005632344671247,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.4162674548627814,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8487640489265974,
+      "mlp_rank": 5,
+      "bubble_rank": 18,
+      "fused_bubble_rank": 8,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B6F55655",
+      "order": 24,
+      "flat_xy": [
+        3489.5,
+        753.5
+      ],
+      "raw_xy": [
+        4316,
+        754
+      ],
+      "band": 27,
+      "local_significance": 17.513819517658803,
+      "p95_mm": 0.6685166366627512,
+      "missing_pct": 4.0,
+      "profile_step_p99_mm": 0.6984253328856124,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.5059170698730754,
+      "mlp_rank": 12,
+      "bubble_rank": 19,
+      "fused_bubble_rank": 18,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 1,
+      "flat_xy": [
+        3697.5,
+        1601.5
+      ],
+      "raw_xy": [
+        4482,
+        1602
+      ],
+      "band": 28,
+      "local_significance": 711362.4811172485,
+      "p95_mm": 0.8356855178200191,
+      "missing_pct": 3.2,
+      "profile_step_p99_mm": 0.40989509425883625,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.17797314005328896,
+      "mlp_rank": 18,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 2,
+      "flat_xy": [
+        3709.5,
+        6917.5
+      ],
+      "raw_xy": [
+        4495,
+        6918
+      ],
+      "band": 28,
+      "local_significance": 137748.06261062622,
+      "p95_mm": 0.7708644916284584,
+      "missing_pct": 3.84,
+      "profile_step_p99_mm": 0.3999757938838644,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.1970921558483206,
+      "mlp_rank": 16,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 4,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 3,
+      "flat_xy": [
+        3709.5,
+        969.5
+      ],
+      "raw_xy": [
+        4495,
+        970
+      ],
+      "band": 28,
+      "local_significance": 41.05600691626178,
+      "p95_mm": 0.7502781196480697,
+      "missing_pct": 4.8,
+      "profile_step_p99_mm": 0.6002904695762061,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3422338275987769,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 4,
+      "flat_xy": [
+        145.5,
+        693.5
+      ],
+      "raw_xy": [
+        1174,
+        694
+      ],
+      "band": 1,
+      "local_significance": 32.06691210480006,
+      "p95_mm": 0.5828009694199536,
+      "missing_pct": 9.92,
+      "profile_step_p99_mm": 0.4035202120562383,
+      "prediction": "待复核",
+      "mlp_percentile": 0.32817814099906173,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 5,
+      "flat_xy": [
+        357.5,
+        6153.5
+      ],
+      "raw_xy": [
+        1419,
+        6154
+      ],
+      "band": 2,
+      "local_significance": 31.282234620166424,
+      "p95_mm": 0.6332689408340202,
+      "missing_pct": 10.56,
+      "profile_step_p99_mm": 0.598865295494253,
+      "prediction": "待复核",
+      "mlp_percentile": 0.677388138882034,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 6,
+      "flat_xy": [
+        173.5,
+        2261.5
+      ],
+      "raw_xy": [
+        1213,
+        2262
+      ],
+      "band": 1,
+      "local_significance": 30.913542919267545,
+      "p95_mm": 0.6879607947812537,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.40193975196950715,
+      "prediction": "待复核",
+      "mlp_percentile": 0.19692930755653654,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 7,
+      "flat_xy": [
+        3913.5,
+        6545.5
+      ],
+      "raw_xy": [
+        4696,
+        6546
+      ],
+      "band": 30,
+      "local_significance": 28.041704010927297,
+      "p95_mm": 0.6620876199871518,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.3980287405080743,
+      "prediction": "待复核",
+      "mlp_percentile": 0.06780063360512295,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 8,
+      "flat_xy": [
+        145.5,
+        2585.5
+      ],
+      "raw_xy": [
+        1177,
+        2586
+      ],
+      "band": 1,
+      "local_significance": 27.449291813335506,
+      "p95_mm": 0.6098073362510475,
+      "missing_pct": 8.0,
+      "profile_step_p99_mm": 0.4015909263566937,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3534891499193901,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 9,
+      "flat_xy": [
+        3881.5,
+        1285.5
+      ],
+      "raw_xy": [
+        4662,
+        1286
+      ],
+      "band": 30,
+      "local_significance": 26.815997488538777,
+      "p95_mm": 0.6935238438248241,
+      "missing_pct": 3.6799999999999997,
+      "profile_step_p99_mm": 0.3986818067780291,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.3330817536005131,
+      "mlp_rank": 10,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 5,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 10,
+      "flat_xy": [
+        649.5,
+        2401.5
+      ],
+      "raw_xy": [
+        1710,
+        2402
+      ],
+      "band": 5,
+      "local_significance": 26.421402670544747,
+      "p95_mm": 0.6656066583733719,
+      "missing_pct": 2.56,
+      "profile_step_p99_mm": 0.6060524225881369,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.6928161355098217,
+      "mlp_rank": 2,
+      "bubble_rank": 4,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 11,
+      "flat_xy": [
+        201.5,
+        5405.5
+      ],
+      "raw_xy": [
+        1245,
+        5406
+      ],
+      "band": 1,
+      "local_significance": 25.562508740845253,
+      "p95_mm": 0.6500795469499073,
+      "missing_pct": 6.88,
+      "profile_step_p99_mm": 0.4027421985393886,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6724932950347556,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 12,
+      "flat_xy": [
+        149.5,
+        2369.5
+      ],
+      "raw_xy": [
+        1181,
+        2370
+      ],
+      "band": 1,
+      "local_significance": 24.637828804560648,
+      "p95_mm": 0.5518140298369644,
+      "missing_pct": 7.68,
+      "profile_step_p99_mm": 0.4027850660674926,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3209188652229957,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 13,
+      "flat_xy": [
+        3937.5,
+        3605.5
+      ],
+      "raw_xy": [
+        4718,
+        3606
+      ],
+      "band": 30,
+      "local_significance": 24.539332665165603,
+      "p95_mm": 0.6670268653627573,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.3997167335813316,
+      "prediction": "待复核",
+      "mlp_percentile": 0.1347444346596283,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 14,
+      "flat_xy": [
+        3829.5,
+        3697.5
+      ],
+      "raw_xy": [
+        4605,
+        3698
+      ],
+      "band": 29,
+      "local_significance": 24.2170610673741,
+      "p95_mm": 0.6982253196520531,
+      "missing_pct": 5.12,
+      "profile_step_p99_mm": 0.400631595959657,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22755167614736016,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 15,
+      "flat_xy": [
+        3885.5,
+        6753.5
+      ],
+      "raw_xy": [
+        4666,
+        6754
+      ],
+      "band": 30,
+      "local_significance": 23.73333085063057,
+      "p95_mm": 0.676096053142588,
+      "missing_pct": 8.16,
+      "profile_step_p99_mm": 0.3982703333395652,
+      "prediction": "待复核",
+      "mlp_percentile": 0.37152397189489017,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 16,
+      "flat_xy": [
+        157.5,
+        2477.5
+      ],
+      "raw_xy": [
+        1193,
+        2478
+      ],
+      "band": 1,
+      "local_significance": 23.560129959487963,
+      "p95_mm": 0.6452935168078738,
+      "missing_pct": 7.68,
+      "profile_step_p99_mm": 0.4013003569347552,
+      "prediction": "待复核",
+      "mlp_percentile": 0.21609717783910337,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 17,
+      "flat_xy": [
+        213.5,
+        2929.5
+      ],
+      "raw_xy": [
+        1263,
+        2930
+      ],
+      "band": 1,
+      "local_significance": 23.258247334082405,
+      "p95_mm": 0.7212904196320764,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.401574280968575,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3486481712763172,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 18,
+      "flat_xy": [
+        353.5,
+        6049.5
+      ],
+      "raw_xy": [
+        1414,
+        6050
+      ],
+      "band": 2,
+      "local_significance": 22.84546640391812,
+      "p95_mm": 0.6221288133214272,
+      "missing_pct": 9.6,
+      "profile_step_p99_mm": 0.5994143251162296,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4367240435481386,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 19,
+      "flat_xy": [
+        641.5,
+        2897.5
+      ],
+      "raw_xy": [
+        1704,
+        2898
+      ],
+      "band": 5,
+      "local_significance": 22.763987911454368,
+      "p95_mm": 0.7098721122679337,
+      "missing_pct": 1.76,
+      "profile_step_p99_mm": 0.6051226773083204,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.69919540417067,
+      "mlp_rank": 1,
+      "bubble_rank": 5,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 20,
+      "flat_xy": [
+        3757.5,
+        2705.5
+      ],
+      "raw_xy": [
+        4537,
+        2706
+      ],
+      "band": 29,
+      "local_significance": 22.75727747639877,
+      "p95_mm": 0.7115590744231055,
+      "missing_pct": 4.0,
+      "profile_step_p99_mm": 0.49711404290231986,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.09669618396345184,
+      "mlp_rank": 22,
+      "bubble_rank": 6,
+      "fused_bubble_rank": 7,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 21,
+      "flat_xy": [
+        3745.5,
+        2165.5
+      ],
+      "raw_xy": [
+        4527,
+        2166
+      ],
+      "band": 29,
+      "local_significance": 22.11569766429078,
+      "p95_mm": 0.7489728723327147,
+      "missing_pct": 3.52,
+      "profile_step_p99_mm": 0.6836729786407905,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.12076704050788624,
+      "mlp_rank": 20,
+      "bubble_rank": 7,
+      "fused_bubble_rank": 6,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 22,
+      "flat_xy": [
+        185.5,
+        1945.5
+      ],
+      "raw_xy": [
+        1226,
+        1946
+      ],
+      "band": 1,
+      "local_significance": 21.598593481348445,
+      "p95_mm": 0.6430141116309344,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4013723313853035,
+      "prediction": "待复核",
+      "mlp_percentile": 0.24244728412893074,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 23,
+      "flat_xy": [
+        3757.5,
+        6093.5
+      ],
+      "raw_xy": [
+        4540,
+        6094
+      ],
+      "band": 29,
+      "local_significance": 21.54838934903304,
+      "p95_mm": 0.7330649770636015,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.6000664908101846,
+      "prediction": "待复核",
+      "mlp_percentile": 0.09371543388421988,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6B7F55777",
+      "order": 24,
+      "flat_xy": [
+        3961.5,
+        497.5
+      ],
+      "raw_xy": [
+        4748,
+        498
+      ],
+      "band": 30,
+      "local_significance": 21.543278305617854,
+      "p95_mm": 0.6834713503791932,
+      "missing_pct": 8.64,
+      "profile_step_p99_mm": 0.39940391867367,
+      "prediction": "待复核",
+      "mlp_percentile": 0.10358529304550107,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 1,
+      "flat_xy": [
+        3833.5,
+        85.5
+      ],
+      "raw_xy": [
+        4597,
+        86
+      ],
+      "band": 29,
+      "local_significance": 41.558069456559146,
+      "p95_mm": 0.6782942540061896,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.395719263223085,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4295634733868245,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 2,
+      "flat_xy": [
+        649.5,
+        841.5
+      ],
+      "raw_xy": [
+        1721,
+        842
+      ],
+      "band": 5,
+      "local_significance": 38.704125555680875,
+      "p95_mm": 0.6916936708451331,
+      "missing_pct": 1.1199999999999999,
+      "profile_step_p99_mm": 0.6016616107311009,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.7544031065543628,
+      "mlp_rank": 5,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 3,
+      "flat_xy": [
+        3825.5,
+        737.5
+      ],
+      "raw_xy": [
+        4588,
+        738
+      ],
+      "band": 29,
+      "local_significance": 34.1978594317307,
+      "p95_mm": 0.663064332067286,
+      "missing_pct": 4.64,
+      "profile_step_p99_mm": 0.394526786641166,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5795935323626606,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 4,
+      "flat_xy": [
+        389.5,
+        3809.5
+      ],
+      "raw_xy": [
+        1476,
+        3810
+      ],
+      "band": 3,
+      "local_significance": 30.69012997063955,
+      "p95_mm": 0.6262359675192279,
+      "missing_pct": 12.959999999999999,
+      "profile_step_p99_mm": 0.5927831108622026,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6223030070271485,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 5,
+      "flat_xy": [
+        3837.5,
+        6565.5
+      ],
+      "raw_xy": [
+        4600,
+        6566
+      ],
+      "band": 29,
+      "local_significance": 28.145222502244202,
+      "p95_mm": 0.7077300929476351,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.3938017020682498,
+      "prediction": "待复核",
+      "mlp_percentile": 0.48748379388202573,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 6,
+      "flat_xy": [
+        3945.5,
+        705.5
+      ],
+      "raw_xy": [
+        4719,
+        706
+      ],
+      "band": 30,
+      "local_significance": 27.625152712730063,
+      "p95_mm": 0.5762642891942491,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.3942059694272706,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7362691978959972,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 7,
+      "flat_xy": [
+        3837.5,
+        6889.5
+      ],
+      "raw_xy": [
+        4600,
+        6890
+      ],
+      "band": 29,
+      "local_significance": 27.512656936299347,
+      "p95_mm": 0.7138303385261558,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.3944303272572114,
+      "prediction": "待复核",
+      "mlp_percentile": 0.548368594582858,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 8,
+      "flat_xy": [
+        3849.5,
+        1933.5
+      ],
+      "raw_xy": [
+        4611,
+        1934
+      ],
+      "band": 30,
+      "local_significance": 26.17723960575925,
+      "p95_mm": 0.6568107808206456,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.3933600641311713,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3329417508506251,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 9,
+      "flat_xy": [
+        3805.5,
+        1169.5
+      ],
+      "raw_xy": [
+        4567,
+        1170
+      ],
+      "band": 29,
+      "local_significance": 25.723961984001285,
+      "p95_mm": 0.7286807548923449,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.5910121920714807,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5722940332619197,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 10,
+      "flat_xy": [
+        3833.5,
+        5485.5
+      ],
+      "raw_xy": [
+        4599,
+        5486
+      ],
+      "band": 29,
+      "local_significance": 25.335865208274445,
+      "p95_mm": 0.6846345417779645,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.39540213133639796,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6065085526885526,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 11,
+      "flat_xy": [
+        3933.5,
+        7125.5
+      ],
+      "raw_xy": [
+        4705,
+        7126
+      ],
+      "band": 30,
+      "local_significance": 23.952850303963007,
+      "p95_mm": 0.6375217619929536,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.3949262319173414,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3625413703127765,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 12,
+      "flat_xy": [
+        3917.5,
+        1733.5
+      ],
+      "raw_xy": [
+        4685,
+        1734
+      ],
+      "band": 30,
+      "local_significance": 23.856965875234135,
+      "p95_mm": 0.6296196012861202,
+      "missing_pct": 5.12,
+      "profile_step_p99_mm": 0.3943905802424337,
+      "prediction": "待复核",
+      "mlp_percentile": 0.45716690073760585,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 13,
+      "flat_xy": [
+        649.5,
+        1269.5
+      ],
+      "raw_xy": [
+        1720,
+        1270
+      ],
+      "band": 5,
+      "local_significance": 23.82912769097138,
+      "p95_mm": 0.6299154446428759,
+      "missing_pct": 2.7199999999999998,
+      "profile_step_p99_mm": 0.8028002472820429,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.9709494745640821,
+      "mlp_rank": 1,
+      "bubble_rank": 2,
+      "fused_bubble_rank": 2,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 14,
+      "flat_xy": [
+        3829.5,
+        2845.5
+      ],
+      "raw_xy": [
+        4591,
+        2846
+      ],
+      "band": 29,
+      "local_significance": 23.651385187029046,
+      "p95_mm": 0.6641280498377312,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.3969371930162221,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7626671285331847,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 15,
+      "flat_xy": [
+        649.5,
+        2849.5
+      ],
+      "raw_xy": [
+        1724,
+        2850
+      ],
+      "band": 5,
+      "local_significance": 23.033840066075438,
+      "p95_mm": 0.7156978541311203,
+      "missing_pct": 4.0,
+      "profile_step_p99_mm": 0.5965382400971305,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8195394638583174,
+      "mlp_rank": 2,
+      "bubble_rank": 3,
+      "fused_bubble_rank": 3,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 16,
+      "flat_xy": [
+        3817.5,
+        2197.5
+      ],
+      "raw_xy": [
+        4577,
+        2198
+      ],
+      "band": 29,
+      "local_significance": 22.941278170929728,
+      "p95_mm": 0.6775228988371195,
+      "missing_pct": 7.68,
+      "profile_step_p99_mm": 0.3939956057945358,
+      "prediction": "待复核",
+      "mlp_percentile": 0.33150092812578835,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 17,
+      "flat_xy": [
+        4001.5,
+        3309.5
+      ],
+      "raw_xy": [
+        4785,
+        3310
+      ],
+      "band": 31,
+      "local_significance": 22.79915438168791,
+      "p95_mm": 0.5863707569331024,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.3953425156554626,
+      "prediction": "待复核",
+      "mlp_percentile": 0.49642869245337723,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 18,
+      "flat_xy": [
+        3501.5,
+        1165.5
+      ],
+      "raw_xy": [
+        4292,
+        1166
+      ],
+      "band": 27,
+      "local_significance": 22.527222802965774,
+      "p95_mm": 0.7877678732654119,
+      "missing_pct": 3.36,
+      "profile_step_p99_mm": 1.0843743378376256,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.4100577709669201,
+      "mlp_rank": 20,
+      "bubble_rank": 4,
+      "fused_bubble_rank": 6,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 19,
+      "flat_xy": [
+        3781.5,
+        565.5
+      ],
+      "raw_xy": [
+        4544,
+        566
+      ],
+      "band": 29,
+      "local_significance": 22.36116331624048,
+      "p95_mm": 0.757574277967052,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.39575913168319515,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7044788501531816,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 20,
+      "flat_xy": [
+        4009.5,
+        5573.5
+      ],
+      "raw_xy": [
+        4796,
+        5574
+      ],
+      "band": 31,
+      "local_significance": 22.265167251708576,
+      "p95_mm": 0.652031947888399,
+      "missing_pct": 8.48,
+      "profile_step_p99_mm": 0.39539839695313944,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4385196676067156,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 21,
+      "flat_xy": [
+        4001.5,
+        1909.5
+      ],
+      "raw_xy": [
+        4783,
+        1910
+      ],
+      "band": 31,
+      "local_significance": 22.034946187319733,
+      "p95_mm": 0.6126655000421607,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.39454969640182613,
+      "prediction": "待复核",
+      "mlp_percentile": 0.45549075200152617,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 22,
+      "flat_xy": [
+        649.5,
+        6669.5
+      ],
+      "raw_xy": [
+        1725,
+        6670
+      ],
+      "band": 5,
+      "local_significance": 22.004399017388852,
+      "p95_mm": 0.7339807846892724,
+      "missing_pct": 4.0,
+      "profile_step_p99_mm": 0.6023519791949957,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.8064214506875912,
+      "mlp_rank": 3,
+      "bubble_rank": 5,
+      "fused_bubble_rank": 4,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 23,
+      "flat_xy": [
+        4037.5,
+        5241.5
+      ],
+      "raw_xy": [
+        4832,
+        5242
+      ],
+      "band": 31,
+      "local_significance": 21.90645365332429,
+      "p95_mm": 0.5793144921446967,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.393492358697644,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3543438671531326,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C2F55859",
+      "order": 24,
+      "flat_xy": [
+        1489.5,
+        225.5
+      ],
+      "raw_xy": [
+        2520,
+        226
+      ],
+      "band": 11,
+      "local_significance": 21.817457709771205,
+      "p95_mm": 0.5617524712212116,
+      "missing_pct": 0.0,
+      "profile_step_p99_mm": 0.41602714062192847,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.7335513393501488,
+      "mlp_rank": 7,
+      "bubble_rank": 6,
+      "fused_bubble_rank": 5,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 1,
+      "flat_xy": [
+        3849.5,
+        221.5
+      ],
+      "raw_xy": [
+        4610,
+        222
+      ],
+      "band": 30,
+      "local_significance": 46.24824779834037,
+      "p95_mm": 0.7820736899829335,
+      "missing_pct": 4.96,
+      "profile_step_p99_mm": 0.3956266328734102,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4221062511732683,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 2,
+      "flat_xy": [
+        3869.5,
+        6657.5
+      ],
+      "raw_xy": [
+        4632,
+        6658
+      ],
+      "band": 30,
+      "local_significance": 44.801992565186616,
+      "p95_mm": 0.7423792921644192,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.39475634961076994,
+      "prediction": "待复核",
+      "mlp_percentile": 0.847682247669107,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 3,
+      "flat_xy": [
+        3989.5,
+        473.5
+      ],
+      "raw_xy": [
+        4761,
+        474
+      ],
+      "band": 31,
+      "local_significance": 39.05359868447691,
+      "p95_mm": 0.7313580934469726,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.39543320062801685,
+      "prediction": "待复核",
+      "mlp_percentile": 0.45111820286590326,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 4,
+      "flat_xy": [
+        121.5,
+        545.5
+      ],
+      "raw_xy": [
+        1157,
+        546
+      ],
+      "band": 0,
+      "local_significance": 31.554736424402243,
+      "p95_mm": 0.624810272419357,
+      "missing_pct": 12.479999999999999,
+      "profile_step_p99_mm": 0.397399721295659,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6703873349602654,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 5,
+      "flat_xy": [
+        4005.5,
+        141.5
+      ],
+      "raw_xy": [
+        4777,
+        142
+      ],
+      "band": 31,
+      "local_significance": 30.637621307787008,
+      "p95_mm": 0.7687385062380002,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.39557986824519387,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4858976284337651,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 6,
+      "flat_xy": [
+        4037.5,
+        1249.5
+      ],
+      "raw_xy": [
+        4817,
+        1250
+      ],
+      "band": 31,
+      "local_significance": 27.657160706770718,
+      "p95_mm": 0.7077916521232456,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.39619504329349214,
+      "prediction": "待复核",
+      "mlp_percentile": 0.389844189975596,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 7,
+      "flat_xy": [
+        3857.5,
+        3585.5
+      ],
+      "raw_xy": [
+        4621,
+        3586
+      ],
+      "band": 30,
+      "local_significance": 27.256527634197305,
+      "p95_mm": 0.7691844742069655,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.5102476810477528,
+      "prediction": "待复核",
+      "mlp_percentile": 0.11246605343845817,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 8,
+      "flat_xy": [
+        3937.5,
+        7185.5
+      ],
+      "raw_xy": [
+        4704,
+        7186
+      ],
+      "band": 30,
+      "local_significance": 26.482515533128407,
+      "p95_mm": 0.7909978519271391,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.3940194695319215,
+      "prediction": "待复核",
+      "mlp_percentile": 0.10144046054689944,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 9,
+      "flat_xy": [
+        3905.5,
+        1221.5
+      ],
+      "raw_xy": [
+        4670,
+        1222
+      ],
+      "band": 30,
+      "local_significance": 25.799183069890372,
+      "p95_mm": 0.7478999096913582,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.39506757445038543,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5015831299668356,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 10,
+      "flat_xy": [
+        3805.5,
+        429.5
+      ],
+      "raw_xy": [
+        4567,
+        430
+      ],
+      "band": 29,
+      "local_significance": 25.419799139215947,
+      "p95_mm": 0.8523987021660986,
+      "missing_pct": 5.12,
+      "profile_step_p99_mm": 0.39606781148311554,
+      "prediction": "待复核",
+      "mlp_percentile": 0.1592059320443026,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 11,
+      "flat_xy": [
+        3829.5,
+        549.5
+      ],
+      "raw_xy": [
+        4590,
+        550
+      ],
+      "band": 29,
+      "local_significance": 25.28992097929144,
+      "p95_mm": 0.7933794750583529,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.3972043965520311,
+      "prediction": "待复核",
+      "mlp_percentile": 0.23647769225955823,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 12,
+      "flat_xy": [
+        3769.5,
+        6789.5
+      ],
+      "raw_xy": [
+        4535,
+        6790
+      ],
+      "band": 29,
+      "local_significance": 22.393794741171888,
+      "p95_mm": 0.863450491853218,
+      "missing_pct": 6.239999999999999,
+      "profile_step_p99_mm": 0.5932389651785184,
+      "prediction": "待复核",
+      "mlp_percentile": 0.4280170202115012,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 13,
+      "flat_xy": [
+        345.5,
+        2133.5
+      ],
+      "raw_xy": [
+        1418,
+        2134
+      ],
+      "band": 2,
+      "local_significance": 22.37302638396981,
+      "p95_mm": 0.6762044695698847,
+      "missing_pct": 8.0,
+      "profile_step_p99_mm": 0.5949775371647218,
+      "prediction": "待复核",
+      "mlp_percentile": 0.8718578311745198,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 14,
+      "flat_xy": [
+        3897.5,
+        6825.5
+      ],
+      "raw_xy": [
+        4660,
+        6826
+      ],
+      "band": 30,
+      "local_significance": 21.02545132970183,
+      "p95_mm": 0.7933122034876049,
+      "missing_pct": 4.8,
+      "profile_step_p99_mm": 0.3951615845208474,
+      "prediction": "待复核",
+      "mlp_percentile": 0.44413365871972965,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 15,
+      "flat_xy": [
+        3853.5,
+        6481.5
+      ],
+      "raw_xy": [
+        4615,
+        6482
+      ],
+      "band": 30,
+      "local_significance": 20.91283228812412,
+      "p95_mm": 0.7689887396039281,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.3955445768216788,
+      "prediction": "待复核",
+      "mlp_percentile": 0.22633752581190164,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 16,
+      "flat_xy": [
+        3865.5,
+        3473.5
+      ],
+      "raw_xy": [
+        4630,
+        3474
+      ],
+      "band": 30,
+      "local_significance": 20.26967289312615,
+      "p95_mm": 0.7461088271393975,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.39640132957272556,
+      "prediction": "待复核",
+      "mlp_percentile": 0.23616482072461048,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 17,
+      "flat_xy": [
+        4049.5,
+        5349.5
+      ],
+      "raw_xy": [
+        4828,
+        5350
+      ],
+      "band": 31,
+      "local_significance": 20.26525607492442,
+      "p95_mm": 0.6441262067084921,
+      "missing_pct": 7.04,
+      "profile_step_p99_mm": 0.3937655414053053,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7946448908078343,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 18,
+      "flat_xy": [
+        3909.5,
+        341.5
+      ],
+      "raw_xy": [
+        4673,
+        342
+      ],
+      "band": 30,
+      "local_significance": 20.16921140419876,
+      "p95_mm": 0.7398391225843127,
+      "missing_pct": 4.96,
+      "profile_step_p99_mm": 0.3950259086889724,
+      "prediction": "待复核",
+      "mlp_percentile": 0.15429510043176273,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 19,
+      "flat_xy": [
+        3889.5,
+        1509.5
+      ],
+      "raw_xy": [
+        4655,
+        1510
+      ],
+      "band": 30,
+      "local_significance": 19.739601331722856,
+      "p95_mm": 0.7373383127405703,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.5129600374220139,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6332307114698704,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 20,
+      "flat_xy": [
+        3869.5,
+        941.5
+      ],
+      "raw_xy": [
+        4632,
+        942
+      ],
+      "band": 30,
+      "local_significance": 19.689955465708536,
+      "p95_mm": 0.7493203041351819,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.3967675397812366,
+      "prediction": "待复核",
+      "mlp_percentile": 0.12704836993930294,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 21,
+      "flat_xy": [
+        3865.5,
+        1825.5
+      ],
+      "raw_xy": [
+        4630,
+        1826
+      ],
+      "band": 30,
+      "local_significance": 19.530786794250357,
+      "p95_mm": 0.6768562759008034,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.3946985764533683,
+      "prediction": "待复核",
+      "mlp_percentile": 0.9108234778799825,
+      "mlp_rank": 1,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 22,
+      "flat_xy": [
+        3453.5,
+        5645.5
+      ],
+      "raw_xy": [
+        4244,
+        5646
+      ],
+      "band": 26,
+      "local_significance": 18.364832006787925,
+      "p95_mm": 0.7485696621323654,
+      "missing_pct": 1.6,
+      "profile_step_p99_mm": 0.8028404665579356,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.7805281271509918,
+      "mlp_rank": 5,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 23,
+      "flat_xy": [
+        4053.5,
+        2581.5
+      ],
+      "raw_xy": [
+        4838,
+        2582
+      ],
+      "band": 31,
+      "local_significance": 18.316071282672034,
+      "p95_mm": 0.6410891200156392,
+      "missing_pct": 8.48,
+      "profile_step_p99_mm": 0.3953089345305875,
+      "prediction": "待复核",
+      "mlp_percentile": 0.7645422689443715,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6C5F57555",
+      "order": 24,
+      "flat_xy": [
+        3865.5,
+        2509.5
+      ],
+      "raw_xy": [
+        4627,
+        2510
+      ],
+      "band": 30,
+      "local_significance": 18.235301248401356,
+      "p95_mm": 0.7777803294822384,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.39561842938514163,
+      "prediction": "待复核",
+      "mlp_percentile": 0.07643451598773543,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 1,
+      "flat_xy": [
+        4029.5,
+        1485.5
+      ],
+      "raw_xy": [
+        4729,
+        1486
+      ],
+      "band": 31,
+      "local_significance": 30.798723380570298,
+      "p95_mm": 0.6572114999401265,
+      "missing_pct": 4.8,
+      "profile_step_p99_mm": 0.407289172737606,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5504465883675622,
+      "mlp_rank": 6,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 2,
+      "flat_xy": [
+        3985.5,
+        5477.5
+      ],
+      "raw_xy": [
+        4685,
+        5478
+      ],
+      "band": 31,
+      "local_significance": 30.0373276426694,
+      "p95_mm": 0.716753117448991,
+      "missing_pct": 4.4799999999999995,
+      "profile_step_p99_mm": 0.41317537676300903,
+      "prediction": "待复核",
+      "mlp_percentile": 0.46449874719831263,
+      "mlp_rank": 8,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 3,
+      "flat_xy": [
+        4157.5,
+        5833.5
+      ],
+      "raw_xy": [
+        4863,
+        5834
+      ],
+      "band": 32,
+      "local_significance": 29.08672258380556,
+      "p95_mm": 0.6533224227120442,
+      "missing_pct": 4.64,
+      "profile_step_p99_mm": 0.4103131666123076,
+      "prediction": "待复核",
+      "mlp_percentile": 0.23015936886661686,
+      "mlp_rank": 19,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 4,
+      "flat_xy": [
+        3961.5,
+        3421.5
+      ],
+      "raw_xy": [
+        4658,
+        3422
+      ],
+      "band": 30,
+      "local_significance": 27.6145762310646,
+      "p95_mm": 0.6885546767448133,
+      "missing_pct": 5.92,
+      "profile_step_p99_mm": 0.40735897154956835,
+      "prediction": "待复核",
+      "mlp_percentile": 0.21729562996826557,
+      "mlp_rank": 20,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 5,
+      "flat_xy": [
+        4061.5,
+        1701.5
+      ],
+      "raw_xy": [
+        4761,
+        1702
+      ],
+      "band": 31,
+      "local_significance": 26.141610137219995,
+      "p95_mm": 0.6830342253670665,
+      "missing_pct": 5.4399999999999995,
+      "profile_step_p99_mm": 0.40589435994256123,
+      "prediction": "待复核",
+      "mlp_percentile": 0.37002753040716657,
+      "mlp_rank": 9,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 6,
+      "flat_xy": [
+        4209.5,
+        3949.5
+      ],
+      "raw_xy": [
+        4926,
+        3950
+      ],
+      "band": 32,
+      "local_significance": 25.887893910401644,
+      "p95_mm": 0.6863428925761468,
+      "missing_pct": 7.359999999999999,
+      "profile_step_p99_mm": 0.21582059093977193,
+      "prediction": "待复核",
+      "mlp_percentile": 0.1898979501137491,
+      "mlp_rank": 21,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 7,
+      "flat_xy": [
+        4037.5,
+        473.5
+      ],
+      "raw_xy": [
+        4734,
+        474
+      ],
+      "band": 31,
+      "local_significance": 25.43973770207044,
+      "p95_mm": 0.6663132997778675,
+      "missing_pct": 6.5600000000000005,
+      "profile_step_p99_mm": 0.20548551304080206,
+      "prediction": "待复核",
+      "mlp_percentile": 0.32169016520646604,
+      "mlp_rank": 12,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 8,
+      "flat_xy": [
+        3945.5,
+        7145.5
+      ],
+      "raw_xy": [
+        4640,
+        7146
+      ],
+      "band": 30,
+      "local_significance": 25.042116273686098,
+      "p95_mm": 0.6709545916563427,
+      "missing_pct": 4.8,
+      "profile_step_p99_mm": 0.4087833233992802,
+      "prediction": "待复核",
+      "mlp_percentile": 0.18873823771761875,
+      "mlp_rank": 22,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 9,
+      "flat_xy": [
+        4245.5,
+        5729.5
+      ],
+      "raw_xy": [
+        4966,
+        5730
+      ],
+      "band": 33,
+      "local_significance": 24.35283167026142,
+      "p95_mm": 0.5891924539456681,
+      "missing_pct": 7.68,
+      "profile_step_p99_mm": 0.4134977633395101,
+      "prediction": "待复核",
+      "mlp_percentile": 0.25234524956338117,
+      "mlp_rank": 18,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 10,
+      "flat_xy": [
+        4009.5,
+        1001.5
+      ],
+      "raw_xy": [
+        4708,
+        1002
+      ],
+      "band": 31,
+      "local_significance": 24.292269876276997,
+      "p95_mm": 0.671478460016317,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4100409784934604,
+      "prediction": "待复核",
+      "mlp_percentile": 0.595199715567172,
+      "mlp_rank": 4,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 11,
+      "flat_xy": [
+        3985.5,
+        3909.5
+      ],
+      "raw_xy": [
+        4685,
+        3910
+      ],
+      "band": 31,
+      "local_significance": 23.7335021612321,
+      "p95_mm": 0.680132200689475,
+      "missing_pct": 5.28,
+      "profile_step_p99_mm": 0.4085150947228817,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3097326956016211,
+      "mlp_rank": 14,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 12,
+      "flat_xy": [
+        4189.5,
+        3677.5
+      ],
+      "raw_xy": [
+        4902,
+        3678
+      ],
+      "band": 32,
+      "local_significance": 23.35125985596781,
+      "p95_mm": 0.6576810741582902,
+      "missing_pct": 4.8,
+      "profile_step_p99_mm": 0.41017813540841075,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5605620911578386,
+      "mlp_rank": 5,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 13,
+      "flat_xy": [
+        4125.5,
+        1349.5
+      ],
+      "raw_xy": [
+        4831,
+        1350
+      ],
+      "band": 32,
+      "local_significance": 22.84168625912305,
+      "p95_mm": 0.6675336330567063,
+      "missing_pct": 7.84,
+      "profile_step_p99_mm": 0.40669888953387384,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2568561764444455,
+      "mlp_rank": 17,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 14,
+      "flat_xy": [
+        4037.5,
+        257.5
+      ],
+      "raw_xy": [
+        4734,
+        258
+      ],
+      "band": 31,
+      "local_significance": 22.820039446465934,
+      "p95_mm": 0.6911692955804426,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.40759489131561083,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6342473700773782,
+      "mlp_rank": 3,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 15,
+      "flat_xy": [
+        4117.5,
+        2685.5
+      ],
+      "raw_xy": [
+        4818,
+        2686
+      ],
+      "band": 32,
+      "local_significance": 22.35088057204674,
+      "p95_mm": 0.7331958662177953,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.40754229107758533,
+      "prediction": "待复核",
+      "mlp_percentile": 0.12298536756456793,
+      "mlp_rank": 24,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 16,
+      "flat_xy": [
+        4189.5,
+        341.5
+      ],
+      "raw_xy": [
+        4898,
+        342
+      ],
+      "band": 32,
+      "local_significance": 22.230568126163057,
+      "p95_mm": 0.657347198960008,
+      "missing_pct": 5.76,
+      "profile_step_p99_mm": 0.4076790096260712,
+      "prediction": "待复核",
+      "mlp_percentile": 0.26714944975220234,
+      "mlp_rank": 16,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 17,
+      "flat_xy": [
+        4053.5,
+        7001.5
+      ],
+      "raw_xy": [
+        4750,
+        7002
+      ],
+      "band": 31,
+      "local_significance": 22.00910345231342,
+      "p95_mm": 0.6495715393299576,
+      "missing_pct": 5.12,
+      "profile_step_p99_mm": 0.40781985469932125,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3314633396353783,
+      "mlp_rank": 11,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 18,
+      "flat_xy": [
+        4101.5,
+        3229.5
+      ],
+      "raw_xy": [
+        4801,
+        3230
+      ],
+      "band": 32,
+      "local_significance": 21.99027682838237,
+      "p95_mm": 0.711283650991146,
+      "missing_pct": 6.4,
+      "profile_step_p99_mm": 0.40815534949663174,
+      "prediction": "待复核",
+      "mlp_percentile": 0.31669697573912897,
+      "mlp_rank": 13,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 19,
+      "flat_xy": [
+        4069.5,
+        1861.5
+      ],
+      "raw_xy": [
+        4769,
+        1862
+      ],
+      "band": 31,
+      "local_significance": 21.971843869464152,
+      "p95_mm": 0.7044899078699373,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.20553609787633575,
+      "prediction": "待复核",
+      "mlp_percentile": 0.6549258048319948,
+      "mlp_rank": 2,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 20,
+      "flat_xy": [
+        4149.5,
+        3785.5
+      ],
+      "raw_xy": [
+        4858,
+        3786
+      ],
+      "band": 32,
+      "local_significance": 21.41230316976609,
+      "p95_mm": 0.640136040558292,
+      "missing_pct": 6.08,
+      "profile_step_p99_mm": 0.40332791138706287,
+      "prediction": "待复核",
+      "mlp_percentile": 0.3501965084909445,
+      "mlp_rank": 10,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 21,
+      "flat_xy": [
+        3985.5,
+        3597.5
+      ],
+      "raw_xy": [
+        4684,
+        3598
+      ],
+      "band": 31,
+      "local_significance": 21.136588617514047,
+      "p95_mm": 0.6663764411786047,
+      "missing_pct": 7.5200000000000005,
+      "profile_step_p99_mm": 0.4104990961478097,
+      "prediction": "待复核",
+      "mlp_percentile": 0.14699940182623172,
+      "mlp_rank": 23,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 22,
+      "flat_xy": [
+        4165.5,
+        5457.5
+      ],
+      "raw_xy": [
+        4875,
+        5458
+      ],
+      "band": 32,
+      "local_significance": 21.049023994401164,
+      "p95_mm": 0.6771018197499046,
+      "missing_pct": 6.72,
+      "profile_step_p99_mm": 0.4026225931633064,
+      "prediction": "待复核",
+      "mlp_percentile": 0.5359889205726133,
+      "mlp_rank": 7,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 23,
+      "flat_xy": [
+        4097.5,
+        5337.5
+      ],
+      "raw_xy": [
+        4802,
+        5338
+      ],
+      "band": 32,
+      "local_significance": 20.886222889712364,
+      "p95_mm": 0.6472305383209614,
+      "missing_pct": 5.6000000000000005,
+      "profile_step_p99_mm": 0.40156619257994747,
+      "prediction": "待复核",
+      "mlp_percentile": 0.2836118404773859,
+      "mlp_rank": 15,
+      "bubble_rank": null,
+      "fused_bubble_rank": null,
+      "bubble_hit": false
+    },
+    {
+      "tire": "G6D2F55996",
+      "order": 24,
+      "flat_xy": [
+        521.5,
+        7193.5
+      ],
+      "raw_xy": [
+        1492,
+        7194
+      ],
+      "band": 4,
+      "local_significance": 20.856669269569778,
+      "p95_mm": 0.5837461754024614,
+      "missing_pct": 1.92,
+      "profile_step_p99_mm": 0.4074693523455011,
+      "prediction": "疑似气泡",
+      "mlp_percentile": 0.7838592778192842,
+      "mlp_rank": 1,
+      "bubble_rank": 1,
+      "fused_bubble_rank": 1,
+      "bubble_hit": false
+    }
+  ]
+}

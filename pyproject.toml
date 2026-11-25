@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tire-inner-wall-anomaly"
+version = "1.0.0"
+description = "Selected DINO MLP and raw-profile fusion pipeline for tire inner-wall anomaly screening"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = ["numpy>=1.24,<2", "scipy>=1.10,<1.14", "Pillow>=9.1,<11"]
+
+[project.optional-dependencies]
+model = ["torch>=2.1,<2.6"]
+train = ["torch>=2.1,<2.6", "scikit-learn>=1.2,<1.8"]
+
+[project.scripts]
+tire-anomaly = "tire_anomaly.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,126 @@
+{
+  "model": "dino_mlp",
+  "input": "identity",
+  "backbone": "dinov2_vits14",
+  "seed": 20261118,
+  "batch_size": 32,
+  "max_epochs": 20,
+  "patience": 5,
+  "optimizer": "AdamW",
+  "weight_decay": 0.0001,
+  "epochs_repeat_identity_crops": 4,
+  "unannotated_bce_weight": 0.1,
+  "positive_only_soft_dice": true,
+  "folds": [
+    {
+      "fold": 0,
+      "train": [
+        "G6B1F56018",
+        "G6B1F56073",
+        "G6B1F56095",
+        "G6C2F55859",
+        "G6C5F57555",
+        "G6D2F55996"
+      ],
+      "validation": [
+        "G6A4F54444",
+        "G6B7F55777"
+      ],
+      "test": [
+        "G6A4F54426",
+        "G6B6F55655"
+      ],
+      "learning_rate": 0.001,
+      "best_epoch": 3,
+      "checkpoint_sha256": "5d42f16a284a0b8c8cb947ead0383c0a85f5448120bbf34a2d1a2b38a911a7e8"
+    },
+    {
+      "fold": 1,
+      "train": [
+        "G6A4F54426",
+        "G6B1F56073",
+        "G6B1F56095",
+        "G6B6F55655",
+        "G6C5F57555",
+        "G6D2F55996"
+      ],
+      "validation": [
+        "G6B1F56018",
+        "G6C2F55859"
+      ],
+      "test": [
+        "G6A4F54444",
+        "G6B7F55777"
+      ],
+      "learning_rate": 0.0003,
+      "best_epoch": 20,
+      "checkpoint_sha256": "b7ddf0efbe8901cc36fe4211137672f6f275849f710d792a076fcb7ec4f7903a"
+    },
+    {
+      "fold": 2,
+      "train": [
+        "G6A4F54426",
+        "G6A4F54444",
+        "G6B1F56095",
+        "G6B6F55655",
+        "G6B7F55777",
+        "G6D2F55996"
+      ],
+      "validation": [
+        "G6B1F56073",
+        "G6C5F57555"
+      ],
+      "test": [
+        "G6B1F56018",
+        "G6C2F55859"
+      ],
+      "learning_rate": 0.0003,
+      "best_epoch": 19,
+      "checkpoint_sha256": "91bc284766b7ecd1c6b8c648257a65241df807e0d42e1e540a0b6bf7822c6f8d"
+    },
+    {
+      "fold": 3,
+      "train": [
+        "G6A4F54426",
+        "G6A4F54444",
+        "G6B1F56018",
+        "G6B6F55655",
+        "G6B7F55777",
+        "G6C2F55859"
+      ],
+      "validation": [
+        "G6B1F56095",
+        "G6D2F55996"
+      ],
+      "test": [
+        "G6B1F56073",
+        "G6C5F57555"
+      ],
+      "learning_rate": 0.001,
+      "best_epoch": 1,
+      "checkpoint_sha256": "63542730dffae1f9027da53a9b039b509bf194db1d4c08e2657c4eb819497a3b"
+    },
+    {
+      "fold": 4,
+      "train": [
+        "G6A4F54444",
+        "G6B1F56018",
+        "G6B1F56073",
+        "G6B7F55777",
+        "G6C2F55859",
+        "G6C5F57555"
+      ],
+      "validation": [
+        "G6A4F54426",
+        "G6B6F55655"
+      ],
+      "test": [
+        "G6B1F56095",
+        "G6D2F55996"
+      ],
+      "learning_rate": 0.001,
+      "best_epoch": 9,
+      "checkpoint_sha256": "0d72b5b47d70c37b3c4e7fddf3f6059a5e3d3f5ad8022e6d643d26027765bbe7"
+    }
+  ]
+}

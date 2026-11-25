@@ -1,0 +1,9 @@
+{
+  "maximum_absolute_errors": {
+    "mean": 0.0,
+    "scale": 0.0,
+    "coefficients": 0.0,
+    "intercept": 0.0
+  },
+  "passed": true
+}

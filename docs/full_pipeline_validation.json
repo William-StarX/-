@@ -1,0 +1,23 @@
+{
+  "sample": "G6B1F56073",
+  "main_candidates": 20,
+  "supplement_candidates": 24,
+  "main_coordinates_agree": 20,
+  "main_classes_agree": 20,
+  "supplement_coordinates_agree": 24,
+  "supplement_classes_agree": 24,
+  "recovered_raw_xy": [
+    1770,
+    2782
+  ],
+  "recovered_prediction": "疑似气泡",
+  "maximum_fresh_attachment_score_difference": 0.00013152647498904102,
+  "runtime_seconds": 202.4303014,
+  "scope": "Fresh DINO scoring, main proposal, raw CSV profiling, frozen geometry generation and supplement; prepared radial arrays reused",
+  "runtime": {
+    "python": "3.8.20 legacy validation host",
+    "numpy": "1.24.4 PyPI",
+    "scipy": "1.10.1 PyPI",
+    "torch": "2.4.1+cu118"
+  }
+}

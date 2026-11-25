@@ -1,0 +1,49 @@
+{
+  "chosen": "dino_mlp-identity",
+  "ranking": [
+    {
+      "tag": "dino_mlp-identity",
+      "counts": {
+        "疑似气泡": 129,
+        "待复核": 55,
+        "疑似附着物": 16
+      },
+      "attachments_correct": 6,
+      "attachments_total": 6,
+      "attachment_hits": {
+        "G6A4F54444-12": true,
+        "G6B1F56018-2": true,
+        "G6B1F56018-3": true,
+        "G6B1F56018-4": true,
+        "G6C5F57555-5": true,
+        "G6D2F55996-3": true
+      },
+      "bubble_pool_coverage": 9,
+      "bubble_first_ranks": {
+        "G6A4F54426": 2,
+        "G6A4F54444": 1,
+        "G6B1F56018": 3,
+        "G6B1F56073": null,
+        "G6B1F56095": 1,
+        "G6B6F55655": 1,
+        "G6B7F55777": 10,
+        "G6C2F55859": 1,
+        "G6C5F57555": 1,
+        "G6D2F55996": 1
+      },
+      "bubble_screen": {
+        "hit1": 6,
+        "hit3": 8,
+        "hit5": 8,
+        "hit10": 9,
+        "hit20": 9,
+        "n": 10,
+        "capped_rank_mean": 4.2,
+        "mrr20": 0.6933333333333334
+      },
+      "review_to_bubble": 8,
+      "unverified_review_to_bubble": 7
+    }
+  ],
+  "note": "仅提取最终模型折外汇总，原始完整记录保留在项目baseline/results/40-final-model。"
+}

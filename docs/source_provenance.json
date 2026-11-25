@@ -1,0 +1,302 @@
+[
+  {
+    "source": "baseline/benchmark.py",
+    "symbol": "tile_starts",
+    "source_sha256": "50f06bb5cef15dabfdb23206da877b2265cf58660b10367fc86234de5393936e",
+    "function_sha256": "b198c2f96f486434101265460b4d24b54053620ab0fd9be87242d51879aefeae"
+  },
+  {
+    "source": "baseline/benchmark.py",
+    "symbol": "read_tile",
+    "source_sha256": "50f06bb5cef15dabfdb23206da877b2265cf58660b10367fc86234de5393936e",
+    "function_sha256": "ceca75046e7daa91272fa025d879e0ad017be649f91cb5e7b29c7f9c5ce7d246"
+  },
+  {
+    "source": "baseline/benchmark.py",
+    "symbol": "candidate_peaks",
+    "source_sha256": "50f06bb5cef15dabfdb23206da877b2265cf58660b10367fc86234de5393936e",
+    "function_sha256": "df39890103e91f3d0c60eeb1444b6cd9f5d36e8f87e22b88423c6a962d8cc5ea"
+  },
+  {
+    "source": "baseline/benchmark.py",
+    "symbol": "label_mask",
+    "source_sha256": "50f06bb5cef15dabfdb23206da877b2265cf58660b10367fc86234de5393936e",
+    "function_sha256": "4e6a1867aa4ab4690734e127d4ab04d80523a54ba3386a7836f2eec3109bf73c"
+  },
+  {
+    "source": "baseline/study_common.py",
+    "symbol": "digest",
+    "source_sha256": "0f0a33033518f6fbb344e1705eb58cdd2ca43e01e12cd6a5b9da7d112f8ab7aa",
+    "function_sha256": "880f75d5f98ed5ba97930160125e8fe32a007b046761561416f3166f44696bb1"
+  },
+  {
+    "source": "baseline/study_common.py",
+    "symbol": "save_json",
+    "source_sha256": "0f0a33033518f6fbb344e1705eb58cdd2ca43e01e12cd6a5b9da7d112f8ab7aa",
+    "function_sha256": "68f87885e73a020225eb4abd781dbd4c109f8d005da722472ed57640129fb0b1"
+  },
+  {
+    "source": "baseline/study_common.py",
+    "symbol": "layout",
+    "source_sha256": "0f0a33033518f6fbb344e1705eb58cdd2ca43e01e12cd6a5b9da7d112f8ab7aa",
+    "function_sha256": "9bf35203d6a56c95d950100aae5dc16cdc66ae40cced32253d31d45bf70a2748"
+  },
+  {
+    "source": "baseline/study_common.py",
+    "symbol": "evaluation_mask",
+    "source_sha256": "0f0a33033518f6fbb344e1705eb58cdd2ca43e01e12cd6a5b9da7d112f8ab7aa",
+    "function_sha256": "67cfbcd48a73a88d9dc968c31f30c385c9f856483345457ab9967e4268435c3c"
+  },
+  {
+    "source": "baseline/build_training_samples.py",
+    "symbol": "image_array",
+    "source_sha256": "8c05817f91e050bb58ab9063f1152c6011dd22ff7820e04880b845855a6c6e69",
+    "function_sha256": "6e2b7f76d414916e41bbd7cf62366c46a906098d4cc19fa52b4846c1bb944fb5"
+  },
+  {
+    "source": "baseline/final_bubble_percentile.py",
+    "symbol": "bubble_ranks",
+    "source_sha256": "fc314ad7a2a2ea314a9008d729df2c2b00a3328087096dbe559c290a88f000b5",
+    "function_sha256": "6aec89b287092bf448df3015a042d46e8a92df4d93bc75e611ae96357f9075f8"
+  },
+  {
+    "source": "baseline/course_evaluate.py",
+    "symbol": "geometry_class",
+    "source_sha256": "f133b490fb557b8539b74531593ce464c9cb61a0e0517b7cdd7674dce826e371",
+    "function_sha256": "fccff146ffa5e852d29b314dc1ca465518c9b8513a5abf7fe6f469931ff963c3"
+  },
+  {
+    "source": "baseline/course_evaluate.py",
+    "symbol": "raw_line",
+    "source_sha256": "f133b490fb557b8539b74531593ce464c9cb61a0e0517b7cdd7674dce826e371",
+    "function_sha256": "c9a18c8bc1aa0cb90bda0b3e6665ee3ff7b47e11ff27fbf5795b63673d4303e2"
+  },
+  {
+    "source": "baseline/course_evaluate.py",
+    "symbol": "raw_center",
+    "source_sha256": "f133b490fb557b8539b74531593ce464c9cb61a0e0517b7cdd7674dce826e371",
+    "function_sha256": "b99537b9b10cf785d5056e559f6954e80d47a1f16a824a7e86a7d3d77503554a"
+  },
+  {
+    "source": "baseline/review_marked_clouds.py",
+    "symbol": "raw_window",
+    "source_sha256": "cc1a75dd13aa55729ebfecf32151ba2652a5a8264b8de4ffab001545369ebf19",
+    "function_sha256": "1003bf486dda14fe738a4a87e4e8af0f56114102e4001006fd9aa233daa384ca"
+  },
+  {
+    "source": "baseline/review_marked_clouds.py",
+    "symbol": "local_residual",
+    "source_sha256": "cc1a75dd13aa55729ebfecf32151ba2652a5a8264b8de4ffab001545369ebf19",
+    "function_sha256": "4f424c59b36987f945fb4be3f996276f4512f3803664cc0125b058eeb9bdc087"
+  },
+  {
+    "source": "baseline/trial_candidate_region.py",
+    "symbol": "box_sum",
+    "source_sha256": "0b36dd60eec10ef3ba24486f8b68d3b162199212c3e4c4ec1616d0e7fde137b5",
+    "function_sha256": "2994850471fa8f32b06b72e98243d9ecb68ef178c1b0f47ccb539209a11a09eb"
+  },
+  {
+    "source": "baseline/trial_candidate_region.py",
+    "symbol": "metrics",
+    "source_sha256": "0b36dd60eec10ef3ba24486f8b68d3b162199212c3e4c4ec1616d0e7fde137b5",
+    "function_sha256": "05fed5711f307deeb2dff38f6722e62affeb5b919c7daf7b877bc5d4b053147f"
+  },
+  {
+    "source": "baseline/trial_candidate_region.py",
+    "symbol": "classify",
+    "source_sha256": "0b36dd60eec10ef3ba24486f8b68d3b162199212c3e4c4ec1616d0e7fde137b5",
+    "function_sha256": "1f436553337cbca99425d78876d8c005b284c4a576ba31ef9151ac42051ab0b8"
+  },
+  {
+    "source": "baseline/trial_cloud_profiles.py",
+    "symbol": "hole_component",
+    "source_sha256": "4e1614e36bd6a6d19753c611c8dcaafe6609d0c70a303f0b9de2f3e05feccf13",
+    "function_sha256": "bf3f72d2ca9db404383c46a80638c2a5106dd2102dcf3768208732358eb65061"
+  },
+  {
+    "source": "baseline/trial_cloud_profiles.py",
+    "symbol": "get_patch",
+    "source_sha256": "4e1614e36bd6a6d19753c611c8dcaafe6609d0c70a303f0b9de2f3e05feccf13",
+    "function_sha256": "912a1cdcd100d496fc35d42549039fb36dc74505f826d6316be98153922854a7"
+  },
+  {
+    "source": "baseline/trial_cloud_profiles.py",
+    "symbol": "assess",
+    "source_sha256": "4e1614e36bd6a6d19753c611c8dcaafe6609d0c70a303f0b9de2f3e05feccf13",
+    "function_sha256": "94af40218a92ac26d5b4808594ed4cbddf9beb77967f27155eb360b468055c65"
+  },
+  {
+    "source": "baseline/refine.py",
+    "symbol": "reduce_radial",
+    "source_sha256": "a613855064cc70e94c32a8d43e58b3215f67fa9a8c7157791c6f2cd7bc3c8714",
+    "function_sha256": "c86de26e27597f1a391af146ea25e1a32512b33eee1b5e2d500fd7dfa12973a2"
+  },
+  {
+    "source": "baseline/refine.py",
+    "symbol": "local_height",
+    "source_sha256": "a613855064cc70e94c32a8d43e58b3215f67fa9a8c7157791c6f2cd7bc3c8714",
+    "function_sha256": "ca568d2d3de26125153c496d27c4231eb897f03c0d2d23634063cf320e938b81"
+  },
+  {
+    "source": "baseline/refine.py",
+    "symbol": "remove_texture",
+    "source_sha256": "a613855064cc70e94c32a8d43e58b3215f67fa9a8c7157791c6f2cd7bc3c8714",
+    "function_sha256": "50605439b2980bb337ffe4e20e4d6ecac2951c88ae47ff2c4bef03aa88da4527"
+  },
+  {
+    "source": "baseline/raw_3d_grid.py",
+    "symbol": "sample_profile",
+    "source_sha256": "8632c6b4703f6d270af85d2f7cfddc509b3adbdea60a2f00d451cdd4485747ef",
+    "function_sha256": "53244da686b346bfdbaddb40b67de37d19c895a4d2c0d64d398780f9dc142931"
+  },
+  {
+    "source": "baseline/raw_3d_comparison.py",
+    "symbol": "descriptors",
+    "source_sha256": "4a5c72b5d725b8482518d295210c6f72cfbf5d89d4cd344b0c4118bcae5bcc91",
+    "function_sha256": "ab1befe6245e407c77f26c8d475362f6c928e25b81b7355edab639955ebf5f04"
+  },
+  {
+    "source": "baseline/raw_3d_comparison.py",
+    "symbol": "masked_mean",
+    "source_sha256": "4a5c72b5d725b8482518d295210c6f72cfbf5d89d4cd344b0c4118bcae5bcc91",
+    "function_sha256": "f00ad3f9d370f07af2dbb7f33f1702dee41995bc665d9a6f331628c7763ffd81"
+  },
+  {
+    "source": "baseline/raw_3d_comparison.py",
+    "symbol": "shift_rows",
+    "source_sha256": "4a5c72b5d725b8482518d295210c6f72cfbf5d89d4cd344b0c4118bcae5bcc91",
+    "function_sha256": "951444d135fc4723e19c0fd108465c3a01f7a0f574270dc63b804a72effb1f4a"
+  },
+  {
+    "source": "baseline/raw_3d_comparison.py",
+    "symbol": "repeat_residual",
+    "source_sha256": "4a5c72b5d725b8482518d295210c6f72cfbf5d89d4cd344b0c4118bcae5bcc91",
+    "function_sha256": "baaa032ff721148b77dd16402ba3b046073f2851e3cd145f1b44cccf4b36a07f"
+  },
+  {
+    "source": "baseline/normal_depth_geometry.py",
+    "symbol": "_box_counts",
+    "source_sha256": "2ecdf3f8f7c6aeefe1d2e51561406b31894f740a4a0e79d8b3a89486b1aa9681",
+    "function_sha256": "8075f3ac551bb1fa2bb1fdbc1be26857b4fffd30b2ad3465e9c8d99a4937652d"
+  },
+  {
+    "source": "baseline/normal_depth_geometry.py",
+    "symbol": "scale_features",
+    "source_sha256": "2ecdf3f8f7c6aeefe1d2e51561406b31894f740a4a0e79d8b3a89486b1aa9681",
+    "function_sha256": "52ba8d14f109b21feee0cc5a1c1e7cc706f8abd86b49e9263e59a1c1aea59a7b"
+  },
+  {
+    "source": "baseline/trial_periodic_geometry.py",
+    "symbol": "estimate_period",
+    "source_sha256": "2eafa0494a24903882e7e091a5f67b1ca94770b62525825d1016dbd9f4b8fb7e",
+    "function_sha256": "01f905560e49fb33114aa75d4cd94903c2561d1caef863c5f39e2c250fee236d"
+  },
+  {
+    "source": "baseline/trial_normal_depth_candidates.py",
+    "symbol": "flank_context",
+    "source_sha256": "7384e6414e89061dcc90a1ab0479aa071f7e428eed407abec58ba03fbf37ad12",
+    "function_sha256": "e2ebf67119e5b50d38073395a76fa77038c4ea555887612e99d235a6ce96fb1f"
+  },
+  {
+    "source": "baseline/trial_normal_depth_candidates.py",
+    "symbol": "common_phase_residual",
+    "source_sha256": "7384e6414e89061dcc90a1ab0479aa071f7e428eed407abec58ba03fbf37ad12",
+    "function_sha256": "cd8bbf4416034441460bd076ff5b9d3dedb83f2c9c93b52dfd7174b624c694b4"
+  },
+  {
+    "source": "baseline/frozen_normal_depth_donors.py",
+    "symbol": "donor_background_at_new_points",
+    "source_sha256": "12a8543ee13d19185bd713c763036de3efe53af1cf3a17bcd70fb5621e31b62e",
+    "function_sha256": "ef43b25e1183e75c9aa8156bcec137ff9a62135d5c88ab3ae2881f0dfe91b850"
+  },
+  {
+    "source": "baseline/trial_normal_depth_4mm.py",
+    "symbol": "score_residual",
+    "source_sha256": "9f89936cc0c13e094ce3bfa00b3a5912bba59ddf23157c91fd86b525c3fa3406",
+    "function_sha256": "5ec0471a9bb477cd7a95cb79b7ddf7dbdbaa4796f8b748a2635fcd9a66fdc10a"
+  },
+  {
+    "source": "baseline/trial_normal_depth_4mm.py",
+    "symbol": "compute",
+    "source_sha256": "9f89936cc0c13e094ce3bfa00b3a5912bba59ddf23157c91fd86b525c3fa3406",
+    "function_sha256": "bf248b4c8d67dbc6bf27b993341793c36812816e67700d3e14b1e05e045f60dc"
+  },
+  {
+    "source": "baseline/trial_normal_depth_4mm_frozen.py",
+    "symbol": "extend_scores",
+    "source_sha256": "6994236e4e0079231536048546b7b2e799dce60fcaa7fc445222299334f23fd3",
+    "function_sha256": "b4034566eb13cd173917994f0463d265a8e20d4c40173e39d61a45841a8d2b6b"
+  },
+  {
+    "source": "baseline/check_candidate_ranking.py",
+    "symbol": "distance",
+    "source_sha256": "3be93ed70d3e1d0dc17ca00371f4e1b09866c7d1c30751d212810372f0b1b252",
+    "function_sha256": "0377b1b2ec3bf2c3b4e0ae29a953b504eab7766bdc0036626bf35588f1b57820"
+  },
+  {
+    "source": "baseline/check_candidate_ranking.py",
+    "symbol": "take",
+    "source_sha256": "3be93ed70d3e1d0dc17ca00371f4e1b09866c7d1c30751d212810372f0b1b252",
+    "function_sha256": "901370a899487f942bd0cb1e171f4c2186b3ce52a2e29483f43af9904c490e92"
+  },
+  {
+    "source": "baseline/check_candidate_ranking.py",
+    "symbol": "merge",
+    "source_sha256": "3be93ed70d3e1d0dc17ca00371f4e1b09866c7d1c30751d212810372f0b1b252",
+    "function_sha256": "6d83b2f0e84b3e931854c1087f6cce2a497464b319534556e33c340aaf7f4487"
+  },
+  {
+    "source": "baseline/check_persistent_misses.py",
+    "symbol": "r3",
+    "source_sha256": "b3cdce22ccf52d741b63c6c8a5beab857ece9cc284eed067fda210445cbdda18",
+    "function_sha256": "ffdcd2b8f41ee39790b756525a1b3111d49d141eace81c19d2abd83c9f6083d1"
+  },
+  {
+    "source": "baseline/check_geometry_tail.py",
+    "symbol": "supplement",
+    "source_sha256": "c202eac25cd63c9f443412931559dce21bab0268cf4d11e333e1d32258c451cc",
+    "function_sha256": "d6391d816bc4fe1b1ea8c71a3683e05e65f2877068b29add78c9d09ea821c9eb"
+  },
+  {
+    "source": "baseline/trial_rank_fusion.py",
+    "symbol": "associate",
+    "source_sha256": "0f23cf9e37e198da5a8f6e2b132e96261684c403a1bcd4962131ec045cc87f86",
+    "function_sha256": "c1393b262add041889a9c387a6ced26bc6b41163aae6251475a646d12e5f9ef9"
+  },
+  {
+    "source": "baseline/trial_rank_fusion.py",
+    "symbol": "rerank",
+    "source_sha256": "0f23cf9e37e198da5a8f6e2b132e96261684c403a1bcd4962131ec045cc87f86",
+    "function_sha256": "83dcfcdb80deded16dcb48d688182e9fc8a2dfb2fd48d6eb96598c313bae0cb0"
+  },
+  {
+    "source": "baseline/evaluate_transverse_band_nms48.py",
+    "symbol": "band_peaks",
+    "source_sha256": "378798d8d8058a3197844497e5a1293950be2f6982eaacf8f52feb75fc654574",
+    "function_sha256": "d0ec39a3647128d59accace24f43fc8246688dbdad446a63cc91005ad5168b9e"
+  },
+  {
+    "source": "baseline/evaluate_transverse_band_local_significance.py",
+    "symbol": "add_significance",
+    "source_sha256": "02148d4f9c2fa4965cc83ae780b20fe91addc9ebf584cda7fee10a9b656ce014",
+    "function_sha256": "dcaa8c36666bfabe911d7c17d4141ccd351ee3129a8be8a284fb3e9c6fe42aae"
+  },
+  {
+    "source": "baseline/evaluate_transverse_band_local_significance.py",
+    "symbol": "priority",
+    "source_sha256": "02148d4f9c2fa4965cc83ae780b20fe91addc9ebf584cda7fee10a9b656ce014",
+    "function_sha256": "8e94e86086ce3cc62090e11fa7714a07ca1dc668a62ed9cf9b4f5046a1df227f"
+  },
+  {
+    "source": "baseline/prepare.py",
+    "symbol": "read_scan",
+    "source_sha256": "95878d9144e6b6834207f094419b4d2823a963f1e9f14aec0105ebc3e3514a8f",
+    "function_sha256": "fa374bf23d142aa19f94d3dbea05a441d6a04b0a220e57ae802e6eeb6cd32874"
+  },
+  {
+    "source": "baseline/prepare.py",
+    "symbol": "repair_to_disk",
+    "source_sha256": "95878d9144e6b6834207f094419b4d2823a963f1e9f14aec0105ebc3e3514a8f",
+    "function_sha256": "286e4a01c6594ed4c81528bad1d042d4246290f054db9f1dc8cd0417b051fa55"
+  }
+]

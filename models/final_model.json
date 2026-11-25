@@ -1,0 +1,359 @@
+{
+  "tag": "dino_mlp-identity",
+  "model": "dino_mlp",
+  "arm": "identity",
+  "final_head": {
+    "feature_names": [
+      "p95_mm",
+      "max_step_p99_mm",
+      "log1p_missing_pct",
+      "bubble_log_tail_percentile"
+    ],
+    "mean": [
+      1.3177704860877661,
+      1.7689026699066395,
+      1.4061622407219694,
+      4.232477350710572
+    ],
+    "scale": [
+      0.5622715290628901,
+      3.2265026793464187,
+      1.1576560059381868,
+      0.9179495174911255
+    ],
+    "coefficients": [
+      1.0533813744704,
+      -0.29254022027627713,
+      1.2477188977203872,
+      -0.3904156356462667
+    ],
+    "intercept": -0.11495886807313965,
+    "C": 1.0,
+    "samples": 16,
+    "targets": {
+      "bubble": 9,
+      "attachment": 6
+    },
+    "tires": [
+      "G6A4F54426",
+      "G6A4F54444",
+      "G6B1F56018",
+      "G6B1F56095",
+      "G6B6F55655",
+      "G6B7F55777",
+      "G6C2F55859",
+      "G6C5F57555",
+      "G6D2F55996"
+    ]
+  },
+  "fold_heads": [
+    {
+      "fold": 0,
+      "train": [
+        "G6B1F56018",
+        "G6B1F56073",
+        "G6B1F56095",
+        "G6C2F55859",
+        "G6C5F57555",
+        "G6D2F55996"
+      ],
+      "test": [
+        "G6A4F54426",
+        "G6B6F55655"
+      ],
+      "head": {
+        "feature_names": [
+          "p95_mm",
+          "max_step_p99_mm",
+          "log1p_missing_pct",
+          "bubble_log_tail_percentile"
+        ],
+        "mean": [
+          1.268156755193236,
+          0.983458142612479,
+          1.418002584929881,
+          4.522340583728119
+        ],
+        "scale": [
+          0.643115083613899,
+          0.6933473640830697,
+          1.1708714514232619,
+          0.8837674971368155
+        ],
+        "coefficients": [
+          0.7165963004962143,
+          0.8081581382221553,
+          0.8840014078358508,
+          -0.5675273572946457
+        ],
+        "intercept": 0.09303133688218061,
+        "C": 1.0,
+        "samples": 11,
+        "targets": {
+          "attachment": 5,
+          "bubble": 5
+        },
+        "tires": [
+          "G6B1F56018",
+          "G6B1F56095",
+          "G6C2F55859",
+          "G6C5F57555",
+          "G6D2F55996"
+        ]
+      }
+    },
+    {
+      "fold": 1,
+      "train": [
+        "G6A4F54426",
+        "G6B1F56073",
+        "G6B1F56095",
+        "G6B6F55655",
+        "G6C5F57555",
+        "G6D2F55996"
+      ],
+      "test": [
+        "G6A4F54444",
+        "G6B7F55777"
+      ],
+      "head": {
+        "feature_names": [
+          "p95_mm",
+          "max_step_p99_mm",
+          "log1p_missing_pct",
+          "bubble_log_tail_percentile"
+        ],
+        "mean": [
+          1.5875696595633175,
+          1.3166471456381625,
+          1.3143134919457293,
+          4.358375386747807
+        ],
+        "scale": [
+          0.7437839669650048,
+          0.8919542971074459,
+          1.0452645959800144,
+          1.0513768363977922
+        ],
+        "coefficients": [
+          0.5447913343259002,
+          0.8129445244906212,
+          0.4612296280781482,
+          -0.6969033849544072
+        ],
+        "intercept": -0.05132884791900767,
+        "C": 1.0,
+        "samples": 8,
+        "targets": {
+          "bubble": 5,
+          "attachment": 2
+        },
+        "tires": [
+          "G6A4F54426",
+          "G6B1F56095",
+          "G6B6F55655",
+          "G6C5F57555",
+          "G6D2F55996"
+        ]
+      }
+    },
+    {
+      "fold": 2,
+      "train": [
+        "G6A4F54426",
+        "G6A4F54444",
+        "G6B1F56095",
+        "G6B6F55655",
+        "G6B7F55777",
+        "G6D2F55996"
+      ],
+      "test": [
+        "G6B1F56018",
+        "G6C2F55859"
+      ],
+      "head": {
+        "feature_names": [
+          "p95_mm",
+          "max_step_p99_mm",
+          "log1p_missing_pct",
+          "bubble_log_tail_percentile"
+        ],
+        "mean": [
+          1.2906912831308455,
+          2.2004342088011213,
+          1.4640575102836195,
+          4.128993676979444
+        ],
+        "scale": [
+          0.3352414367888844,
+          3.8454482239764873,
+          1.0824332778146566,
+          0.9407664196209351
+        ],
+        "coefficients": [
+          0.8911086232378642,
+          -0.30628931267568876,
+          0.7437459001045961,
+          -0.7660027887414822
+        ],
+        "intercept": -0.12464697279821338,
+        "C": 1.0,
+        "samples": 9,
+        "targets": {
+          "bubble": 6,
+          "attachment": 2
+        },
+        "tires": [
+          "G6A4F54426",
+          "G6A4F54444",
+          "G6B1F56095",
+          "G6B6F55655",
+          "G6B7F55777",
+          "G6D2F55996"
+        ]
+      }
+    },
+    {
+      "fold": 3,
+      "train": [
+        "G6A4F54426",
+        "G6A4F54444",
+        "G6B1F56018",
+        "G6B6F55655",
+        "G6B7F55777",
+        "G6C2F55859"
+      ],
+      "test": [
+        "G6B1F56073",
+        "G6C5F57555"
+      ],
+      "head": {
+        "feature_names": [
+          "p95_mm",
+          "max_step_p99_mm",
+          "log1p_missing_pct",
+          "bubble_log_tail_percentile"
+        ],
+        "mean": [
+          1.2157358701603915,
+          2.0062138570562,
+          1.3862654793010558,
+          4.115937476845553
+        ],
+        "scale": [
+          0.35514561413548507,
+          3.8769566079837516,
+          1.2182112136110246,
+          1.4223498440875777
+        ],
+        "coefficients": [
+          0.8531359230725999,
+          -0.35533516636040274,
+          1.1916179068516306,
+          -0.23626156122956088
+        ],
+        "intercept": -0.01955083437899083,
+        "C": 1.0,
+        "samples": 10,
+        "targets": {
+          "bubble": 6,
+          "attachment": 4
+        },
+        "tires": [
+          "G6A4F54426",
+          "G6A4F54444",
+          "G6B1F56018",
+          "G6B6F55655",
+          "G6B7F55777",
+          "G6C2F55859"
+        ]
+      }
+    },
+    {
+      "fold": 4,
+      "train": [
+        "G6A4F54444",
+        "G6B1F56018",
+        "G6B1F56073",
+        "G6B7F55777",
+        "G6C2F55859",
+        "G6C5F57555"
+      ],
+      "test": [
+        "G6B1F56095",
+        "G6D2F55996"
+      ],
+      "head": {
+        "feature_names": [
+          "p95_mm",
+          "max_step_p99_mm",
+          "log1p_missing_pct",
+          "bubble_log_tail_percentile"
+        ],
+        "mean": [
+          1.2764189293785413,
+          2.358751468451365,
+          1.3563217881775702,
+          4.217266750453968
+        ],
+        "scale": [
+          0.6113959343753629,
+          4.196190053722124,
+          1.1884316612756534,
+          0.8126332751514087
+        ],
+        "coefficients": [
+          0.8298284265031952,
+          -0.4077088070395304,
+          1.2094385918940498,
+          -0.22994925634713087
+        ],
+        "intercept": 0.03351621737841546,
+        "C": 1.0,
+        "samples": 10,
+        "targets": {
+          "bubble": 5,
+          "attachment": 5
+        },
+        "tires": [
+          "G6A4F54444",
+          "G6B1F56018",
+          "G6B7F55777",
+          "G6C2F55859",
+          "G6C5F57555"
+        ]
+      }
+    }
+  ],
+  "checkpoints": [
+    {
+      "fold": 0,
+      "path": "models/folds/fold0.pt",
+      "sha256": "5d42f16a284a0b8c8cb947ead0383c0a85f5448120bbf34a2d1a2b38a911a7e8"
+    },
+    {
+      "fold": 1,
+      "path": "models/folds/fold1.pt",
+      "sha256": "b7ddf0efbe8901cc36fe4211137672f6f275849f710d792a076fcb7ec4f7903a"
+    },
+    {
+      "fold": 2,
+      "path": "models/folds/fold2.pt",
+      "sha256": "91bc284766b7ecd1c6b8c648257a65241df807e0d42e1e540a0b6bf7822c6f8d"
+    },
+    {
+      "fold": 3,
+      "path": "models/folds/fold3.pt",
+      "sha256": "63542730dffae1f9027da53a9b039b509bf194db1d4c08e2657c4eb819497a3b"
+    },
+    {
+      "fold": 4,
+      "path": "models/folds/fold4.pt",
+      "sha256": "0d72b5b47d70c37b3c4e7fddf3f6059a5e3d3f5ad8022e6d643d26027765bbe7"
+    }
+  ],
+  "review_p_attachment_max": 0.2,
+  "review_bubble_support_top": 5,
+  "suggested_frozen_geometry": "stage38",
+  "score_inputs": "Within-tire empirical percentile at the RRF centers, paired with stage 38 geometry features."
+}
